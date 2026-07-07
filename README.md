@@ -22,9 +22,13 @@ Requirements: **macOS 14 or later** (Apple Silicon or Intel).
 3. The app is ad-hoc signed (no paid developer certificate), so macOS quarantines it on first launch. Either:
    - **Right-click** the app → **Open** → **Open** in the dialog, or
    - run `xattr -cr /Applications/TFTOverlay.app` in Terminal, then open it normally.
-4. Look for the gold stack icon in your menu bar. Press **⌥Space** to toggle the overlay.
+4. Look for the stack icon in your menu bar. Press **⌥Space** to toggle the overlay.
 
-> **Important:** League must run in *borderless* (or windowed) mode, not exclusive fullscreen — otherwise no overlay can draw above the game.
+## Fullscreen: use Borderless
+
+For the overlay to draw over the game, set **League → Settings → Video → Window Mode → Borderless**.
+
+Borderless fills the whole display and looks identical to fullscreen, but the system still composites it as a normal window — so overlays can sit on top. *Exclusive* fullscreen takes over the display directly and bypasses the window server, which means **no** overlay (this one or any other, on Mac or Windows) can draw above it. That's a macOS architecture limit, not an app bug — the Windows overlays require Borderless for the same reason.
 
 ## Build from source
 
