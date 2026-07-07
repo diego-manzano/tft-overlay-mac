@@ -1,0 +1,1792 @@
+[
+ {
+  "id": "TFT17_AnimaSquadItem_Tier4_Omniweapon",
+  "name": "Omniweapon",
+  "desc": "The pinnacle of Anima technology.",
+  "icon": "e373ccfa61f168e5.png",
+  "category": "other",
+  "avgPlace": 1.03,
+  "top4": 1.0,
+  "games": 205
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier3_RadiantField",
+  "name": "Solar Eclipse",
+  "desc": "Gain ?% max Health. Every second, deal magic damage in a ?&nbsp;hex radius equal to ?% of the holder's max Health, and gain max Health equal to ?% of damage dealt. Radius increases every ? seconds.\n\nRecommended Roles: Attack or Magic Tank",
+  "icon": "c8c1d16435eac8ec.png",
+  "category": "radiant",
+  "avgPlace": 1.53,
+  "top4": 0.9437,
+  "games": 5432
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier3_SearingShortbow",
+  "name": "Evolved Embershot",
+  "desc": "For every ? mana spent, fire a projectile at a nearby enemy dealing ? + ?% of the holder's Ability Power magic damage, and applying ?% Burn and ?% Wound to enemies for ? seconds. \n\nEach projectile leaves a lingering field that deals ? magic damage to enemies each second.\n\nDamage increases based on Stage.\nBurn: Deals a percent of the target's max Health as true damage every second\nWound: Reduces healing received\nRecommended Roles: Magic Caster",
+  "icon": "f705171d8306473b.png",
+  "category": "other",
+  "avgPlace": 1.54,
+  "top4": 0.9389,
+  "games": 11648
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier3_LionessLament",
+  "name": "Leonine Lamentation",
+  "desc": "Every ?% max health lost, fire crescent projectiles in ? lines dealing physical damage equal to ?% of the holder's Armor and Magic Resist. Steal ? Armor and Magic Resist from all enemies hit.\n\nRecommended Roles: Attack or Magic Tank",
+  "icon": "cadb3b8f96e8511c.png",
+  "category": "other",
+  "avgPlace": 1.61,
+  "top4": 0.9289,
+  "games": 5221
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier3_IceblastArmor",
+  "name": "Deep Freeze",
+  "desc": "The first time you fall below ?%, ?%, ?%, and ?% health, gain a ?% max health shield for ? seconds. When this happens, release a frost nova that stuns enemies within ? hexes for ? seconds and deals magic damage equal to ?% of their max Health.\n\nThe radius increases by ? each nova.\n\nRecommended Roles: Attack or Magic Tank",
+  "icon": "b5f3b40b0ee015bd.png",
+  "category": "other",
+  "avgPlace": 2.17,
+  "top4": 0.8464,
+  "games": 5397
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier3_Annihilator",
+  "name": "Animapocalypse",
+  "desc": "Store ?% of damage dealt. Every ? seconds and on death, deal the stored damage as true damage to all enemies, reduced by ?% for each hex they are from the epicenter.\n\nRecommended Roles: Attack or Magic Caster",
+  "icon": "f630350c6edae8ac.png",
+  "category": "other",
+  "avgPlace": 2.28,
+  "top4": 0.8374,
+  "games": 5185
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier3_UwuBlaster",
+  "name": "OwO Blaster",
+  "desc": "Every attack, fire ? laser blasts random targets in range, dealing ?% of the holder's Attack Damage as physical damage.\n\nRecommended Roles: Attack Marksman",
+  "icon": "29d8616dc44868f2.png",
+  "category": "other",
+  "avgPlace": 2.34,
+  "top4": 0.8354,
+  "games": 7711
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier3_BattleBunnyCrossbow",
+  "name": "Bunny Prime Ballista",
+  "desc": "Gain Precision.\n\nEvery ? critical strikes, fire ? piercing arrows that can critically strike towards the target. Each deals ?% %i:TFTBaseAD% physical damage.\n\nOn takedown, fire a burst of ? arrows from the target.\n\n{{TFT_Keyword_Precision}}\nMax ? stacks per Ability cast.\nRecommended Roles: Attack Marksman or Fighter",
+  "icon": "594334f99e09410a.png",
+  "category": "other",
+  "avgPlace": 2.4,
+  "top4": 0.8155,
+  "games": 5100
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier3_CyclonicSlicers",
+  "name": "Unceasing Cyclone",
+  "desc": "Gain 6 orbiting razors. Razors deal ? true damage, and 30% Shred and Sunder enemies for the rest of combat. Deal ?% increased damage to Shredded or Sundered enemies.\n\nDamage increases based on Stage.\nRecommended Roles: Attack or Magic Fighter",
+  "icon": "abf0592c7f417ce7.png",
+  "category": "other",
+  "avgPlace": 2.44,
+  "top4": 0.8121,
+  "games": 5142
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier3_EchoingBatblades",
+  "name": "Vayne's Chromablades",
+  "desc": "Every ? attacks, fire ? chromablades split between all enemies. Each blade deals ?% %i:TFTBaseAD% physical damage.\n\nRecommended Role: Attack Marksman",
+  "icon": "decb7d588145fa0b.png",
+  "category": "other",
+  "avgPlace": 2.65,
+  "top4": 0.7843,
+  "games": 4974
+ },
+ {
+  "id": "TFT_Item_ForceOfNature",
+  "name": "Tactician's Crown",
+  "desc": "Your team gains +? max team size.\n\n?% chance to drop 1 gold when you win combat.\n\n\"...the Heart of a hero...\"",
+  "icon": "bd59e460abe206d9.png",
+  "category": "completed",
+  "avgPlace": 2.75,
+  "top4": 0.8216,
+  "games": 249025
+ },
+ {
+  "id": "TFT_Item_TacticiansScepter",
+  "name": "Tactician's Shield",
+  "desc": "Your team gains +? max team size.\n\n?% chance to drop 1 gold when the holder dies.\n\n\"Imbued with a Philosopher's wisdom...\"",
+  "icon": "ceaae51abe03adc5.png",
+  "category": "completed",
+  "avgPlace": 3.2,
+  "top4": 0.7455,
+  "games": 8819
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier2_LionessLament",
+  "name": "Lioness's Lament",
+  "desc": "Every ?% max health lost, fire crescent projectiles in a line dealing physical damage equal to ?% of the holder's Armor and Magic Resist. Steal ? Armor and Magic Resist from all enemies hit.\n\nRecommended Roles: Attack or Magic Tank",
+  "icon": "402fbb9bb3903710.png",
+  "category": "other",
+  "avgPlace": 3.28,
+  "top4": 0.6932,
+  "games": 134630
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier2_IceblastArmor",
+  "name": "Iceblast Armor",
+  "desc": "The first time you fall below ?% and ?% health, gain a ?% max health shield for ? seconds and release a frost nova that stuns enemies within ? hexes for ? seconds.\n\nRecommended Roles: Attack or Magic Tank",
+  "icon": "1bd170023e087bed.png",
+  "category": "other",
+  "avgPlace": 3.3,
+  "top4": 0.6875,
+  "games": 139711
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier2_Annihilator",
+  "name": "The Annihilator",
+  "desc": "Store ?% of damage dealt. On death or after ? seconds in combat, deal the stored damage as true damage to all enemies, reduced by ?% for each hex they are away from the epicenter.\n\nRecommended Roles: Attack or Magic Caster",
+  "icon": "0528c3132682bb98.png",
+  "category": "other",
+  "avgPlace": 3.31,
+  "top4": 0.6928,
+  "games": 131006
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier2_RadiantField",
+  "name": "Radiant Field",
+  "desc": "Gain ?% max health. Every second, deal magic damage in a ?-hex radius equal to ?% of the holder's max Health. Radius increases every ? seconds.\n\nRecommended Roles: Attack or Magic Tank",
+  "icon": "be5a1f47fa7bf4b6.png",
+  "category": "radiant",
+  "avgPlace": 3.42,
+  "top4": 0.675,
+  "games": 140950
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier2_SearingShortbow",
+  "name": "Searing Shortbow",
+  "desc": "For every ? mana spent, fire a projectile at a nearby enemy, dealing ? + ?% of the holder's Ability Power magic damage and applying ?% Burn and ?% Wound to enemies for ? seconds.\n\nDamage increases based on Stage.\nBurn: Deals a percent of the target's max Health as true damage every second\nWound: Reduces healing received\nRecommended Role: Magic Caster",
+  "icon": "3f7296683bd59801.png",
+  "category": "other",
+  "avgPlace": 3.44,
+  "top4": 0.6731,
+  "games": 132712
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier2_EchoingBatblades",
+  "name": "Echoing Batblades",
+  "desc": "Every ? attacks, fire ? batblades split between the 3 nearest enemies. Each blade deals ?% %i:TFTBaseAD% physical damage.\n\nRecommended Role: Attack Marksman",
+  "icon": "89f823409219ac71.png",
+  "category": "other",
+  "avgPlace": 3.47,
+  "top4": 0.6646,
+  "games": 122849
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier2_CyclonicSlicers",
+  "name": "Cyclonic Slicers",
+  "desc": "Gain 3 orbiting razors. Razors deal ? magic damage, and 30% Shred and Sunder enemies for ? seconds. Deal ?% increased damage to Shredded or Sundered enemies.\n\nDamage increases based on Stage.\nRecommended Roles: Attack or Magic Fighter",
+  "icon": "81039b6933129c3a.png",
+  "category": "other",
+  "avgPlace": 3.59,
+  "top4": 0.648,
+  "games": 123357
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier2_UwuBlaster",
+  "name": "UwU Blaster",
+  "desc": "Every attack, fire ? laser blasts random targets in range, dealing ?% of the holder's Attack Damage as physical damage.\n\nRecommended Role: Attack Marksman",
+  "icon": "f8b0f3c97a12a46b.png",
+  "category": "other",
+  "avgPlace": 3.65,
+  "top4": 0.6369,
+  "games": 118218
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier2_BattleBunnyCrossbow",
+  "name": "Battle Bunny Crossbow",
+  "desc": "Gain Precision.\n\nEvery ? critical strikes, fire ? piercing arrows that can critically strike towards the target. Each deals ?% %i:TFTBaseAD% physical damage.\n\n{{TFT_Keyword_Precision}}\nMax ? stacks per Ability cast.\nRecommended Roles: Attack Marksman or Fighter",
+  "icon": "594334f99e09410a.png",
+  "category": "other",
+  "avgPlace": 3.71,
+  "top4": 0.6293,
+  "games": 294280
+ },
+ {
+  "id": "TFT_Item_Crownguard",
+  "name": "Crownguard",
+  "desc": "Combat Start: Gain a ?% max Health Shield for ? seconds.\n\nWhen the Shield expires, gain ?% Ability Power.",
+  "icon": "895e50378764fc42.png",
+  "category": "completed",
+  "avgPlace": 3.8,
+  "top4": 0.6338,
+  "games": 3079950
+ },
+ {
+  "id": "TFT5_Item_IonicSparkRadiant",
+  "name": "Radiant Ionic Spark",
+  "desc": "?% Shred enemies within ? hexes. When enemies cast an Ability, deal magic damage equal to ?% of the Mana spent.\n\n[Direct damage item]\nShred: Reduce Magic Resist",
+  "icon": "8a25b03c6414e16e.png",
+  "category": "radiant",
+  "avgPlace": 3.81,
+  "top4": 0.6274,
+  "games": 8164
+ },
+ {
+  "id": "TFT_Item_NightHarvester",
+  "name": "Steadfast Heart",
+  "desc": "Gain ?% Durability. While above ?% Health, instead gain ?% Durability.\n\n?",
+  "icon": "bf92d1e85a77c8fe.png",
+  "category": "completed",
+  "avgPlace": 3.81,
+  "top4": 0.6354,
+  "games": 3534917
+ },
+ {
+  "id": "TFT_Item_Morellonomicon",
+  "name": "Morellonomicon",
+  "desc": "Attacks and Abilities deal ?% Burn and ?% Wound to enemies for ? seconds.\n\nBurn: Deals a percent of the target's max Health as true damage every second\nWound: Reduces healing received",
+  "icon": "7d14e1e5280c568e.png",
+  "category": "completed",
+  "avgPlace": 3.83,
+  "top4": 0.6264,
+  "games": 2972755
+ },
+ {
+  "id": "TFT_Item_PowerGauntlet",
+  "name": "Striker's Flail",
+  "desc": "Critical Strikes grant ?% Damage Amp for ? seconds, stacking up to ? times.",
+  "icon": "6c11d8113d9dd446.png",
+  "category": "completed",
+  "avgPlace": 3.85,
+  "top4": 0.624,
+  "games": 3862015
+ },
+ {
+  "id": "TFT_Item_AdaptiveHelm",
+  "name": "Adaptive Helm",
+  "desc": "Gain an additional ?% Mana from all sources. The holder gains an additional bonus based on their Role:\n\nTanks and Fighters: Gain ? Armor and Magic Resistance.\n\nOther Roles: Gain ?% Attack Damage and Ability Power.",
+  "icon": "efffaa8139efd7ad.png",
+  "category": "completed",
+  "avgPlace": 3.88,
+  "top4": 0.6159,
+  "games": 5000898
+ },
+ {
+  "id": "TFT_Item_BrambleVest",
+  "name": "Bramble Vest",
+  "desc": "Gain ?% max health.\n\nTake ?% reduced damage from attacks. When struck by any attack, deal ? magic damage to all adjacent enemies.\n\nCooldown: ? seconds",
+  "icon": "8c06589ca216f271.png",
+  "category": "completed",
+  "avgPlace": 3.88,
+  "top4": 0.6225,
+  "games": 4115364
+ },
+ {
+  "id": "TFT17_Item_FlexTraitEmblemItem",
+  "name": "Voyager Emblem",
+  "desc": "The holder gains the Voyager trait. \n\nCombat Start: The holder and allies within 1 hex in the same row gain a bonus based on the holder's role.\n- Tanks: ? Armor and Magic Resist\n- Fighters/Assassins: ?% Omnivamp\n- Other Roles: ?% Attack Speed",
+  "icon": "297772c6739b81c8.png",
+  "category": "emblem",
+  "avgPlace": 3.9,
+  "top4": 0.5995,
+  "games": 547964
+ },
+ {
+  "id": "TFT_Item_IonicSpark",
+  "name": "Ionic Spark",
+  "desc": "?% Shred enemies within ? hexes. When enemies cast an Ability, deal magic damage equal to ?% of the Mana spent\n\nShred: Reduce Magic Resist",
+  "icon": "07d07350751f359a.png",
+  "category": "completed",
+  "avgPlace": 3.91,
+  "top4": 0.6104,
+  "games": 2258714
+ },
+ {
+  "id": "TFT_Item_SteraksGage",
+  "name": "Sterak's Gage",
+  "desc": "At ?% Health, gain a Shield equal to ?% of the wearer's maximum Health that rapidly decays over ? seconds.",
+  "icon": "0de8369b21cdcbe1.png",
+  "category": "completed",
+  "avgPlace": 3.91,
+  "top4": 0.6132,
+  "games": 3330576
+ },
+ {
+  "id": "TFT_Item_StatikkShiv",
+  "name": "Void Staff",
+  "desc": "Damage from attacks and Abilities ?% Shred the target for ? seconds. This effect does not stack.\n\nShred: Reduce Magic Resist",
+  "icon": "540d0d7d28d5bc27.png",
+  "category": "completed",
+  "avgPlace": 3.92,
+  "top4": 0.609,
+  "games": 4440003
+ },
+ {
+  "id": "TFT_Item_HextechGunblade",
+  "name": "Hextech Gunblade",
+  "desc": "Heal the lowest percent Health ally for ?% of damage dealt.\n\nAlly Healing: ?",
+  "icon": "d27d73d00f0b1ce7.png",
+  "category": "completed",
+  "avgPlace": 3.94,
+  "top4": 0.6054,
+  "games": 2637250
+ },
+ {
+  "id": "TFT_Item_UnstableConcoction",
+  "name": "Hand Of Justice",
+  "desc": "Gain 2 effects:?% Attack Damage and ?% Ability Power.?% Omnivamp.\n\nWhile above ?% health, double the Attack Damage and Ability Power. While below ?% Health, double the Omnivamp.",
+  "icon": "31c0a9df7625e69c.png",
+  "category": "completed",
+  "avgPlace": 3.94,
+  "top4": 0.609,
+  "games": 4812580
+ },
+ {
+  "id": "TFT_Item_LastWhisper",
+  "name": "Last Whisper",
+  "desc": "Damage from attacks and Abilities ?% Sunder the target for ? seconds. This effect does not stack.\n\nSunder: Reduce Armor",
+  "icon": "5f2ec041371ff67e.png",
+  "category": "completed",
+  "avgPlace": 3.95,
+  "top4": 0.6048,
+  "games": 4548937
+ },
+ {
+  "id": "TFT_Item_RapidFireCannon",
+  "name": "Red Buff",
+  "desc": "Attacks and Abilities ?% Burn and ?% Wound enemies for ? seconds.\n\nBurn: Deals a percent of the target's max Health as true damage every second\nWound: Reduces healing received",
+  "icon": "c79e7e2a0d0c1e89.png",
+  "category": "completed",
+  "avgPlace": 3.95,
+  "top4": 0.6035,
+  "games": 4504893
+ },
+ {
+  "id": "TFT5_Item_MorellonomiconRadiant",
+  "name": "Radiant Morellonomicon",
+  "desc": "Attacks and Abilities deal ?% Burn and ?% Wound to enemies for ? seconds.\n\nBurn: Deals a percent of the target's max Health as true damage every second\nWound: Reduces healing received",
+  "icon": "02d5e636962fc343.png",
+  "category": "radiant",
+  "avgPlace": 3.97,
+  "top4": 0.5998,
+  "games": 9959
+ },
+ {
+  "id": "TFT_Item_GuardianAngel",
+  "name": "Edge of Night",
+  "desc": "At ?% Health, briefly become untargetable, shed negative effects, and heal ?% missing health.",
+  "icon": "853555e601c182fd.png",
+  "category": "completed",
+  "avgPlace": 3.97,
+  "top4": 0.6022,
+  "games": 3744794
+ },
+ {
+  "id": "TFT_Item_RabadonsDeathcap",
+  "name": "Rabadon's Deathcap",
+  "desc": "This humble hat can help you make, or unmake, the world itself.\n\n?",
+  "icon": "7a6961fcc382d711.png",
+  "category": "completed",
+  "avgPlace": 3.97,
+  "top4": 0.6009,
+  "games": 5917154
+ },
+ {
+  "id": "TFT_Item_ThiefsGloves",
+  "name": "Thief's Gloves",
+  "desc": "Each round: Equip 2 random items.\n\n[Consumes 3 item slots.]\n?",
+  "icon": "c5ba4204e23d7f26.png",
+  "category": "completed",
+  "avgPlace": 3.97,
+  "top4": 0.5989,
+  "games": 7635709
+ },
+ {
+  "id": "TFT5_Item_SpectralGauntletRadiant",
+  "name": "Radiant Evenshroud",
+  "desc": "?% Sunder enemies within ? hexes. Gain ? Armor and Magic Resist for the first ? seconds of combat.\n\nSunder: Reduce Armor",
+  "icon": "be51bf362ac7e493.png",
+  "category": "radiant",
+  "avgPlace": 3.98,
+  "top4": 0.5911,
+  "games": 8257
+ },
+ {
+  "id": "TFT_Item_DragonsClaw",
+  "name": "Dragon's Claw",
+  "desc": "Gain ?% max health.\n\nEvery ? seconds, heal ?% max Health.",
+  "icon": "bc47c2f7ba1a89e3.png",
+  "category": "completed",
+  "avgPlace": 3.99,
+  "top4": 0.5991,
+  "games": 4722570
+ },
+ {
+  "id": "TFT17_Item_StargazerEmblemItem",
+  "name": "Stargazer Emblem",
+  "desc": "The holder gains the Stargazer trait.",
+  "icon": "caf4f8a61ee6a72b.png",
+  "category": "emblem",
+  "avgPlace": 4.01,
+  "top4": 0.5834,
+  "games": 2018424
+ },
+ {
+  "id": "TFT5_Item_LastWhisperRadiant",
+  "name": "Radiant Last Whisper",
+  "desc": "Damage from attacks and Abilities ?% Sunder the target for the rest of combat. This effect does not stack.\n\nSunder: Reduce Armor",
+  "icon": "0d3c9298c23efd52.png",
+  "category": "radiant",
+  "avgPlace": 4.01,
+  "top4": 0.5962,
+  "games": 20959
+ },
+ {
+  "id": "TFT_Item_MadredsBloodrazor",
+  "name": "Giant Slayer",
+  "desc": "Gain ?% additional Damage Amp against Tanks.",
+  "icon": "085234fb2842b1fe.png",
+  "category": "completed",
+  "avgPlace": 4.01,
+  "top4": 0.5933,
+  "games": 10892161
+ },
+ {
+  "id": "TFT_Item_Quicksilver",
+  "name": "Quicksilver",
+  "desc": "Combat Start: Gain immunity to crowd control for ? seconds.\n\nGain ?% stacking Attack Speed every second.",
+  "icon": "021131a2bc82b58a.png",
+  "category": "completed",
+  "avgPlace": 4.01,
+  "top4": 0.593,
+  "games": 2625045
+ },
+ {
+  "id": "TFT5_Item_HextechGunbladeRadiant",
+  "name": "Radiant Hextech Gunblade",
+  "desc": "Heal the lowest percent Health ally for ?% of damage dealt.\n\nAlly Healing: ?",
+  "icon": "5362eb3414aa51b7.png",
+  "category": "radiant",
+  "avgPlace": 4.02,
+  "top4": 0.5871,
+  "games": 14338
+ },
+ {
+  "id": "TFT5_Item_SunfireCapeRadiant",
+  "name": "Radiant Sunfire Cape",
+  "desc": "Gain ?% max Health.\n\nEvery ? seconds, deal ?% Burn and ?% Wound to an enemy within ? hexes for ? seconds.\n\nBurn: Deals a percent of the target's max Health as true damage every second\nWound: reduces healing received",
+  "icon": "aa2171bb561ab5d8.png",
+  "category": "radiant",
+  "avgPlace": 4.03,
+  "top4": 0.5932,
+  "games": 17559
+ },
+ {
+  "id": "TFT_Item_Deathblade",
+  "name": "Deathblade",
+  "desc": "Perfect peace and calm for the holder - and all who face it.\n\n?",
+  "icon": "c03e276b1288b359.png",
+  "category": "completed",
+  "avgPlace": 4.03,
+  "top4": 0.5907,
+  "games": 7328483
+ },
+ {
+  "id": "TFT5_Item_InfinityEdgeRadiant",
+  "name": "Radiant Infinity Edge",
+  "desc": "Gain Precision.\n\n{{TFT_Keyword_Precision}}",
+  "icon": "acbebe84209f15b5.png",
+  "category": "radiant",
+  "avgPlace": 4.04,
+  "top4": 0.5882,
+  "games": 60312
+ },
+ {
+  "id": "TFT_Item_Artifact_TitanicHydra",
+  "name": "Titanic Hydra",
+  "desc": "Attacks deal ?% of the holder's max Health plus ?% of their Attack Damage as bonus physical damage to the target and adjacent enemies.",
+  "icon": "ccfe9234001731be.png",
+  "category": "artifact",
+  "avgPlace": 4.04,
+  "top4": 0.5854,
+  "games": 152811
+ },
+ {
+  "id": "TFT_Item_FrozenHeart",
+  "name": "Protector's Vow",
+  "desc": "Combat Start: Gain ? Mana.\n\nAt ?% Health, gain ? Mana and a Shield equal to ?% max Health.",
+  "icon": "3cd8b56157eda0bc.png",
+  "category": "completed",
+  "avgPlace": 4.04,
+  "top4": 0.5843,
+  "games": 8429346
+ },
+ {
+  "id": "TFT_Item_ArchangelsStaff",
+  "name": "Archangel's Staff",
+  "desc": "Combat start: Gain ?% Ability Power every ? seconds in combat.",
+  "icon": "5cfb8e2eb7b21a28.png",
+  "category": "completed",
+  "avgPlace": 4.05,
+  "top4": 0.5854,
+  "games": 2878869
+ },
+ {
+  "id": "TFT17_Item_SpaceGrooveEmblemItem",
+  "name": "Space Groove Emblem",
+  "desc": "The holder gains the Space Groove trait. On cast, the holder enters {{TFT17_SpaceGroove_TheGroove}} for ? seconds.\n\nCan only occur once every ? seconds.",
+  "icon": "c4c3792880f9a1ad.png",
+  "category": "emblem",
+  "avgPlace": 4.06,
+  "top4": 0.58,
+  "games": 893226
+ },
+ {
+  "id": "TFT_Item_RunaansHurricane",
+  "name": "Kraken's Fury",
+  "desc": "Attacks grant ?% stacking Attack Damage, up to ? attacks. After ? attacks, gain ?% Attack Speed.",
+  "icon": "5948bb283d91af25.png",
+  "category": "completed",
+  "avgPlace": 4.06,
+  "top4": 0.5854,
+  "games": 3887759
+ },
+ {
+  "id": "TFT5_Item_RapidFirecannonRadiant",
+  "name": "Radiant Red Buff",
+  "desc": "Attacks and Abilities ?% Burn and ?% Wound enemies for ? seconds.\n\nBurn: Deals a percent of the target's max Health as true damage every second\nWound: Reduces healing received",
+  "icon": "d126c2bee012f61e.png",
+  "category": "radiant",
+  "avgPlace": 4.07,
+  "top4": 0.5793,
+  "games": 30035
+ },
+ {
+  "id": "TFT_Item_Redemption",
+  "name": "Spirit Visage",
+  "desc": "Regenerate ?% of missing Health each second.",
+  "icon": "a6fabaa12af4d889.png",
+  "category": "completed",
+  "avgPlace": 4.07,
+  "top4": 0.5838,
+  "games": 9348332
+ },
+ {
+  "id": "TFT_Item_SpearOfShojin",
+  "name": "Spear of Shojin",
+  "desc": "Attacks grant ? bonus Mana.",
+  "icon": "e8bc6f7ac38b7be3.png",
+  "category": "completed",
+  "avgPlace": 4.07,
+  "top4": 0.5795,
+  "games": 7855971
+ },
+ {
+  "id": "TFT_Item_WarmogsArmor",
+  "name": "Warmog's Armor",
+  "desc": "Gain ?% max Health.",
+  "icon": "05fb06ef5ea4fc8f.png",
+  "category": "completed",
+  "avgPlace": 4.07,
+  "top4": 0.5826,
+  "games": 13462069
+ },
+ {
+  "id": "TFT5_Item_ThiefsGlovesRadiant",
+  "name": "Radiant Thief's Gloves",
+  "desc": "Each round: Equip 2 random Radiant items.\n\n[Consumes 3 item slots.]\n?",
+  "icon": "62006f36a1087835.png",
+  "category": "radiant",
+  "avgPlace": 4.08,
+  "top4": 0.5836,
+  "games": 367957
+ },
+ {
+  "id": "TFT_Item_SpectralGauntlet",
+  "name": "Evenshroud",
+  "desc": "?% Sunder enemies within ? hexes. Gain ? Armor and Magic Resist for the first ? seconds of combat.\n\nSunder: Reduce Armor",
+  "icon": "74c587ae6919f95a.png",
+  "category": "completed",
+  "avgPlace": 4.08,
+  "top4": 0.5786,
+  "games": 2621305
+ },
+ {
+  "id": "TFT5_Item_TrapClawRadiant",
+  "name": "Radiant Striker's Flail",
+  "desc": "Critical Strikes grant ?% Damage Amp for ? seconds, stacking up to ? times.",
+  "icon": "f03a37446ac9bbb5.png",
+  "category": "radiant",
+  "avgPlace": 4.09,
+  "top4": 0.578,
+  "games": 26822
+ },
+ {
+  "id": "TFT_Item_BlueBuff",
+  "name": "Blue Buff",
+  "desc": "Gain ?% additional Attack Damage and Ability Power from all sources.",
+  "icon": "96c25688e0407133.png",
+  "category": "completed",
+  "avgPlace": 4.09,
+  "top4": 0.5788,
+  "games": 3709219
+ },
+ {
+  "id": "TFT5_Item_CrownguardRadiant",
+  "name": "Radiant Crownguard",
+  "desc": "Combat Start: Gain a ?% max Health Shield for ? seconds.\n\nWhen the Shield expires, gain ?% Ability Power.",
+  "icon": "f0cc70fe4304468e.png",
+  "category": "radiant",
+  "avgPlace": 4.1,
+  "top4": 0.569,
+  "games": 7937
+ },
+ {
+  "id": "TFT5_Item_NightHarvesterRadiant",
+  "name": "Radiant Steadfast Heart",
+  "desc": "Gain ?% durability. While above ?% Health, instead gain ?% Durability.\n\n?",
+  "icon": "28e3a3766727f4d2.png",
+  "category": "radiant",
+  "avgPlace": 4.1,
+  "top4": 0.5734,
+  "games": 12403
+ },
+ {
+  "id": "TFT5_Item_SteraksGageRadiant",
+  "name": "Radiant Sterak's Gage",
+  "desc": "At ?% Health, gain a Shield equal to ?% of the wearer's maximum Health that rapidly decays over ? seconds.",
+  "icon": "115b749a77f45000.png",
+  "category": "radiant",
+  "avgPlace": 4.1,
+  "top4": 0.5765,
+  "games": 16306
+ },
+ {
+  "id": "TFT_Item_Artifact_TheIndomitable",
+  "name": "The Indomitable",
+  "desc": "The holder's Move Speed is drastically reduced.\n\nGain ?% max Health, stun immunity, and pull the current target into melee range.",
+  "icon": "b879b1106211d632.png",
+  "category": "artifact",
+  "avgPlace": 4.1,
+  "top4": 0.5746,
+  "games": 254645
+ },
+ {
+  "id": "TFT5_Item_RunaansHurricaneRadiant",
+  "name": "Radiant Kraken's Fury",
+  "desc": "Attacks grant ?% stacking Attack Damage, up to ? attacks. After ? attacks, gain ?% Attack Speed.",
+  "icon": "a0cb24935d5c24bc.png",
+  "category": "radiant",
+  "avgPlace": 4.11,
+  "top4": 0.5744,
+  "games": 32813
+ },
+ {
+  "id": "TFT5_Item_GiantSlayerRadiant",
+  "name": "Radiant Giant Slayer",
+  "desc": "Gain ?% additional Damage Amp against Tanks.",
+  "icon": "3a776b07542c9a12.png",
+  "category": "radiant",
+  "avgPlace": 4.12,
+  "top4": 0.5752,
+  "games": 79791
+ },
+ {
+  "id": "TFT_Item_Leviathan",
+  "name": "Nashor's Tooth",
+  "desc": "Attacks grant ? bonus Mana, increased to ? if they critically strike.",
+  "icon": "45fc0b297ee909f8.png",
+  "category": "completed",
+  "avgPlace": 4.12,
+  "top4": 0.5701,
+  "games": 5389470
+ },
+ {
+  "id": "TFT17_Item_DarkStarEmblemItem",
+  "name": "Dark Star Emblem",
+  "desc": "The holder gains the Dark Star trait.",
+  "icon": "6f6e2651fc426265.png",
+  "category": "emblem",
+  "avgPlace": 4.13,
+  "top4": 0.5664,
+  "games": 963399
+ },
+ {
+  "id": "TFT5_Item_DeathbladeRadiant",
+  "name": "Radiant Deathblade",
+  "desc": "It glows in the presence of enemies. Or friends. Or anything alive, really.\n\n?",
+  "icon": "da72d272d211f397.png",
+  "category": "radiant",
+  "avgPlace": 4.13,
+  "top4": 0.5724,
+  "games": 84461
+ },
+ {
+  "id": "TFT_Item_Artifact_LightshieldCrest",
+  "name": "Lightshield Crest",
+  "desc": "Every ? seconds, Shields the lowest percent Health ally for ?% of the holder's combined Armor and Magic Resist for ? seconds.\n\nOn death grants this shield to all allies.",
+  "icon": "80aa5b020cf2086b.png",
+  "category": "artifact",
+  "avgPlace": 4.13,
+  "top4": 0.5704,
+  "games": 210412
+ },
+ {
+  "id": "TFT5_Item_LeviathanRadiant",
+  "name": "Radiant Nashor's Tooth",
+  "desc": "Attacks grant ? bonus Mana, increased to ? if they critically strike.",
+  "icon": "4027c2b5f94e3895.png",
+  "category": "radiant",
+  "avgPlace": 4.14,
+  "top4": 0.5634,
+  "games": 39406
+ },
+ {
+  "id": "TFT_Item_Bloodthirster",
+  "name": "Bloodthirster",
+  "desc": "Once per combat at ?% Health, gain a ?% max Health Shield that lasts up to ? seconds.",
+  "icon": "034c34afa7b9feeb.png",
+  "category": "completed",
+  "avgPlace": 4.14,
+  "top4": 0.5688,
+  "games": 5437426
+ },
+ {
+  "id": "TFT4_Item_OrnnZhonyasParadox",
+  "name": "Zhonya's Paradox",
+  "desc": "Once per combat at ?% Health, become invulnerable and untargetable for ? seconds.\n\n[Unique - only 1 per champion]",
+  "icon": "85149b6d7daff055.png",
+  "category": "artifact",
+  "avgPlace": 4.15,
+  "top4": 0.5636,
+  "games": 121901
+ },
+ {
+  "id": "TFT5_Item_SpearOfShojinRadiant",
+  "name": "Radiant Spear of Shojin",
+  "desc": "Attacks grant ? bonus Mana.",
+  "icon": "6bc3cb1c314249ef.png",
+  "category": "radiant",
+  "avgPlace": 4.15,
+  "top4": 0.5629,
+  "games": 30177
+ },
+ {
+  "id": "TFT_Item_InfinityEdge",
+  "name": "Infinity Edge",
+  "desc": "Gain Precision.\n\n{{TFT_Keyword_Precision}}",
+  "icon": "76a409d854ecfc32.png",
+  "category": "completed",
+  "avgPlace": 4.15,
+  "top4": 0.5654,
+  "games": 8810793
+ },
+ {
+  "id": "TFT17_Item_HPTankEmblemItem",
+  "name": "Brawler Emblem",
+  "desc": "The holder gains the Brawler trait. Attacks deals ?% of the holder's max health as magic damage.",
+  "icon": "998fc493940c45dc.png",
+  "category": "emblem",
+  "avgPlace": 4.16,
+  "top4": 0.5637,
+  "games": 525019
+ },
+ {
+  "id": "TFT5_Item_RabadonsDeathcapRadiant",
+  "name": "Radiant Rabadon's Deathcap",
+  "desc": "It's witnessed - and unleashed - miracles and calamities both.\n\n?",
+  "icon": "53238f3ad4ebae05.png",
+  "category": "radiant",
+  "avgPlace": 4.16,
+  "top4": 0.5682,
+  "games": 68349
+ },
+ {
+  "id": "TFT_Item_JeweledGauntlet",
+  "name": "Jeweled Gauntlet",
+  "desc": "Gain Precision.\n\n{{TFT_Keyword_Precision}}",
+  "icon": "08841f5ccd724518.png",
+  "category": "completed",
+  "avgPlace": 4.16,
+  "top4": 0.5628,
+  "games": 11201040
+ },
+ {
+  "id": "TFT_Item_RedBuff",
+  "name": "Sunfire Cape",
+  "desc": "Gain ?% max Health. \n\nEvery ? seconds, deal ?% Burn and ?% Wound to an enemy within ? hexes for ? seconds.\n\nBurn: Deals a percent of the target's max Health as true damage every second\nWound: Reduces healing received",
+  "icon": "8b89b63a39914310.png",
+  "category": "completed",
+  "avgPlace": 4.16,
+  "top4": 0.5647,
+  "games": 6918944
+ },
+ {
+  "id": "TFT17_EkkoOffering_AnomalyItem",
+  "name": "Anomaly",
+  "desc": "Evolve the holder, granting an effect based on their role.\n\nTank: Gain ? health and grow in size.\n\nMarksman: Gain ?% Attack Speed. On cast, knock back their target if within ? hexes of them.\n\nFighter/Assassin: Gain ? Ability Power & ?% Attack Damage. Triple it when below ?% Health.\n\nCaster: For every ? Mana spent, throw a ?-hex fireball that deals ?% max Health true damage, 33% Wounds, and 1% Burns for ? seconds.\n\nSpecialist: Gain ? stars that orbit this champion. Each star deals ? magic damage and the orbit expands to hit the champion's current target.",
+  "icon": "56425f3c09fd64f3.png",
+  "category": "other",
+  "avgPlace": 4.17,
+  "top4": 0.5538,
+  "games": 2933999
+ },
+ {
+  "id": "TFT5_Item_BlueBuffRadiant",
+  "name": "Radiant Blue Buff",
+  "desc": "Gain ?% additional Attack Damage and Ability Power from all sources.",
+  "icon": "cc5b678b22560b21.png",
+  "category": "radiant",
+  "avgPlace": 4.17,
+  "top4": 0.5618,
+  "games": 25967
+ },
+ {
+  "id": "TFT5_Item_GuardianAngelRadiant",
+  "name": "Radiant Edge of Night",
+  "desc": "At ?% Health, briefly become untargetable, shed negative effects, and heal all missing health.",
+  "icon": "2fbb3ba9df878794.png",
+  "category": "radiant",
+  "avgPlace": 4.17,
+  "top4": 0.5684,
+  "games": 24356
+ },
+ {
+  "id": "TFT5_Item_WarmogsArmorRadiant",
+  "name": "Radiant Warmog's Armor",
+  "desc": "Gain ?% max Health.",
+  "icon": "cc572261ca5a5cec.png",
+  "category": "radiant",
+  "avgPlace": 4.17,
+  "top4": 0.5635,
+  "games": 76484
+ },
+ {
+  "id": "TFT_Item_GargoyleStoneplate",
+  "name": "Gargoyle Stoneplate",
+  "desc": "Gain ? Armor and ? Magic Resist for each enemy targeting the holder.",
+  "icon": "2a98d25855f47dfc.png",
+  "category": "completed",
+  "avgPlace": 4.17,
+  "top4": 0.5624,
+  "games": 17336532
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier0_ClunkyPrototype",
+  "name": "Broken Prototype",
+  "desc": "Combat start: Gain a ?% max Health shield.",
+  "icon": "db13fcacfb8a0fc9.png",
+  "category": "other",
+  "avgPlace": 4.18,
+  "top4": 0.5524,
+  "games": 258211
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier0_LeakyPrototype",
+  "name": "Leaky Prototype",
+  "desc": "Every ? seconds, this item loses ? Ability Power and gains ? Mana Regen.",
+  "icon": "5ce3c10f7f055502.png",
+  "category": "other",
+  "avgPlace": 4.18,
+  "top4": 0.5513,
+  "games": 212821
+ },
+ {
+  "id": "TFT5_Item_ArchangelsStaffRadiant",
+  "name": "Radiant Archangel's Staff",
+  "desc": "Combat start: Gain ?% Ability Power every ? seconds in combat.",
+  "icon": "f28cea7b2b8474f4.png",
+  "category": "radiant",
+  "avgPlace": 4.18,
+  "top4": 0.5605,
+  "games": 15905
+ },
+ {
+  "id": "TFT5_Item_TitansResolveRadiant",
+  "name": "Radiant Titan's Resolve",
+  "desc": "Gain ?% Attack Damage and ?% Ability Power when attacking or taking damage, stacking up to ? times.\n\nAt full stacks, gain ?% Damage Amp and gain immunity to crowd control.",
+  "icon": "84613ed02632c6b5.png",
+  "category": "radiant",
+  "avgPlace": 4.18,
+  "top4": 0.56,
+  "games": 21075
+ },
+ {
+  "id": "TFT4_Item_OrnnInfinityForce",
+  "name": "Infinity Force",
+  "desc": "Tons of EVERYTHING!",
+  "icon": "f363849685778c55.png",
+  "category": "artifact",
+  "avgPlace": 4.19,
+  "top4": 0.5605,
+  "games": 293603
+ },
+ {
+  "id": "TFT5_Item_RedemptionRadiant",
+  "name": "Radiant Spirit Visage",
+  "desc": "Regenerate ?% of missing Health each second.",
+  "icon": "a6fabaa12af4d889.png",
+  "category": "radiant",
+  "avgPlace": 4.19,
+  "top4": 0.5597,
+  "games": 43216
+ },
+ {
+  "id": "TFT5_Item_StatikkShivRadiant",
+  "name": "Radiant Void Staff",
+  "desc": "Damage from attacks and Abilities ?% Shred the target for the rest of combat. This effect does not stack.\n\nShred: Reduce Magic Resist",
+  "icon": "a5815598540817ce.png",
+  "category": "radiant",
+  "avgPlace": 4.19,
+  "top4": 0.5583,
+  "games": 20058
+ },
+ {
+  "id": "TFT_Item_TacticiansRing",
+  "name": "Tactician's Cape",
+  "desc": "Your team gains +? max team size.\n\n?% chance to drop 1 gold after ? seconds of combat.\n\n\"...and a bit of Luck.\"",
+  "icon": "af98b29ac56d891f.png",
+  "category": "completed",
+  "avgPlace": 4.19,
+  "top4": 0.5591,
+  "games": 145096
+ },
+ {
+  "id": "TFT4_Item_OrnnDeathsDefiance",
+  "name": "Death's Defiance",
+  "desc": "?% of the damage the holder receives is instead dealt over ? seconds as non-lethal damage.\n\n[Unique - only 1 per champion]",
+  "icon": "51d7ae9e4cdcd1e7.png",
+  "category": "artifact",
+  "avgPlace": 4.2,
+  "top4": 0.5577,
+  "games": 153157
+ },
+ {
+  "id": "TFT_Item_TitansResolve",
+  "name": "Titan's Resolve",
+  "desc": "Gain ?% Attack Damage and ?% Ability Power when attacking or taking damage, stacking up to ? times. \n\nAt full stacks, gain ?% Damage Amp and gain immunity to crowd control.",
+  "icon": "c730af989906bafe.png",
+  "category": "completed",
+  "avgPlace": 4.2,
+  "top4": 0.557,
+  "games": 3057951
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier0_SparkingPrototype",
+  "name": "Sparking Prototype",
+  "desc": "Every ? seconds, gain ?% Attack Speed for ? seconds.",
+  "icon": "6d141aaf8548ca27.png",
+  "category": "other",
+  "avgPlace": 4.22,
+  "top4": 0.5452,
+  "games": 266104
+ },
+ {
+  "id": "TFT17_Item_ASTraitEmblemItem",
+  "name": "Challenger Emblem",
+  "desc": "The holder gains the Challenger trait. On takedown, the holder's next ? attacks each heal for ?% of max health.",
+  "icon": "2188927e7ec32c6d.png",
+  "category": "emblem",
+  "avgPlace": 4.22,
+  "top4": 0.5433,
+  "games": 534238
+ },
+ {
+  "id": "TFT4_Item_OrnnTheCollector",
+  "name": "Gold Collector",
+  "desc": "Attacks and Abilities execute enemies below ?% of their maximum Health. Executions have a ?% chance to drop %i:goldCoins% 1 gold.\n\nGold Collected: ?g\n[Unique - only 1 per champion]",
+  "icon": "97a4be38909bcd95.png",
+  "category": "artifact",
+  "avgPlace": 4.22,
+  "top4": 0.5516,
+  "games": 167190
+ },
+ {
+  "id": "TFT5_Item_BrambleVestRadiant",
+  "name": "Radiant Bramble Vest",
+  "desc": "Gain ?% max health.\n\nTake ?% reduced damage from attacks. When struck by any attack, deal ? magic damage to all adjacent enemies.\n\nCooldown: ? seconds",
+  "icon": "45183699c16e6fcd.png",
+  "category": "radiant",
+  "avgPlace": 4.22,
+  "top4": 0.5522,
+  "games": 18050
+ },
+ {
+  "id": "TFT5_Item_DragonsClawRadiant",
+  "name": "Radiant Dragon's Claw",
+  "desc": "Gain ?% max health.\n\nEvery ? seconds, heal ?% max Health.",
+  "icon": "de1e17262e57c09e.png",
+  "category": "radiant",
+  "avgPlace": 4.22,
+  "top4": 0.5543,
+  "games": 23743
+ },
+ {
+  "id": "TFT5_Item_JeweledGauntletRadiant",
+  "name": "Radiant Jeweled Gauntlet",
+  "desc": "Gain Precision.\n\n{{TFT_Keyword_Precision}}",
+  "icon": "aee4e059d30083e0.png",
+  "category": "radiant",
+  "avgPlace": 4.22,
+  "top4": 0.5548,
+  "games": 74247
+ },
+ {
+  "id": "TFT17_Item_Artifact_AhriArtifact",
+  "name": "Ahri's Aura",
+  "desc": "The holder is orbited by 3 foxfires. Each one deals ?&nbsp;(%i:scaleAP%) magic damage and the orbit expands to hit the holder's current target.\n\nFor every ? Mana the holder spends, foxfires travel ?% faster for the rest of combat.",
+  "icon": "262dee2647f3fca9.png",
+  "category": "artifact",
+  "avgPlace": 4.23,
+  "top4": 0.5534,
+  "games": 281832
+ },
+ {
+  "id": "TFT17_Item_PsyOps_SympatheticImplantMod_Radiant",
+  "name": "Sympathetic Implant",
+  "desc": "Every ? seconds, gain:\n\nMagic Champions: ? Mana Regen.\nAttack Champions: ?% Attack Speed.\n\nAt (4): If the holder is Psionic, their abilities deal ?% of their ability damage as true damage instead.\n\nRecommended users: Sona and Viktor.",
+  "icon": "afc536bf39d70c46.png",
+  "category": "radiant",
+  "avgPlace": 4.23,
+  "top4": 0.5556,
+  "games": 269794
+ },
+ {
+  "id": "TFT_Item_Artifact_Fishbones",
+  "name": "Fishbones",
+  "desc": "The holder's attacks target random enemies.",
+  "icon": "c26e67a4f071e24e.png",
+  "category": "artifact",
+  "avgPlace": 4.23,
+  "top4": 0.5514,
+  "games": 178282
+ },
+ {
+  "id": "TFT_Item_Artifact_Dawncore",
+  "name": "Dawncore",
+  "desc": "Reduce the holder's max Mana by ?. Subsequent spellcasts reduce max Mana by ?%, to a minimum of ?.",
+  "icon": "75d6442656957bf9.png",
+  "category": "artifact",
+  "avgPlace": 4.24,
+  "top4": 0.5476,
+  "games": 210970
+ },
+ {
+  "id": "TFT_Item_Artifact_VoidGauntlet",
+  "name": "Void Gauntlet",
+  "desc": "Combat start: Store ?% max Health and ?% more every second. On death, unleash the stored Health as magic damage split between enemies within ?-hexes.\n\n[Unique - only 1 per champion]",
+  "icon": "20890d522103d207.png",
+  "category": "artifact",
+  "avgPlace": 4.24,
+  "top4": 0.5491,
+  "games": 155310
+ },
+ {
+  "id": "TFT5_Item_QuicksilverRadiant",
+  "name": "Radiant Quicksilver",
+  "desc": "Combat Start: Gain immunity to crowd control for ? seconds.\n\nGain ?% stacking Attack Speed every second.",
+  "icon": "b43a325935cbb2bc.png",
+  "category": "radiant",
+  "avgPlace": 4.25,
+  "top4": 0.5491,
+  "games": 14281
+ },
+ {
+  "id": "TFT_Item_Artifact_EternalPact",
+  "name": "Eternal Pact",
+  "desc": "Combat start: Form a pact with the highest Health allied champion, if they die, gain ? Mana regen and ?% Ability Power.\n\nWhen the ally uses their ability, gain ? Mana. Every ? seconds, shield your ally for ?% of the holder's Ability Power.",
+  "icon": "641ed328b86777a6.png",
+  "category": "artifact",
+  "avgPlace": 4.25,
+  "top4": 0.5473,
+  "games": 124991
+ },
+ {
+  "id": "TFT_Item_Artifact_AegisOfDawn",
+  "name": "Aegis of Dawn",
+  "desc": "Every ? seconds, steal ? Armor from enemies within 1-hex and heal ?% of the holder's Armor.\n\nIf Aegis of Dusk is also equipped, trigger this item's effect every ? seconds instead.\n\nHealing increases based on Stage.",
+  "icon": "4d30f5415a68e54a.png",
+  "category": "artifact",
+  "avgPlace": 4.26,
+  "top4": 0.5456,
+  "games": 226847
+ },
+ {
+  "id": "TFT_Item_Artifact_BlightingJewel",
+  "name": "Blighting Jewel",
+  "desc": "Dealing magic damage reduces the target's Magic Resist by ?. If their Magic Resist is 0, grant the holder ? Mana instead.\n\nAbility damage can only trigger on each enemy once every ? seconds.",
+  "icon": "8333af36cfb546fd.png",
+  "category": "artifact",
+  "avgPlace": 4.26,
+  "top4": 0.5458,
+  "games": 149896
+ },
+ {
+  "id": "TFT_Item_Artifact_WitsEnd",
+  "name": "Wit's End",
+  "desc": "Attacks deal ? bonus magic damage.\n\nHeals the holder for ?% of all magic damage dealt.\n\nDamage increases based on Stage.",
+  "icon": "e625d50d17f2279f.png",
+  "category": "artifact",
+  "avgPlace": 4.26,
+  "top4": 0.5453,
+  "games": 137514
+ },
+ {
+  "id": "TFT17_Item_Artifact_ThreshLantern",
+  "name": "Thresh's Lantern",
+  "desc": "After ? seconds of combat, pull the leftmost benched unit onto the battlefield. While that unit lives, ?% of all damage the holder would take is redirected to them.\n\nTraits of champions flung onto the board do not become active",
+  "icon": "3088a6f0e32e44eb.png",
+  "category": "artifact",
+  "avgPlace": 4.27,
+  "top4": 0.5458,
+  "games": 402871
+ },
+ {
+  "id": "TFT17_Item_SummonTraitEmblemItem",
+  "name": "Shepherd Emblem",
+  "desc": "The holder gains the Shepherd trait. On cast, grant ?% of max Mana to the Bond of the Stars.",
+  "icon": "f1bcad7b19b69fa0.png",
+  "category": "emblem",
+  "avgPlace": 4.27,
+  "top4": 0.539,
+  "games": 445867
+ },
+ {
+  "id": "TFT5_Item_FrozenHeartRadiant",
+  "name": "Radiant Protector's Vow",
+  "desc": "Combat Start: Gain ? Mana.\n\nAt ?% Health, gain ? Mana and a Shield equal to ?% max Health.",
+  "icon": "07651761bbaa313f.png",
+  "category": "radiant",
+  "avgPlace": 4.27,
+  "top4": 0.5409,
+  "games": 25597
+ },
+ {
+  "id": "TFT17_Item_PsyOps_ChemicalCapacitorMod",
+  "name": "Malware Matrix",
+  "desc": "Attack Champion: Dealing physical damage to an enemy reduces the target's Armor by ?.\n\nMagic Champion: Dealing magic damage to an enemy reduces the target's Magic Resist by ?. \n\nRecommended users: Master Yi and Pyke.\nAbility Damage Cooldown: ? seconds.",
+  "icon": "666ec5f443dd2864.png",
+  "category": "other",
+  "avgPlace": 4.28,
+  "top4": 0.5445,
+  "games": 378650
+ },
+ {
+  "id": "TFT17_Item_PsyOps_TargetlockMod_Radiant",
+  "name": "Target-Lock Optics",
+  "desc": "When the holder damages each enemy for the first time each combat, gain:\n\nAttack Champions: ?% Attack Damage\nMagic Champions: ?% Ability Power\n\nAt (4): If the holder is Psionic, they heal ?% of their max Health whenever their target dies.\n\nRecommended users: Pyke and Master Yi",
+  "icon": "cfdc6513c6e1680d.png",
+  "category": "radiant",
+  "avgPlace": 4.28,
+  "top4": 0.5476,
+  "games": 183151
+ },
+ {
+  "id": "TFT7_Item_ShimmerscaleMogulsMail",
+  "name": "Mogul's Mail",
+  "desc": "Grants ? Armor, ? Magic Resist, and ? Health when taking damage, stacking up to ? times.\n\nAt full stacks, grant %i:goldCoins% ? gold and continue gaining %i:goldCoins% ? gold every ? seconds.\n\nGold generated this game: ?\n\n[Unique - only 1 per champion]",
+  "icon": "66f39433793dd2ca.png",
+  "category": "other",
+  "avgPlace": 4.28,
+  "top4": 0.5411,
+  "games": 252618
+ },
+ {
+  "id": "TFT5_Item_HandOfJusticeRadiant",
+  "name": "Radiant Hand of Justice",
+  "desc": "Gain 2 effects:?% Attack Damage and ?% Ability Power.?% Omnivamp.\n\nWhile above ?% health, double the Attack Damage and Ability Power. While below ?% Health, double the Omnivamp.",
+  "icon": "a9d7ddb1e5973bd6.png",
+  "category": "radiant",
+  "avgPlace": 4.29,
+  "top4": 0.5404,
+  "games": 25122
+ },
+ {
+  "id": "TFT17_Item_ResistTankEmblemItem",
+  "name": "Bastion Emblem",
+  "desc": "The holder gains the Bastion trait. After the first ? seconds of combat, the holder gains ?% Attack Speed.",
+  "icon": "fa35cdbbbf59d7e5.png",
+  "category": "emblem",
+  "avgPlace": 4.3,
+  "top4": 0.5355,
+  "games": 490104
+ },
+ {
+  "id": "TFT5_Item_GargoyleStoneplateRadiant",
+  "name": "Radiant Gargoyle Stoneplate",
+  "desc": "Gain ? Armor and ? Magic Resist for each enemy targeting the holder.",
+  "icon": "a19cf749c316b471.png",
+  "category": "radiant",
+  "avgPlace": 4.31,
+  "top4": 0.5412,
+  "games": 84640
+ },
+ {
+  "id": "TFT_Item_Artifact_SilvermereDawn",
+  "name": "Silvermere Dawn",
+  "desc": "Grants immunity to Stuns and the holder's attacks Stun the target for ? seconds.\n\nThe holder's Attack Speed is locked at ?.",
+  "icon": "15671bdb864e3984.png",
+  "category": "artifact",
+  "avgPlace": 4.31,
+  "top4": 0.5368,
+  "games": 130068
+ },
+ {
+  "id": "TFT_Item_GuinsoosRageblade",
+  "name": "Guinsoo's Rageblade",
+  "desc": "Gain ?% stacking Attack Speed every second.",
+  "icon": "e881e94b2c1eb009.png",
+  "category": "completed",
+  "avgPlace": 4.31,
+  "top4": 0.5347,
+  "games": 14482207
+ },
+ {
+  "id": "TFT17_Item_Artifact_SorakaArtifact",
+  "name": "Soraka's Miracle",
+  "desc": "The first ? times the holder drops below ?% Health, a Miracle occurs, healing them for ?% of their max Health.\n\nIf the holder survives player combat, gain ? player Health for each Miracle this combat.",
+  "icon": "a0a31642a9a2c059.png",
+  "category": "artifact",
+  "avgPlace": 4.32,
+  "top4": 0.5349,
+  "games": 535015
+ },
+ {
+  "id": "TFT17_Item_PsyOps_DroneMod",
+  "name": "Drone Uplink",
+  "desc": "A drone repeats ?% of damage from the holder's attacks and Abilities to the same targets every ? seconds.\n\nRecommended users: Sona and Viktor.",
+  "icon": "c4ff48c4182304fb.png",
+  "category": "other",
+  "avgPlace": 4.32,
+  "top4": 0.5373,
+  "games": 477583
+ },
+ {
+  "id": "TFT7_Item_ShimmerscaleGamblersBlade",
+  "name": "Gambler's Blade",
+  "desc": "Grant %i:scaleAS% ?% bonus Attack Speed per %i:goldCoins% gold in your bank (up to %i:goldCoins% ? gold).\n\nEach attack has a ?% chance to drop %i:goldCoins% ? gold.\n\nGold generated this game: ?\n\n[Unique - only 1 per champion]",
+  "icon": "0fdcd894dc54b1cc.png",
+  "category": "other",
+  "avgPlace": 4.32,
+  "top4": 0.533,
+  "games": 218483
+ },
+ {
+  "id": "TFT_Item_Artifact_LichBane",
+  "name": "Lich Bane",
+  "desc": "The holder's first attack after each Ability cast deals ? bonus magic damage.\n\nDamage increases based on Stage.",
+  "icon": "92061da6a98ef378.png",
+  "category": "artifact",
+  "avgPlace": 4.32,
+  "top4": 0.5353,
+  "games": 138097
+ },
+ {
+  "id": "TFT17_Item_AstronautEmblemItem",
+  "name": "Meeple Emblem",
+  "desc": "The holder gains the Meeple trait and ?% Damage Amp and ? Health per %i:set14AmpIcon%.",
+  "icon": "9ebc2d0e23d83a42.png",
+  "category": "emblem",
+  "avgPlace": 4.33,
+  "top4": 0.5156,
+  "games": 715221
+ },
+ {
+  "id": "TFT17_Item_PsyOps_TargetlockMod",
+  "name": "Target-Lock Optics",
+  "desc": "When the holder damages each enemy for the first time each combat, gain:\n\nAttack Champions: ?% Attack Damage\nMagic Champions: ?% Ability Power\n\nRecommended users: Pyke and Master Yi",
+  "icon": "cfdc6513c6e1680d.png",
+  "category": "other",
+  "avgPlace": 4.33,
+  "top4": 0.5338,
+  "games": 338032
+ },
+ {
+  "id": "TFT_Item_Artifact_CappaJuice",
+  "name": "Cappa Juice",
+  "desc": "The holder dons a Hat on each takedown. The holder gains ?% Attack Damage and Ability Power per Hat. On death lose ?% of all Hats.&nbsp;(Hats:&nbsp;?)",
+  "icon": "b641d8948c5c5b55.png",
+  "category": "artifact",
+  "avgPlace": 4.33,
+  "top4": 0.527,
+  "games": 106895
+ },
+ {
+  "id": "TFT_Item_Artifact_StatikkShiv",
+  "name": "Statikk Shiv",
+  "desc": "Every 3rd attack deals ? + ?% of the holder's Ability Power as additional magic damage to 4 enemies.",
+  "icon": "e50de8cc0089004b.png",
+  "category": "artifact",
+  "avgPlace": 4.33,
+  "top4": 0.5274,
+  "games": 161974
+ },
+ {
+  "id": "TFT17_Item_DRXEmblemItem",
+  "name": "N.O.V.A. Emblem",
+  "desc": "The holder gains the N.O.V.A. trait.\n\nN.O.V.A. Strike: Gain ?% Attack Speed and ? Armor and Magic Resist. Other allies gain ?% Attack Speed and ? Armor and Magic Resist.",
+  "icon": "5eab9c2844a39bf3.png",
+  "category": "emblem",
+  "avgPlace": 4.34,
+  "top4": 0.5311,
+  "games": 592916
+ },
+ {
+  "id": "TFT9_Item_OrnnHorizonFocus",
+  "name": "Sniper's Focus",
+  "desc": "Gain ?% Damage Amp against targets ? or more hexes away.",
+  "icon": "e69733380a541415.png",
+  "category": "artifact",
+  "avgPlace": 4.34,
+  "top4": 0.5292,
+  "games": 196946
+ },
+ {
+  "id": "TFT_Item_Artifact_Mittens",
+  "name": "Mittens",
+  "desc": "Shrinks the holder, granting them increased movement speed and immunity to Slow, Burn, and Wound.\n\n{{TFT_Keyword_Chill}}\n{{TFT_Keyword_Burn}}\n{{TFT_Keyword_Wound}}",
+  "icon": "2e1836fbcc636494.png",
+  "category": "artifact",
+  "avgPlace": 4.34,
+  "top4": 0.5307,
+  "games": 127889
+ },
+ {
+  "id": "TFT_Item_Artifact_NavoriFlickerblades",
+  "name": "Flickerblades",
+  "desc": "Attacks grant ?% stacking Attack Speed. Every ? attacks also grant ?% Attack Damage and ?% Ability Power.",
+  "icon": "dc0ace10c3d2be66.png",
+  "category": "artifact",
+  "avgPlace": 4.34,
+  "top4": 0.5298,
+  "games": 251508
+ },
+ {
+  "id": "TFT17_Item_AssassinTraitEmblemItem",
+  "name": "Rogue Emblem",
+  "desc": "The holder gains the Rogue trait. At ?% health, gain ?% Omnivamp and immunity to crowd control for ? seconds.",
+  "icon": "1a04a5b3176c4759.png",
+  "category": "emblem",
+  "avgPlace": 4.35,
+  "top4": 0.5303,
+  "games": 456235
+ },
+ {
+  "id": "TFT_Item_Artifact_HellfireHatchet",
+  "name": "Hellfire Hatchet",
+  "desc": "Attacks deal ?% of the holder's max Health as bonus physical damage. For every ?% missing Health, gain ?% Attack Speed.",
+  "icon": "6eaef087e8dcdead.png",
+  "category": "artifact",
+  "avgPlace": 4.35,
+  "top4": 0.5273,
+  "games": 125255
+ },
+ {
+  "id": "TFT17_Item_PsyOps_SympatheticImplantMod",
+  "name": "Sympathetic Implant",
+  "desc": "Every ? seconds, gain:\n\nMagic Champions: ? Mana Regen.\nAttack Champions: ?% Attack Speed.\n\nRecommended users: Sona and Viktor.",
+  "icon": "afc536bf39d70c46.png",
+  "category": "other",
+  "avgPlace": 4.36,
+  "top4": 0.528,
+  "games": 473194
+ },
+ {
+  "id": "TFT17_Item_RangedTraitEmblemItem",
+  "name": "Sniper Emblem",
+  "desc": "The holder gains the Sniper trait and +? Attack Range.",
+  "icon": "1b63bc7be31ac2b7.png",
+  "category": "emblem",
+  "avgPlace": 4.36,
+  "top4": 0.5227,
+  "games": 396257
+ },
+ {
+  "id": "TFT5_Item_AdaptiveHelmRadiant",
+  "name": "Radiant Adaptive Helm",
+  "desc": "Gain an additional ?% Mana from all sources. The wearer gains an additional bonus based on their Role:\n\nTank/Fighter: Gain ? Armor and Magic Resistance.\n\nMarksman/Caster: Gain ?% Attack Damage and Ability Power.",
+  "icon": "83d508489082446d.png",
+  "category": "radiant",
+  "avgPlace": 4.37,
+  "top4": 0.5223,
+  "games": 15209
+ },
+ {
+  "id": "TFT5_Item_BloodthirsterRadiant",
+  "name": "Radiant Bloodthirster",
+  "desc": "Once per combat: At ?% Health, gain a ?% max Health Shield that lasts up to ? seconds.",
+  "icon": "10bf2cc7295b7f74.png",
+  "category": "radiant",
+  "avgPlace": 4.37,
+  "top4": 0.5246,
+  "games": 26353
+ },
+ {
+  "id": "TFT_Item_Artifact_AegisOfDusk",
+  "name": "Aegis of Dusk",
+  "desc": "Every ? seconds, steal ? Magic Resist from enemies within 1 hex and deal ?% of the holder's Magic Resist as magic damage.\n\nIf Aegis of Dawn is also equipped, trigger this item's effect every ? seconds instead.\n\nDamage increases based on Stage.",
+  "icon": "225c3afad1ce6d9c.png",
+  "category": "artifact",
+  "avgPlace": 4.37,
+  "top4": 0.5237,
+  "games": 178302
+ },
+ {
+  "id": "TFT_Item_Artifact_TalismanOfAscension",
+  "name": "Talisman Of Ascension",
+  "desc": "After ? seconds gain ?% max Health and ?% Damage Amp for the rest of combat.",
+  "icon": "a0db98bd7c7c16e6.png",
+  "category": "artifact",
+  "avgPlace": 4.37,
+  "top4": 0.5218,
+  "games": 208799
+ },
+ {
+  "id": "TFT17_Item_Artifact_VarusArtifact",
+  "name": "Varus's Obsession",
+  "desc": "Combat Start: Your strongest Tank becomes the Soulmate. For each second they are alive, the holder gains ?% stacking Attack Damage and Ability Power.\n\nThe Soulmate heals for ?% of damage the holder deals.",
+  "icon": "60faa2a99fee5b3f.png",
+  "category": "artifact",
+  "avgPlace": 4.38,
+  "top4": 0.5222,
+  "games": 271778
+ },
+ {
+  "id": "TFT9_Item_OrnnHullbreaker",
+  "name": "Hullcrusher",
+  "desc": "Combat Start: If there are no adjacent allies, gain ? Health, ?% Attack Damage, and ?% Ability Power.",
+  "icon": "eacbdbe5aa12c3d0.png",
+  "category": "artifact",
+  "avgPlace": 4.38,
+  "top4": 0.5231,
+  "games": 138605
+ },
+ {
+  "id": "TFT17_Item_Artifact_EvelynnArtifact",
+  "name": "Evelynn's Instinct",
+  "desc": "When switching targets, blink to the next target. Attacks and Abilities execute the holder's target below ?% of their Health.\n\nKills grant the holder ?% Attack Speed decaying over ? seconds.",
+  "icon": "7762a99c38023a03.png",
+  "category": "artifact",
+  "avgPlace": 4.39,
+  "top4": 0.5245,
+  "games": 413974
+ },
+ {
+  "id": "TFT17_Item_PrimordianEmblemItem",
+  "name": "Primordian Emblem",
+  "desc": "The holder gains the Primordian trait.",
+  "icon": "d80aa74e657276b2.png",
+  "category": "emblem",
+  "avgPlace": 4.39,
+  "top4": 0.5248,
+  "games": 352206
+ },
+ {
+  "id": "TFT_Item_Artifact_LudensTempest",
+  "name": "Luden's Tempest",
+  "desc": "?% of overkill damage plus ? is dealt as magic damage to the two enemies nearest to the target.",
+  "icon": "5665a7b564612768.png",
+  "category": "artifact",
+  "avgPlace": 4.39,
+  "top4": 0.5204,
+  "games": 161155
+ },
+ {
+  "id": "TFT17_Item_PsyOps_ChemicalCapacitorMod_Radiant",
+  "name": "Malware Matrix",
+  "desc": "Attack Champion: Dealing physical damage to an enemy reduces the target's Armor by ?.\nMagic Champion: Dealing magic damage to an enemy reduces the target's Magic Resist by ?. \n\nAt (4): If the holder is Psionic, every ?rd attack cleaves, dealing ?&nbsp;(%i:scaleAD%) physical damage to nearby enemies.\n\nRecommended users: Master Yi and Pyke.\nAbility Damage Cooldown: ? seconds.",
+  "icon": "666ec5f443dd2864.png",
+  "category": "radiant",
+  "avgPlace": 4.4,
+  "top4": 0.522,
+  "games": 180938
+ },
+ {
+  "id": "TFT17_Item_PulsefireEmblemItem",
+  "name": "Timebreaker Emblem",
+  "desc": "The holder gains the Timebreaker trait.",
+  "icon": "3d77ae7a5c37a588.png",
+  "category": "emblem",
+  "avgPlace": 4.41,
+  "top4": 0.5138,
+  "games": 431312
+ },
+ {
+  "id": "TFT17_Item_ShieldTankEmblemItem",
+  "name": "Vanguard Emblem",
+  "desc": "The holder gains the Vanguard trait. Gain ?% Ability Power whenever an ally gains a shield.",
+  "icon": "8ed1eb51e38469e6.png",
+  "category": "emblem",
+  "avgPlace": 4.41,
+  "top4": 0.5122,
+  "games": 520466
+ },
+ {
+  "id": "TFT17_Item_PsyOps_GrenadeMod",
+  "name": "Biomatter Preserver",
+  "desc": "Gain ?% max Health and deploy ? Life Orbs. Every ? seconds of combat, one drops restoring ?% of the holder's missing Health.\n\nRecommended user: Gragas.",
+  "icon": "f612203dab217c6b.png",
+  "category": "other",
+  "avgPlace": 4.43,
+  "top4": 0.5144,
+  "games": 355396
+ },
+ {
+  "id": "TFT17_Item_MeleeTraitEmblemItem",
+  "name": "Marauder Emblem",
+  "desc": "The holder gains the Marauder trait and has a ?% chance to drop ? gold on kill.\n\nGold dropped this game: ?",
+  "icon": "1c582d0785744a95.png",
+  "category": "emblem",
+  "avgPlace": 4.44,
+  "top4": 0.51,
+  "games": 416571
+ },
+ {
+  "id": "TFT_Item_Artifact_SeekersArmguard",
+  "name": "Seeker's Armguard",
+  "desc": "Takedowns increase the holder's Armor, Magic Resist, and Ability Power by ?.",
+  "icon": "85b0e5dd038a35be.png",
+  "category": "artifact",
+  "avgPlace": 4.44,
+  "top4": 0.5098,
+  "games": 152283
+ },
+ {
+  "id": "TFT5_Item_GuinsoosRagebladeRadiant",
+  "name": "Radiant Guinsoo's Rageblade",
+  "desc": "Gain ?% stacking Attack Speed every second.",
+  "icon": "89b668fefcd11da5.png",
+  "category": "radiant",
+  "avgPlace": 4.45,
+  "top4": 0.5073,
+  "games": 88083
+ },
+ {
+  "id": "TFT17_Item_PsyOpsEmblemItem",
+  "name": "Psionic Emblem",
+  "desc": "The holder gains the Psionic trait.",
+  "icon": "197c8a0999e3f2bb.png",
+  "category": "emblem",
+  "avgPlace": 4.46,
+  "top4": 0.5076,
+  "games": 376400
+ },
+ {
+  "id": "TFT9_Item_CrownOfDemacia",
+  "name": "Crown of Demacia",
+  "desc": "If the holder is a Tank, regenerate ?-?% maximum Health every ? seconds (based on stage). Otherwise, gain ?% %i:scaleAD% Attack Damage and %i:scaleAP% Ability Power every ? seconds instead. \n\nIf the holder of this item dies, you instantly lose the fight.\n\nYou can remove this item by benching the holder.",
+  "icon": "3b97dc7a026dd40e.png",
+  "category": "other",
+  "avgPlace": 4.46,
+  "top4": 0.5076,
+  "games": 159467
+ },
+ {
+  "id": "TFT_Item_Artifact_ProwlersClaw",
+  "name": "Prowler's Claw",
+  "desc": "After killing a target, shed negative effects and dash to the farthest target within ? hexes. The next 2 critical attacks deal ?% bonus Critical Strike Damage.",
+  "icon": "8d9220ae8c27460c.png",
+  "category": "artifact",
+  "avgPlace": 4.46,
+  "top4": 0.5094,
+  "games": 139923
+ },
+ {
+  "id": "TFT_Item_Artifact_RapidFirecannon",
+  "name": "Rapid Firecannon",
+  "desc": "Gain +1 Attack Range, increased by 1 whenever the holder kills an enemy.",
+  "icon": "3edd4ca2ec603d7c.png",
+  "category": "artifact",
+  "avgPlace": 4.46,
+  "top4": 0.5063,
+  "games": 162165
+ },
+ {
+  "id": "TFT17_Item_Artifact_YasuoArtifact",
+  "name": "Yasuo's Bladework",
+  "desc": "Every ? seconds, your next attack is a double attack.",
+  "icon": "b12099b1fc487c42.png",
+  "category": "artifact",
+  "avgPlace": 4.49,
+  "top4": 0.502,
+  "games": 353066
+ },
+ {
+  "id": "TFT17_Item_PsyOps_GrenadeMod_Radiant",
+  "name": "Biomatter Preserver",
+  "desc": "Gain ?% max Health and deploy ? Life Orbs. Every ? seconds of combat, one drops restoring ?% of the holder's missing Health.\n\nAt (4): If the holder is Psionic, they gain ?% increased healing from all sources.\n\nRecommended user: Gragas.",
+  "icon": "f612203dab217c6b.png",
+  "category": "radiant",
+  "avgPlace": 4.51,
+  "top4": 0.5017,
+  "games": 123949
+ },
+ {
+  "id": "TFT17_Item_PsyOps_DroneMod_Radiant",
+  "name": "Drone Uplink",
+  "desc": "A drone repeats ?% of damage from the holder's attacks and Abilities to the same targets every ? seconds.\n\nAt (4): If the holder is Psionic, gain an additional mini-drone that repeats ?% of damage.\n\nRecommended users: Sona and Viktor.",
+  "icon": "c4ff48c4182304fb.png",
+  "category": "radiant",
+  "avgPlace": 4.53,
+  "top4": 0.4969,
+  "games": 235886
+ },
+ {
+  "id": "TFT_Item_TearOfTheGoddess",
+  "name": "Tear of the Goddess",
+  "desc": "%i:TFTManaRegen% +? Mana Regen",
+  "icon": "55079eba71722f12.png",
+  "category": "component",
+  "avgPlace": 4.73,
+  "top4": 0.4579,
+  "games": 1200985
+ },
+ {
+  "id": "TFT17_Item_FavoredEmblemItem",
+  "name": "Arbiter Emblem",
+  "desc": "The holder gains the Arbiter trait.",
+  "icon": "54da188be08c8599.png",
+  "category": "emblem",
+  "avgPlace": 4.74,
+  "top4": 0.4534,
+  "games": 378880
+ },
+ {
+  "id": "TFT_Item_SparringGloves",
+  "name": "Sparring Gloves",
+  "desc": "+? Critical Strike Chance",
+  "icon": "ed11efc4d1e1ca3b.png",
+  "category": "component",
+  "avgPlace": 4.76,
+  "top4": 0.4527,
+  "games": 1106933
+ },
+ {
+  "id": "TFT_Item_NegatronCloak",
+  "name": "Negatron Cloak",
+  "desc": "%i:scaleMR% +? Magic Resist",
+  "icon": "671c1a18adf75c4b.png",
+  "category": "component",
+  "avgPlace": 4.77,
+  "top4": 0.451,
+  "games": 1198570
+ },
+ {
+  "id": "TFT_Item_ChainVest",
+  "name": "Chain Vest",
+  "desc": "%i:scaleArmor% +? Armor",
+  "icon": "2a657cf75da0d3a4.png",
+  "category": "component",
+  "avgPlace": 4.79,
+  "top4": 0.4489,
+  "games": 1300121
+ },
+ {
+  "id": "TFT_Item_NeedlesslyLargeRod",
+  "name": "Needlessly Large Rod",
+  "desc": "%i:scaleAP% +? Ability Power",
+  "icon": "652893858abb4a71.png",
+  "category": "component",
+  "avgPlace": 4.79,
+  "top4": 0.4475,
+  "games": 1378389
+ },
+ {
+  "id": "TFT_Item_RecurveBow",
+  "name": "Recurve Bow",
+  "desc": "%i:scaleAS% +?% Attack Speed",
+  "icon": "483c6c51724b9f37.png",
+  "category": "component",
+  "avgPlace": 4.8,
+  "top4": 0.4459,
+  "games": 1292396
+ },
+ {
+  "id": "TFT_Item_GiantsBelt",
+  "name": "Giant's Belt",
+  "desc": "%i:scaleHealth% +? Health",
+  "icon": "a8a2b4de5c8c4e77.png",
+  "category": "component",
+  "avgPlace": 4.84,
+  "top4": 0.4388,
+  "games": 1705377
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier1_TentacleSlam",
+  "name": "Tentacle Slam",
+  "desc": "Every ? seconds, summon a tentacle that slams down on the target, dealing ? physical damage and healing the holder for ?% max health.\n\nIllaoi Bonus: If this item is equipped on Illaoi, an additional tentacle slams targets drained by her ability at ?% effectiveness. \n\nDamage increases based on Stage.",
+  "icon": "cd29f72f5c6a2c53.png",
+  "category": "other",
+  "avgPlace": 4.88,
+  "top4": 0.4269,
+  "games": 290040
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier1_GuidingHex",
+  "name": "Guiding Hex",
+  "desc": "Every ? seconds, fire a bolt at a random enemy in Attack Range, dealing ? magic damage.\n\nAurora Bonus: If this item is equipped on Aurora, she gains ? Ability Power when the bolt hits.\n\nDamage increases based on Stage.",
+  "icon": "432ae61199909d30.png",
+  "category": "other",
+  "avgPlace": 4.9,
+  "top4": 0.4262,
+  "games": 250328
+ },
+ {
+  "id": "TFT_Item_BFSword",
+  "name": "B.F. Sword",
+  "desc": "%i:scaleAD% +?% Attack Damage",
+  "icon": "84217f1d5458e441.png",
+  "category": "component",
+  "avgPlace": 4.92,
+  "top4": 0.4253,
+  "games": 1339695
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier1_SavageSlicer",
+  "name": "Savage Slicer",
+  "desc": "Attacks hit the target and all adjacent enemies for ?% of Basic Attack Damage. Omnivamp applies ?% to this damage.\n\nBriar Bonus: If this item is equipped on Briar, on cast this effect happens ? times.",
+  "icon": "93ec14d229333865.png",
+  "category": "other",
+  "avgPlace": 4.97,
+  "top4": 0.4119,
+  "games": 195768
+ },
+ {
+  "id": "TFT_Item_Spatula",
+  "name": "Spatula",
+  "desc": "It must do something...",
+  "icon": "3a808fed4eab9b51.png",
+  "category": "component",
+  "avgPlace": 4.98,
+  "top4": 0.4158,
+  "games": 77008
+ },
+ {
+  "id": "TFT_Item_FryingPan",
+  "name": "Frying Pan",
+  "desc": "...why else would it be here?",
+  "icon": "77ae215c79e0c0f7.png",
+  "category": "component",
+  "avgPlace": 4.99,
+  "top4": 0.4141,
+  "games": 13281
+ },
+ {
+  "id": "TFT17_AnimaSquadItem_Tier1_RocketSwarm",
+  "name": "Rocket Swarm",
+  "desc": "Every ? Mana spent, fire a barrage of ? rockets at the target, each dealing ?% %i:TFTBaseAD% physical damage.\n\nJinx Bonus: If this item is equipped on Jinx, instead replace all ability bullets with rockets that deal ?% increased damage.",
+  "icon": "2060764836890459.png",
+  "category": "other",
+  "avgPlace": 5.02,
+  "top4": 0.4036,
+  "games": 222979
+ },
+ {
+  "id": "TFT17_Item_AnimaSquadEmblemItem",
+  "name": "Anima Emblem",
+  "desc": "The holder gains the Anima trait.",
+  "icon": "69143cf4d70fad08.png",
+  "category": "emblem",
+  "avgPlace": 5.08,
+  "top4": 0.386,
+  "games": 363170
+ }
+]

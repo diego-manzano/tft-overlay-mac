@@ -1,0 +1,8984 @@
+[
+ {
+  "id": 409013,
+  "title": "Space Groove \u00b7 Samira",
+  "units": [
+   {
+    "name": "Jax",
+    "icon": "c19fa2745cff53ca.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Samira",
+    "icon": "55f971d4378406e5.png",
+    "star3": false,
+    "items": [
+     "c03e276b1288b359.png",
+     "5f2ec041371ff67e.png",
+     "e8bc6f7ac38b7be3.png"
+    ]
+   },
+   {
+    "name": "Ornn",
+    "icon": "2f2239a29562bbf3.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Xayah",
+    "icon": "704e088b2998520c.png",
+    "star3": false,
+    "items": [
+     "c79e7e2a0d0c1e89.png",
+     "5948bb283d91af25.png",
+     "5948bb283d91af25.png"
+    ]
+   },
+   {
+    "name": "Blitzcrank",
+    "icon": "55fd66e9e799936e.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Sniper",
+   "Bastion",
+   "Vanguard",
+   "Space Groove"
+  ],
+  "style": "reroll",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Two Tanky",
+    "icon": "87411011c10caf7b.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Team Building",
+    "icon": "52840d72fdc55e9c.png",
+    "tier": "S"
+   },
+   {
+    "name": "On a Roll",
+    "icon": "e7d6641832187337.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag+",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag++",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Prismatic Ticket",
+    "icon": "6dd15936191bde01.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.04,
+  "games": 33452
+ },
+ {
+  "id": 409019,
+  "title": "N.O.V.A. \u00b7 Bel'Veth",
+  "units": [
+   {
+    "name": "Briar",
+    "icon": "749b80b1a6fbb34f.png",
+    "star3": true,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "0de8369b21cdcbe1.png",
+     "c730af989906bafe.png"
+    ]
+   },
+   {
+    "name": "Caitlyn",
+    "icon": "ab32860ecf751ff7.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Aatrox",
+    "icon": "40d07f95918439d0.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Rek'Sai",
+    "icon": "ca434ab02afa2e31.png",
+    "star3": true,
+    "items": [
+     "3cd8b56157eda0bc.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Bel'Veth",
+    "icon": "fe35b1559bb672e9.png",
+    "star3": true,
+    "items": [
+     "085234fb2842b1fe.png",
+     "021131a2bc82b58a.png",
+     "5948bb283d91af25.png"
+    ]
+   },
+   {
+    "name": "Akali",
+    "icon": "89aee7e6a05038f5.png",
+    "star3": true,
+    "items": [
+     "853555e601c182fd.png",
+     "0de8369b21cdcbe1.png",
+     "31c0a9df7625e69c.png"
+    ]
+   },
+   {
+    "name": "Maokai",
+    "icon": "2b4092a49e9cab12.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Kindred",
+    "icon": "c76b55300523212d.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "085234fb2842b1fe.png",
+     "5948bb283d91af25.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Challenger",
+   "N.O.V.A.",
+   "Brawler",
+   "Marauder",
+   "Primordian"
+  ],
+  "style": "reroll",
+  "styleDetail": "Bel'Veth 3\u2605",
+  "augments": [
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Second Wind",
+    "icon": "e7fcc80ee8c45f92.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Team Building",
+    "icon": "52840d72fdc55e9c.png",
+    "tier": "S"
+   },
+   {
+    "name": "NO SCOUT NO PIVOT",
+    "icon": "fb3162350722935d.png",
+    "tier": "S"
+   },
+   {
+    "name": "Two Much Value",
+    "icon": "dc0c85ec736e8276.png",
+    "tier": "S"
+   },
+   {
+    "name": "Calculated Loss",
+    "icon": "76e99e8b732ef3da.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag+",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.21,
+  "games": 79149
+ },
+ {
+  "id": 409028,
+  "title": "Space Groove \u00b7 Nami",
+  "units": [
+   {
+    "name": "Gwen",
+    "icon": "df43c1fce6fb8c4e.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Pantheon",
+    "icon": "4ac007b484678b2b.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Ornn",
+    "icon": "2f2239a29562bbf3.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Nami",
+    "icon": "8b670f32cf866454.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "efffaa8139efd7ad.png",
+     "3cd8b56157eda0bc.png",
+     "3cd8b56157eda0bc.png"
+    ]
+   },
+   {
+    "name": "Riven",
+    "icon": "5a207e124dc36d66.png",
+    "star3": false,
+    "items": [
+     "c4c3792880f9a1ad.png",
+     "034c34afa7b9feeb.png",
+     "0de8369b21cdcbe1.png"
+    ]
+   },
+   {
+    "name": "Tahm Kench",
+    "icon": "2d597e4bb4f136ed.png",
+    "star3": false,
+    "items": [
+     "c4c3792880f9a1ad.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Blitzcrank",
+    "icon": "55fd66e9e799936e.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "7d14e1e5280c568e.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Shen",
+    "icon": "4a6986ec1fae86a1.png",
+    "star3": false,
+    "items": [
+     "c4c3792880f9a1ad.png",
+     "034c34afa7b9feeb.png",
+     "c730af989906bafe.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Replicator",
+   "Rogue",
+   "Brawler",
+   "Bastion",
+   "Vanguard",
+   "Space Groove",
+   "Timebreaker"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "AFK",
+    "icon": "0d9ce89bfc544a6a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Branching Out",
+    "icon": "a5dd29d0ded5a644.png",
+    "tier": "S"
+   },
+   {
+    "name": "Branching Out+",
+    "icon": "a5dd29d0ded5a644.png",
+    "tier": "S"
+   },
+   {
+    "name": "Electrocharge I",
+    "icon": "b900011622e3790a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Group Hug I",
+    "icon": "0491822f62d6c937.png",
+    "tier": "S"
+   },
+   {
+    "name": "Kick Start",
+    "icon": "3b056ee519044aa5.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Second Wind",
+    "icon": "e7fcc80ee8c45f92.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Spreading Roots",
+    "icon": "e92492cc4459c3a4.png",
+    "tier": "S"
+   },
+   {
+    "name": "Spreading Roots+",
+    "icon": "e92492cc4459c3a4.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.23,
+  "games": 63977
+ },
+ {
+  "id": 409004,
+  "title": "Dark Star \u00b7 Aurelion Sol",
+  "units": [
+   {
+    "name": "Cho'Gath",
+    "icon": "414c42d611d29a42.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Kai'Sa",
+    "icon": "576920015eb9c661.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Aurelion Sol",
+    "icon": "a93af0f5f6773a33.png",
+    "star3": false,
+    "items": [
+     "6f6e2651fc426265.png",
+     "08841f5ccd724518.png",
+     "6c11d8113d9dd446.png"
+    ]
+   },
+   {
+    "name": "The Mighty Mech",
+    "icon": "bd5fed58061b7b8b.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "efffaa8139efd7ad.png",
+     "3cd8b56157eda0bc.png",
+     "3cd8b56157eda0bc.png"
+    ]
+   },
+   {
+    "name": "Tahm Kench",
+    "icon": "2d597e4bb4f136ed.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Jhin",
+    "icon": "a565acc29322bdac.png",
+    "star3": false,
+    "items": [
+     "76a409d854ecfc32.png",
+     "5f2ec041371ff67e.png",
+     "085234fb2842b1fe.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Dark Star",
+   "Voyager",
+   "Brawler",
+   "Conduit",
+   "Vanguard"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Branching Out",
+    "icon": "a5dd29d0ded5a644.png",
+    "tier": "S"
+   },
+   {
+    "name": "Branching Out+",
+    "icon": "a5dd29d0ded5a644.png",
+    "tier": "S"
+   },
+   {
+    "name": "Spreading Roots",
+    "icon": "e92492cc4459c3a4.png",
+    "tier": "S"
+   },
+   {
+    "name": "Spreading Roots+",
+    "icon": "e92492cc4459c3a4.png",
+    "tier": "S"
+   },
+   {
+    "name": "Urf's Gambit",
+    "icon": "fed312c3457d47d6.png",
+    "tier": "S"
+   },
+   {
+    "name": "Urf's Grab Bag",
+    "icon": "e7aae13e684aee46.png",
+    "tier": "S"
+   },
+   {
+    "name": "U.R.F",
+    "icon": "4ec748706b438df4.png",
+    "tier": "A"
+   }
+  ],
+  "avgPlace": 4.25,
+  "games": 25466
+ },
+ {
+  "id": 409000,
+  "title": "Reach for the Stars \u00b7 Pantheon",
+  "units": [
+   {
+    "name": "Aatrox",
+    "icon": "40d07f95918439d0.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Twisted Fate",
+    "icon": "a2dd3ad10043704c.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Jax",
+    "icon": "c19fa2745cff53ca.png",
+    "star3": true,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "853555e601c182fd.png",
+     "c730af989906bafe.png"
+    ]
+   },
+   {
+    "name": "Milio",
+    "icon": "f4a78615b9f0d55d.png",
+    "star3": true,
+    "items": [
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png",
+     "7a6961fcc382d711.png"
+    ]
+   },
+   {
+    "name": "Pantheon",
+    "icon": "4ac007b484678b2b.png",
+    "star3": true,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Maokai",
+    "icon": "2b4092a49e9cab12.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Lulu",
+    "icon": "6204198317475435.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Rhaast",
+    "icon": "6642b4c8453fa74b.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Replicator",
+   "N.O.V.A.",
+   "Fateweaver",
+   "Brawler",
+   "Bastion",
+   "Timebreaker"
+  ],
+  "style": "reroll",
+  "styleDetail": "Jax 3\u2605",
+  "augments": [
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Second Wind",
+    "icon": "e7fcc80ee8c45f92.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Team Building",
+    "icon": "52840d72fdc55e9c.png",
+    "tier": "S"
+   },
+   {
+    "name": "Reach for the Stars",
+    "icon": "a3a2101a54d6d35a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag+",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag++",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Commerce Core",
+    "icon": "ad13dad3a61b75f6.png",
+    "tier": "S"
+   },
+   {
+    "name": "Just Hit",
+    "icon": "686f83aee9121f1f.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.28,
+  "games": 11305
+ },
+ {
+  "id": 409001,
+  "title": "Shieldmaiden",
+  "units": [
+   {
+    "name": "Leona",
+    "icon": "d164ec04180efe98.png",
+    "star3": true,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "0de8369b21cdcbe1.png",
+     "c730af989906bafe.png"
+    ]
+   },
+   {
+    "name": "Zoe",
+    "icon": "96e4782903d226ce.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "efffaa8139efd7ad.png",
+     "3cd8b56157eda0bc.png",
+     "3cd8b56157eda0bc.png"
+    ]
+   },
+   {
+    "name": "LeBlanc",
+    "icon": "9153c0807ab5c7ea.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "08841f5ccd724518.png",
+     "085234fb2842b1fe.png"
+    ]
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Arbiter",
+   "Dark Star",
+   "Voyager",
+   "Conduit",
+   "Vanguard",
+   "Shepherd"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [],
+  "avgPlace": 4.31,
+  "games": 4840
+ },
+ {
+  "id": 409012,
+  "title": "Dark Star \u00b7 Karma",
+  "units": [
+   {
+    "name": "Cho'Gath",
+    "icon": "414c42d611d29a42.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Lissandra",
+    "icon": "7eaaf88dd16f634a.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Kai'Sa",
+    "icon": "576920015eb9c661.png",
+    "star3": false,
+    "items": [
+     "76a409d854ecfc32.png",
+     "085234fb2842b1fe.png",
+     "e8bc6f7ac38b7be3.png"
+    ]
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "The Mighty Mech",
+    "icon": "bd5fed58061b7b8b.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "efffaa8139efd7ad.png",
+     "3cd8b56157eda0bc.png",
+     "3cd8b56157eda0bc.png"
+    ]
+   },
+   {
+    "name": "Tahm Kench",
+    "icon": "2d597e4bb4f136ed.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Jhin",
+    "icon": "a565acc29322bdac.png",
+    "star3": false,
+    "items": [
+     "c03e276b1288b359.png",
+     "76a409d854ecfc32.png",
+     "5f2ec041371ff67e.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Dark Star",
+   "Voyager",
+   "Brawler",
+   "Vanguard"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Branching Out",
+    "icon": "a5dd29d0ded5a644.png",
+    "tier": "S"
+   },
+   {
+    "name": "Branching Out+",
+    "icon": "a5dd29d0ded5a644.png",
+    "tier": "S"
+   },
+   {
+    "name": "Spreading Roots",
+    "icon": "e92492cc4459c3a4.png",
+    "tier": "S"
+   },
+   {
+    "name": "Spreading Roots+",
+    "icon": "e92492cc4459c3a4.png",
+    "tier": "S"
+   },
+   {
+    "name": "Urf's Gambit",
+    "icon": "fed312c3457d47d6.png",
+    "tier": "S"
+   },
+   {
+    "name": "Urf's Grab Bag",
+    "icon": "e7aae13e684aee46.png",
+    "tier": "S"
+   },
+   {
+    "name": "U.R.F",
+    "icon": "4ec748706b438df4.png",
+    "tier": "A"
+   }
+  ],
+  "avgPlace": 4.35,
+  "games": 33848
+ },
+ {
+  "id": 409043,
+  "title": "Mecha \u00b7 Aurelion Sol",
+  "units": [
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Urgot",
+    "icon": "19104738c6382f82.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Rhaast",
+    "icon": "6642b4c8453fa74b.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Aurelion Sol",
+    "icon": "a93af0f5f6773a33.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "7a6961fcc382d711.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "The Mighty Mech",
+    "icon": "bd5fed58061b7b8b.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png",
+     "0de8369b21cdcbe1.png"
+    ]
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Morgana",
+    "icon": "fe400a2bb06fdcc4.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Dark Star",
+   "Voyager",
+   "Conduit",
+   "Mecha",
+   "Vanguard"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Expedition",
+    "icon": "d6747db85a980d8c.png",
+    "tier": "S"
+   },
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Solo Plate",
+    "icon": "8d4dfd10afc61e14.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "ReinFOURcement",
+    "icon": "0068cff2161c57b9.png",
+    "tier": "S"
+   },
+   {
+    "name": "Calculated Loss",
+    "icon": "76e99e8b732ef3da.png",
+    "tier": "S"
+   },
+   {
+    "name": "Commerce Core",
+    "icon": "ad13dad3a61b75f6.png",
+    "tier": "S"
+   },
+   {
+    "name": "Upward Mobility",
+    "icon": "3b19db363cb273e5.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.35,
+  "games": 91118
+ },
+ {
+  "id": 409005,
+  "title": "Meeple \u00b7 Corki",
+  "units": [
+   {
+    "name": "Milio",
+    "icon": "f4a78615b9f0d55d.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png"
+    ]
+   },
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Fizz",
+    "icon": "fe0b754b94d64807.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Rammus",
+    "icon": "f90cb6380e0f293d.png",
+    "star3": false,
+    "items": [
+     "895e50378764fc42.png",
+     "3cd8b56157eda0bc.png",
+     "2a98d25855f47dfc.png"
+    ]
+   },
+   {
+    "name": "Corki",
+    "icon": "f77bc00e672058dc.png",
+    "star3": false,
+    "items": [
+     "c03e276b1288b359.png",
+     "5f2ec041371ff67e.png",
+     "6c11d8113d9dd446.png"
+    ]
+   },
+   {
+    "name": "The Mighty Mech",
+    "icon": "bd5fed58061b7b8b.png",
+    "star3": false,
+    "items": [
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Riven",
+    "icon": "5a207e124dc36d66.png",
+    "star3": false,
+    "items": [
+     "9ebc2d0e23d83a42.png",
+     "034c34afa7b9feeb.png",
+     "0de8369b21cdcbe1.png"
+    ]
+   },
+   {
+    "name": "Bard",
+    "icon": "aac2357d6d68b0bc.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png"
+    ]
+   },
+   {
+    "name": "Shen",
+    "icon": "4a6986ec1fae86a1.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Rogue",
+   "Meeple",
+   "Fateweaver",
+   "Voyager",
+   "Bastion",
+   "Timebreaker"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Band of Thieves",
+    "icon": "beec608ff9ec3940.png",
+    "tier": "S"
+   },
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Good For Something I",
+    "icon": "ae523343fc04cd5a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Booster Pack++",
+    "icon": "d496656e84080692.png",
+    "tier": "S"
+   },
+   {
+    "name": "Calculated Loss",
+    "icon": "76e99e8b732ef3da.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Epic Rolldown",
+    "icon": "fb1557c4a5f99c43.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "ReinFOURcement",
+    "icon": "0068cff2161c57b9.png",
+    "tier": "S"
+   },
+   {
+    "name": "Comeback Story",
+    "icon": "92e05bd5c2276b9e.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.36,
+  "games": 61979
+ },
+ {
+  "id": 409006,
+  "title": "The Big Bang \u00b7 Illaoi",
+  "units": [
+   {
+    "name": "Lissandra",
+    "icon": "7eaaf88dd16f634a.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Pyke",
+    "icon": "e535b48e11f9d7de.png",
+    "star3": true,
+    "items": [
+     "cfdc6513c6e1680d.png",
+     "853555e601c182fd.png",
+     "76a409d854ecfc32.png"
+    ]
+   },
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": true,
+    "items": [
+     "853555e601c182fd.png",
+     "08841f5ccd724518.png",
+     "31c0a9df7625e69c.png"
+    ]
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": [
+     "07d07350751f359a.png",
+     "8b89b63a39914310.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": [
+     "07d07350751f359a.png",
+     "8b89b63a39914310.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Viktor",
+    "icon": "ab8031cbcc69c304.png",
+    "star3": false,
+    "items": [
+     "c4ff48c4182304fb.png",
+     "7d14e1e5280c568e.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Rhaast",
+    "icon": "6642b4c8453fa74b.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Nami",
+    "icon": "8b670f32cf866454.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Replicator",
+   "Dark Star",
+   "Voyager",
+   "Conduit",
+   "Psionic",
+   "Vanguard",
+   "Space Groove",
+   "Shepherd"
+  ],
+  "style": "reroll",
+  "styleDetail": "Meepsie 3\u2605",
+  "augments": [],
+  "avgPlace": 4.36,
+  "games": 3785
+ },
+ {
+  "id": 409015,
+  "title": "Marauder \u00b7 Master Yi",
+  "units": [
+   {
+    "name": "Bel'Veth",
+    "icon": "fe35b1559bb672e9.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Gragas",
+    "icon": "b5fef7f95ca45237.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Maokai",
+    "icon": "2b4092a49e9cab12.png",
+    "star3": false,
+    "items": [
+     "8b89b63a39914310.png",
+     "a6fabaa12af4d889.png",
+     "74c587ae6919f95a.png"
+    ]
+   },
+   {
+    "name": "Urgot",
+    "icon": "19104738c6382f82.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Rhaast",
+    "icon": "6642b4c8453fa74b.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Kindred",
+    "icon": "c76b55300523212d.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "5f2ec041371ff67e.png",
+     "5948bb283d91af25.png"
+    ]
+   },
+   {
+    "name": "Master Yi",
+    "icon": "fc6bc5c04abc477e.png",
+    "star3": false,
+    "items": [
+     "853555e601c182fd.png",
+     "085234fb2842b1fe.png",
+     "021131a2bc82b58a.png"
+    ]
+   },
+   {
+    "name": "Tahm Kench",
+    "icon": "2d597e4bb4f136ed.png",
+    "star3": false,
+    "items": [
+     "8b89b63a39914310.png",
+     "a6fabaa12af4d889.png",
+     "74c587ae6919f95a.png"
+    ]
+   },
+   {
+    "name": "Fiora",
+    "icon": "9e3ae8bbc645ccfb.png",
+    "star3": false,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "853555e601c182fd.png",
+     "0de8369b21cdcbe1.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Challenger",
+   "N.O.V.A.",
+   "Brawler",
+   "Marauder",
+   "Psionic"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Band of Thieves",
+    "icon": "beec608ff9ec3940.png",
+    "tier": "S"
+   },
+   {
+    "name": "Boxing Lessons",
+    "icon": "ef534aeb76b08db4.png",
+    "tier": "S"
+   },
+   {
+    "name": "Branching Out",
+    "icon": "a5dd29d0ded5a644.png",
+    "tier": "S"
+   },
+   {
+    "name": "Branching Out+",
+    "icon": "a5dd29d0ded5a644.png",
+    "tier": "S"
+   },
+   {
+    "name": "Electrocharge I",
+    "icon": "b900011622e3790a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Group Hug I",
+    "icon": "0491822f62d6c937.png",
+    "tier": "S"
+   },
+   {
+    "name": "Lineup",
+    "icon": "838d67891cd499ee.png",
+    "tier": "S"
+   },
+   {
+    "name": "Latent Forge",
+    "icon": "cdc531285a76e48e.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Second Wind",
+    "icon": "e7fcc80ee8c45f92.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.36,
+  "games": 99983
+ },
+ {
+  "id": 409002,
+  "title": "Vanguard \u00b7 Nunu & Willump",
+  "units": [
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "3cd8b56157eda0bc.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Bard",
+    "icon": "aac2357d6d68b0bc.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "085234fb2842b1fe.png",
+     "7a6961fcc382d711.png"
+    ]
+   },
+   {
+    "name": "Blitzcrank",
+    "icon": "55fd66e9e799936e.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "6c11d8113d9dd446.png",
+     "31c0a9df7625e69c.png"
+    ]
+   },
+   {
+    "name": "Sona",
+    "icon": "90832d533b8cebce.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Vex",
+    "icon": "b86c8163e45661fc.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "08841f5ccd724518.png",
+     "085234fb2842b1fe.png"
+    ]
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Dark Star",
+   "Voyager",
+   "Conduit",
+   "Vanguard",
+   "Space Groove",
+   "Shepherd"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Band of Thieves",
+    "icon": "beec608ff9ec3940.png",
+    "tier": "S"
+   },
+   {
+    "name": "Good For Something I",
+    "icon": "ae523343fc04cd5a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Late Game Specialist",
+    "icon": "986e554f6cae1064.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "One, Two, Five!",
+    "icon": "0ccda3d1c2e65e32.png",
+    "tier": "S"
+   },
+   {
+    "name": "Second Wind",
+    "icon": "e7fcc80ee8c45f92.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Birthday Reunion",
+    "icon": "217d7db0e1364958.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Gilded Steel",
+    "icon": "c6524c51b50bc54c.png",
+    "tier": "S"
+   },
+   {
+    "name": "Group Hug II",
+    "icon": "7b5894b27188d2ff.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.37,
+  "games": 152649
+ },
+ {
+  "id": 409034,
+  "title": "Space Groove \u00b7 Ornn",
+  "units": [
+   {
+    "name": "Teemo",
+    "icon": "2f76af333babec74.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Nasus",
+    "icon": "a59c758a391e4a54.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Gwen",
+    "icon": "df43c1fce6fb8c4e.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Samira",
+    "icon": "55f971d4378406e5.png",
+    "star3": true,
+    "items": [
+     "c03e276b1288b359.png",
+     "5f2ec041371ff67e.png",
+     "e8bc6f7ac38b7be3.png"
+    ]
+   },
+   {
+    "name": "Ornn",
+    "icon": "2f2239a29562bbf3.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Nami",
+    "icon": "8b670f32cf866454.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Jhin",
+    "icon": "a565acc29322bdac.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Blitzcrank",
+    "icon": "55fd66e9e799936e.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "6c11d8113d9dd446.png",
+     "31c0a9df7625e69c.png"
+    ]
+   },
+   {
+    "name": "Shen",
+    "icon": "4a6986ec1fae86a1.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Sniper",
+   "Bastion",
+   "Vanguard",
+   "Space Groove"
+  ],
+  "style": "reroll",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Carve a Path",
+    "icon": "f9590d3a78548f80.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Small Grab Bag",
+    "icon": "7b7054f95b7453c2.png",
+    "tier": "S"
+   },
+   {
+    "name": "Team Building",
+    "icon": "52840d72fdc55e9c.png",
+    "tier": "S"
+   },
+   {
+    "name": "Calculated Loss",
+    "icon": "76e99e8b732ef3da.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag+",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag++",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Wise Spending",
+    "icon": "87d2bcf33f524eb8.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.37,
+  "games": 63181
+ },
+ {
+  "id": 409031,
+  "title": "Shepherd \u00b7 LeBlanc",
+  "units": [
+   {
+    "name": "Teemo",
+    "icon": "2f76af333babec74.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Leona",
+    "icon": "d164ec04180efe98.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Lissandra",
+    "icon": "7eaaf88dd16f634a.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "The Mighty Mech",
+    "icon": "bd5fed58061b7b8b.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "LeBlanc",
+    "icon": "9153c0807ab5c7ea.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "08841f5ccd724518.png",
+     "7a6961fcc382d711.png"
+    ]
+   },
+   {
+    "name": "Sona",
+    "icon": "90832d533b8cebce.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Arbiter",
+   "Dark Star",
+   "Voyager",
+   "Vanguard",
+   "Space Groove",
+   "Shepherd"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Band of Thieves",
+    "icon": "beec608ff9ec3940.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Booster Pack++",
+    "icon": "d496656e84080692.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Calculated Loss",
+    "icon": "76e99e8b732ef3da.png",
+    "tier": "S"
+   },
+   {
+    "name": "Epic Rolldown",
+    "icon": "fb1557c4a5f99c43.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "ReinFOURcement",
+    "icon": "0068cff2161c57b9.png",
+    "tier": "S"
+   },
+   {
+    "name": "Spreading Roots",
+    "icon": "e92492cc4459c3a4.png",
+    "tier": "S"
+   },
+   {
+    "name": "Commerce Core",
+    "icon": "ad13dad3a61b75f6.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.39,
+  "games": 39419
+ },
+ {
+  "id": 409036,
+  "title": "Mecha \u00b7 Aurelion Sol",
+  "units": [
+   {
+    "name": "Urgot",
+    "icon": "19104738c6382f82.png",
+    "star3": false,
+    "items": [
+     "76a409d854ecfc32.png",
+     "5f2ec041371ff67e.png",
+     "31c0a9df7625e69c.png"
+    ]
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Aurelion Sol",
+    "icon": "a93af0f5f6773a33.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "7a6961fcc382d711.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "The Mighty Mech",
+    "icon": "bd5fed58061b7b8b.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png",
+     "0de8369b21cdcbe1.png"
+    ]
+   },
+   {
+    "name": "Tahm Kench",
+    "icon": "2d597e4bb4f136ed.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Bard",
+    "icon": "aac2357d6d68b0bc.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Fiora",
+    "icon": "9e3ae8bbc645ccfb.png",
+    "star3": false,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "853555e601c182fd.png",
+     "0de8369b21cdcbe1.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Voyager",
+   "Brawler",
+   "Conduit",
+   "Mecha",
+   "Marauder"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Expedition",
+    "icon": "d6747db85a980d8c.png",
+    "tier": "S"
+   },
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Solo Plate",
+    "icon": "8d4dfd10afc61e14.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "ReinFOURcement",
+    "icon": "0068cff2161c57b9.png",
+    "tier": "S"
+   },
+   {
+    "name": "Calculated Loss",
+    "icon": "76e99e8b732ef3da.png",
+    "tier": "S"
+   },
+   {
+    "name": "Commerce Core",
+    "icon": "ad13dad3a61b75f6.png",
+    "tier": "S"
+   },
+   {
+    "name": "Upward Mobility",
+    "icon": "3b19db363cb273e5.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.4,
+  "games": 30020
+ },
+ {
+  "id": 409010,
+  "title": "Sniper \u00b7 Xayah",
+  "units": [
+   {
+    "name": "Aatrox",
+    "icon": "40d07f95918439d0.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Jax",
+    "icon": "c19fa2745cff53ca.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Maokai",
+    "icon": "2b4092a49e9cab12.png",
+    "star3": false,
+    "items": [
+     "caf4f8a61ee6a72b.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Rhaast",
+    "icon": "6642b4c8453fa74b.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "efffaa8139efd7ad.png",
+     "3cd8b56157eda0bc.png",
+     "3cd8b56157eda0bc.png"
+    ]
+   },
+   {
+    "name": "Xayah",
+    "icon": "704e088b2998520c.png",
+    "star3": false,
+    "items": [
+     "c79e7e2a0d0c1e89.png",
+     "5948bb283d91af25.png",
+     "5948bb283d91af25.png"
+    ]
+   },
+   {
+    "name": "Tahm Kench",
+    "icon": "2d597e4bb4f136ed.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Jhin",
+    "icon": "a565acc29322bdac.png",
+    "star3": false,
+    "items": [
+     "c03e276b1288b359.png",
+     "76a409d854ecfc32.png",
+     "6c11d8113d9dd446.png"
+    ]
+   },
+   {
+    "name": "Blitzcrank",
+    "icon": "55fd66e9e799936e.png",
+    "star3": false,
+    "items": [
+     "caf4f8a61ee6a72b.png",
+     "08841f5ccd724518.png"
+    ]
+   }
+  ],
+  "traits": [
+   "N.O.V.A.",
+   "Brawler",
+   "Sniper",
+   "Bastion",
+   "Vanguard",
+   "Space Groove"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Dummify",
+    "icon": "bde4ae2db71acfd3.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exiles I",
+    "icon": "81073aa394d2b9ce.png",
+    "tier": "S"
+   },
+   {
+    "name": "Electrocharge I",
+    "icon": "b900011622e3790a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Good For Something I",
+    "icon": "ae523343fc04cd5a.png",
+    "tier": "S"
+   },
+   {
+    "name": "AFK",
+    "icon": "0d9ce89bfc544a6a.png",
+    "tier": "A"
+   },
+   {
+    "name": "Band of Thieves",
+    "icon": "beec608ff9ec3940.png",
+    "tier": "A"
+   },
+   {
+    "name": "Cognitive Tax",
+    "icon": "2051a33fba491ee6.png",
+    "tier": "B"
+   },
+   {
+    "name": "Cognitive Tax+",
+    "icon": "2051a33fba491ee6.png",
+    "tier": "B"
+   }
+  ],
+  "avgPlace": 4.42,
+  "games": 98487
+ },
+ {
+  "id": 409048,
+  "title": "Heat Death \u00b7 Vanguard",
+  "units": [
+   {
+    "name": "Nasus",
+    "icon": "a59c758a391e4a54.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Leona",
+    "icon": "d164ec04180efe98.png",
+    "star3": true,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Lissandra",
+    "icon": "7eaaf88dd16f634a.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Zoe",
+    "icon": "96e4782903d226ce.png",
+    "star3": true,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": true,
+    "items": [
+     "853555e601c182fd.png",
+     "d27d73d00f0b1ce7.png",
+     "08841f5ccd724518.png"
+    ]
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "efffaa8139efd7ad.png",
+     "3cd8b56157eda0bc.png"
+    ]
+   },
+   {
+    "name": "Blitzcrank",
+    "icon": "55fd66e9e799936e.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Sona",
+    "icon": "90832d533b8cebce.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Arbiter",
+   "Dark Star",
+   "Conduit",
+   "Vanguard",
+   "Space Groove",
+   "Shepherd"
+  ],
+  "style": "reroll",
+  "styleDetail": "Mordekaiser 3\u2605",
+  "augments": [],
+  "avgPlace": 4.44,
+  "games": 1980
+ },
+ {
+  "id": 409008,
+  "title": "Conduit \u00b7 Miss Fortune",
+  "units": [
+   {
+    "name": "Aatrox",
+    "icon": "40d07f95918439d0.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Gragas",
+    "icon": "b5fef7f95ca45237.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Miss Fortune",
+    "icon": "c486f498cd9ee7d6.png",
+    "star3": true,
+    "items": [
+     "c03e276b1288b359.png",
+     "76a409d854ecfc32.png",
+     "085234fb2842b1fe.png"
+    ]
+   },
+   {
+    "name": "Maokai",
+    "icon": "2b4092a49e9cab12.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Viktor",
+    "icon": "ab8031cbcc69c304.png",
+    "star3": true,
+    "items": [
+     "c4ff48c4182304fb.png",
+     "5cfb8e2eb7b21a28.png",
+     "08841f5ccd724518.png"
+    ]
+   },
+   {
+    "name": "Ornn",
+    "icon": "2f2239a29562bbf3.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Rhaast",
+    "icon": "6642b4c8453fa74b.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Bard",
+    "icon": "aac2357d6d68b0bc.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "N.O.V.A.",
+   "Brawler",
+   "Conduit",
+   "Psionic",
+   "Bastion",
+   "Space Groove"
+  ],
+  "style": "reroll",
+  "styleDetail": "Miss Fortune 3\u2605",
+  "augments": [
+   {
+    "name": "AFK",
+    "icon": "0d9ce89bfc544a6a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Good For Something I",
+    "icon": "ae523343fc04cd5a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Team Building",
+    "icon": "52840d72fdc55e9c.png",
+    "tier": "S"
+   },
+   {
+    "name": "Swordsmith",
+    "icon": "c0c98f065c554c9b.png",
+    "tier": "S"
+   },
+   {
+    "name": "Sword Overflow",
+    "icon": "c05af85e9133849e.png",
+    "tier": "S"
+   },
+   {
+    "name": "Calculated Loss",
+    "icon": "76e99e8b732ef3da.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.46,
+  "games": 7126
+ },
+ {
+  "id": 409003,
+  "title": "Challenger \u00b7 Miss Fortune",
+  "units": [
+   {
+    "name": "Aatrox",
+    "icon": "40d07f95918439d0.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Bel'Veth",
+    "icon": "fe35b1559bb672e9.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Miss Fortune",
+    "icon": "c486f498cd9ee7d6.png",
+    "star3": true,
+    "items": [
+     "c03e276b1288b359.png",
+     "e881e94b2c1eb009.png",
+     "76a409d854ecfc32.png"
+    ]
+   },
+   {
+    "name": "Maokai",
+    "icon": "2b4092a49e9cab12.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Urgot",
+    "icon": "19104738c6382f82.png",
+    "star3": true,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "085234fb2842b1fe.png",
+     "0de8369b21cdcbe1.png"
+    ]
+   },
+   {
+    "name": "Ornn",
+    "icon": "2f2239a29562bbf3.png",
+    "star3": true,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Rhaast",
+    "icon": "6642b4c8453fa74b.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Kindred",
+    "icon": "c76b55300523212d.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "76a409d854ecfc32.png",
+     "085234fb2842b1fe.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Challenger",
+   "N.O.V.A.",
+   "Brawler",
+   "Marauder",
+   "Bastion",
+   "Space Groove"
+  ],
+  "style": "reroll",
+  "styleDetail": "Miss Fortune 3\u2605",
+  "augments": [
+   {
+    "name": "Good For Something I",
+    "icon": "ae523343fc04cd5a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Second Wind",
+    "icon": "e7fcc80ee8c45f92.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Team Building",
+    "icon": "52840d72fdc55e9c.png",
+    "tier": "S"
+   },
+   {
+    "name": "Calculated Loss",
+    "icon": "76e99e8b732ef3da.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag+",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag++",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.47,
+  "games": 28015
+ },
+ {
+  "id": 409011,
+  "title": "Timebreaker \u00b7 Lulu",
+  "units": [
+   {
+    "name": "Aatrox",
+    "icon": "40d07f95918439d0.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Twisted Fate",
+    "icon": "a2dd3ad10043704c.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Jax",
+    "icon": "c19fa2745cff53ca.png",
+    "star3": true,
+    "items": [
+     "895e50378764fc42.png",
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png"
+    ]
+   },
+   {
+    "name": "Milio",
+    "icon": "f4a78615b9f0d55d.png",
+    "star3": true,
+    "items": [
+     "caf4f8a61ee6a72b.png",
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png"
+    ]
+   },
+   {
+    "name": "Pantheon",
+    "icon": "4ac007b484678b2b.png",
+    "star3": false,
+    "items": [
+     "efffaa8139efd7ad.png",
+     "895e50378764fc42.png",
+     "3cd8b56157eda0bc.png"
+    ]
+   },
+   {
+    "name": "Maokai",
+    "icon": "2b4092a49e9cab12.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Lulu",
+    "icon": "6204198317475435.png",
+    "star3": true,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Rhaast",
+    "icon": "6642b4c8453fa74b.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Replicator",
+   "N.O.V.A.",
+   "Fateweaver",
+   "Brawler",
+   "Bastion",
+   "Timebreaker"
+  ],
+  "style": "reroll",
+  "styleDetail": "Lulu 3\u2605",
+  "augments": [
+   {
+    "name": "Good For Something I",
+    "icon": "ae523343fc04cd5a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Second Wind",
+    "icon": "e7fcc80ee8c45f92.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Team Building",
+    "icon": "52840d72fdc55e9c.png",
+    "tier": "S"
+   },
+   {
+    "name": "Calculated Loss",
+    "icon": "76e99e8b732ef3da.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag+",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag++",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.47,
+  "games": 45635
+ },
+ {
+  "id": 409009,
+  "title": "Shepherd \u00b7 Viktor",
+  "units": [
+   {
+    "name": "Lissandra",
+    "icon": "7eaaf88dd16f634a.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Pyke",
+    "icon": "e535b48e11f9d7de.png",
+    "star3": false,
+    "items": [
+     "853555e601c182fd.png",
+     "76a409d854ecfc32.png",
+     "31c0a9df7625e69c.png"
+    ]
+   },
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Viktor",
+    "icon": "ab8031cbcc69c304.png",
+    "star3": true,
+    "items": [
+     "c4ff48c4182304fb.png",
+     "08841f5ccd724518.png",
+     "7a6961fcc382d711.png"
+    ]
+   },
+   {
+    "name": "Rhaast",
+    "icon": "6642b4c8453fa74b.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Nami",
+    "icon": "8b670f32cf866454.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Replicator",
+   "Dark Star",
+   "Voyager",
+   "Conduit",
+   "Psionic",
+   "Vanguard",
+   "Space Groove",
+   "Shepherd"
+  ],
+  "style": "reroll",
+  "styleDetail": "Viktor 3\u2605",
+  "augments": [
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exiles I",
+    "icon": "81073aa394d2b9ce.png",
+    "tier": "S"
+   },
+   {
+    "name": "Electrocharge I",
+    "icon": "b900011622e3790a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Good For Something I",
+    "icon": "ae523343fc04cd5a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Group Hug I",
+    "icon": "0491822f62d6c937.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slice of Life",
+    "icon": "d9121e81759b284e.png",
+    "tier": "S"
+   },
+   {
+    "name": "Second Wind",
+    "icon": "e7fcc80ee8c45f92.png",
+    "tier": "S"
+   },
+   {
+    "name": "Team Building",
+    "icon": "52840d72fdc55e9c.png",
+    "tier": "S"
+   },
+   {
+    "name": "Teaming Up",
+    "icon": "f7ddeb177a114d47.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.5,
+  "games": 7518
+ },
+ {
+  "id": 409038,
+  "title": "Heat Death \u00b7 Kai'Sa",
+  "units": [
+   {
+    "name": "Cho'Gath",
+    "icon": "414c42d611d29a42.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Lissandra",
+    "icon": "7eaaf88dd16f634a.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": true,
+    "items": [
+     "853555e601c182fd.png",
+     "d27d73d00f0b1ce7.png",
+     "08841f5ccd724518.png"
+    ]
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": [
+     "8c06589ca216f271.png",
+     "bc47c2f7ba1a89e3.png",
+     "8b89b63a39914310.png"
+    ]
+   },
+   {
+    "name": "Kai'Sa",
+    "icon": "576920015eb9c661.png",
+    "star3": false,
+    "items": [
+     "c03e276b1288b359.png",
+     "76a409d854ecfc32.png"
+    ]
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Jhin",
+    "icon": "a565acc29322bdac.png",
+    "star3": false,
+    "items": [
+     "c03e276b1288b359.png",
+     "76a409d854ecfc32.png",
+     "085234fb2842b1fe.png"
+    ]
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Dark Star",
+   "Voyager",
+   "Vanguard",
+   "Shepherd"
+  ],
+  "style": "reroll",
+  "styleDetail": "Mordekaiser 3\u2605",
+  "augments": [],
+  "avgPlace": 4.5,
+  "games": 3043
+ },
+ {
+  "id": 409049,
+  "title": "Meeple \u00b7 Veigar",
+  "units": [
+   {
+    "name": "Poppy",
+    "icon": "4cc40ff276f69749.png",
+    "star3": false,
+    "items": [
+     "895e50378764fc42.png",
+     "3cd8b56157eda0bc.png",
+     "2a98d25855f47dfc.png"
+    ]
+   },
+   {
+    "name": "Veigar",
+    "icon": "7849e00fffcca4e8.png",
+    "star3": true,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Lissandra",
+    "icon": "7eaaf88dd16f634a.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Rammus",
+    "icon": "f90cb6380e0f293d.png",
+    "star3": false,
+    "items": [
+     "895e50378764fc42.png",
+     "3cd8b56157eda0bc.png",
+     "2a98d25855f47dfc.png"
+    ]
+   },
+   {
+    "name": "Bard",
+    "icon": "aac2357d6d68b0bc.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "7d14e1e5280c568e.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Replicator",
+   "Meeple",
+   "Dark Star",
+   "Conduit",
+   "Bastion",
+   "Vanguard",
+   "Shepherd"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Missed Connections",
+    "icon": "527e7baf9acfbdaa.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Cursed Crown",
+    "icon": "bd06fe5143b12f95.png",
+    "tier": "S"
+   },
+   {
+    "name": "Prismatic Ticket",
+    "icon": "6dd15936191bde01.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.51,
+  "games": 48374
+ },
+ {
+  "id": 409024,
+  "title": "Stargazer \u00b7 Riven",
+  "units": [
+   {
+    "name": "Talon",
+    "icon": "909153a8f061a4ee.png",
+    "star3": false,
+    "items": [
+     "853555e601c182fd.png",
+     "d27d73d00f0b1ce7.png",
+     "e8bc6f7ac38b7be3.png"
+    ]
+   },
+   {
+    "name": "Jax",
+    "icon": "c19fa2745cff53ca.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": [
+     "caf4f8a61ee6a72b.png",
+     "8b89b63a39914310.png"
+    ]
+   },
+   {
+    "name": "Lulu",
+    "icon": "6204198317475435.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "efffaa8139efd7ad.png",
+     "3cd8b56157eda0bc.png",
+     "3cd8b56157eda0bc.png"
+    ]
+   },
+   {
+    "name": "Riven",
+    "icon": "5a207e124dc36d66.png",
+    "star3": false,
+    "items": [
+     "caf4f8a61ee6a72b.png",
+     "034c34afa7b9feeb.png",
+     "0de8369b21cdcbe1.png"
+    ]
+   },
+   {
+    "name": "Xayah",
+    "icon": "704e088b2998520c.png",
+    "star3": false,
+    "items": [
+     "5f2ec041371ff67e.png",
+     "c79e7e2a0d0c1e89.png",
+     "5948bb283d91af25.png"
+    ]
+   },
+   {
+    "name": "Jhin",
+    "icon": "a565acc29322bdac.png",
+    "star3": false,
+    "items": [
+     "caf4f8a61ee6a72b.png",
+     "c03e276b1288b359.png",
+     "76a409d854ecfc32.png"
+    ]
+   },
+   {
+    "name": "Shen",
+    "icon": "4a6986ec1fae86a1.png",
+    "star3": false,
+    "items": [
+     "caf4f8a61ee6a72b.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Rogue",
+   "Dark Star",
+   "Sniper",
+   "Bastion",
+   "Vanguard",
+   "Stargazer"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Dummify",
+    "icon": "bde4ae2db71acfd3.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exiles I",
+    "icon": "81073aa394d2b9ce.png",
+    "tier": "S"
+   },
+   {
+    "name": "Electrocharge I",
+    "icon": "b900011622e3790a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Good For Something I",
+    "icon": "ae523343fc04cd5a.png",
+    "tier": "S"
+   },
+   {
+    "name": "AFK",
+    "icon": "0d9ce89bfc544a6a.png",
+    "tier": "A"
+   },
+   {
+    "name": "Band of Thieves",
+    "icon": "beec608ff9ec3940.png",
+    "tier": "A"
+   },
+   {
+    "name": "Cognitive Tax",
+    "icon": "2051a33fba491ee6.png",
+    "tier": "B"
+   },
+   {
+    "name": "Cognitive Tax+",
+    "icon": "2051a33fba491ee6.png",
+    "tier": "B"
+   }
+  ],
+  "avgPlace": 4.52,
+  "games": 3725
+ },
+ {
+  "id": 409033,
+  "title": "Psionic \u00b7 Pyke",
+  "units": [
+   {
+    "name": "Lissandra",
+    "icon": "7eaaf88dd16f634a.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Pyke",
+    "icon": "e535b48e11f9d7de.png",
+    "star3": true,
+    "items": [
+     "cfdc6513c6e1680d.png",
+     "853555e601c182fd.png",
+     "76a409d854ecfc32.png"
+    ]
+   },
+   {
+    "name": "Gragas",
+    "icon": "b5fef7f95ca45237.png",
+    "star3": true,
+    "items": [
+     "895e50378764fc42.png",
+     "8b89b63a39914310.png",
+     "74c587ae6919f95a.png"
+    ]
+   },
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "The Mighty Mech",
+    "icon": "bd5fed58061b7b8b.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Master Yi",
+    "icon": "fc6bc5c04abc477e.png",
+    "star3": false,
+    "items": [
+     "666ec5f443dd2864.png",
+     "853555e601c182fd.png",
+     "085234fb2842b1fe.png"
+    ]
+   },
+   {
+    "name": "Tahm Kench",
+    "icon": "2d597e4bb4f136ed.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Sona",
+    "icon": "90832d533b8cebce.png",
+    "star3": false,
+    "items": [
+     "afc536bf39d70c46.png",
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Dark Star",
+   "Voyager",
+   "Brawler",
+   "Psionic",
+   "Shepherd"
+  ],
+  "style": "reroll",
+  "styleDetail": "Pyke 3\u2605",
+  "augments": [
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Second Wind",
+    "icon": "e7fcc80ee8c45f92.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Team Building",
+    "icon": "52840d72fdc55e9c.png",
+    "tier": "S"
+   },
+   {
+    "name": "Contract Killer",
+    "icon": "d8d8f85632094fcd.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag+",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag++",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Commerce Core",
+    "icon": "ad13dad3a61b75f6.png",
+    "tier": "S"
+   },
+   {
+    "name": "Just Hit",
+    "icon": "686f83aee9121f1f.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.52,
+  "games": 5545
+ },
+ {
+  "id": 409029,
+  "title": "Timebreaker \u00b7 Pyke",
+  "units": [
+   {
+    "name": "Pyke",
+    "icon": "e535b48e11f9d7de.png",
+    "star3": true,
+    "items": [
+     "cfdc6513c6e1680d.png",
+     "853555e601c182fd.png",
+     "76a409d854ecfc32.png"
+    ]
+   },
+   {
+    "name": "Gragas",
+    "icon": "b5fef7f95ca45237.png",
+    "star3": true,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Gwen",
+    "icon": "df43c1fce6fb8c4e.png",
+    "star3": true,
+    "items": [
+     "08841f5ccd724518.png",
+     "085234fb2842b1fe.png",
+     "31c0a9df7625e69c.png"
+    ]
+   },
+   {
+    "name": "Milio",
+    "icon": "f4a78615b9f0d55d.png",
+    "star3": true,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": [
+     "853555e601c182fd.png",
+     "08841f5ccd724518.png",
+     "31c0a9df7625e69c.png"
+    ]
+   },
+   {
+    "name": "Pantheon",
+    "icon": "4ac007b484678b2b.png",
+    "star3": true,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Rhaast",
+    "icon": "6642b4c8453fa74b.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Riven",
+    "icon": "5a207e124dc36d66.png",
+    "star3": false,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "085234fb2842b1fe.png",
+     "0de8369b21cdcbe1.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Rogue",
+   "Voyager",
+   "Brawler",
+   "Psionic",
+   "Space Groove",
+   "Timebreaker"
+  ],
+  "style": "reroll",
+  "styleDetail": "Pyke 3\u2605",
+  "augments": [
+   {
+    "name": "Exiles I",
+    "icon": "81073aa394d2b9ce.png",
+    "tier": "S"
+   },
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Good For Something I",
+    "icon": "ae523343fc04cd5a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Glass Cannon I",
+    "icon": "1141b549addeb855.png",
+    "tier": "S"
+   },
+   {
+    "name": "On a Roll",
+    "icon": "e7d6641832187337.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Second Wind",
+    "icon": "e7fcc80ee8c45f92.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Team Building",
+    "icon": "52840d72fdc55e9c.png",
+    "tier": "S"
+   },
+   {
+    "name": "Calculated Loss",
+    "icon": "76e99e8b732ef3da.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.55,
+  "games": 5112
+ },
+ {
+  "id": 409016,
+  "title": "Dark Star \u00b7 Illaoi",
+  "units": [
+   {
+    "name": "Cho'Gath",
+    "icon": "414c42d611d29a42.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Lissandra",
+    "icon": "7eaaf88dd16f634a.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Kai'Sa",
+    "icon": "576920015eb9c661.png",
+    "star3": false,
+    "items": [
+     "96c25688e0407133.png",
+     "76a409d854ecfc32.png",
+     "6c11d8113d9dd446.png"
+    ]
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "e8bc6f7ac38b7be3.png"
+    ]
+   },
+   {
+    "name": "Jhin",
+    "icon": "a565acc29322bdac.png",
+    "star3": false,
+    "items": [
+     "c03e276b1288b359.png",
+     "76a409d854ecfc32.png",
+     "085234fb2842b1fe.png"
+    ]
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Dark Star",
+   "Voyager",
+   "Vanguard",
+   "Shepherd"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [],
+  "avgPlace": 4.56,
+  "games": 4676
+ },
+ {
+  "id": 409054,
+  "title": "Conduit \u00b7 Miss Fortune",
+  "units": [
+   {
+    "name": "Leona",
+    "icon": "d164ec04180efe98.png",
+    "star3": true,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Zoe",
+    "icon": "96e4782903d226ce.png",
+    "star3": true,
+    "items": [
+     "5cfb8e2eb7b21a28.png",
+     "7a6961fcc382d711.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Miss Fortune",
+    "icon": "c486f498cd9ee7d6.png",
+    "star3": false,
+    "items": [
+     "c03e276b1288b359.png",
+     "76a409d854ecfc32.png",
+     "6c11d8113d9dd446.png"
+    ]
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Viktor",
+    "icon": "ab8031cbcc69c304.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "085234fb2842b1fe.png",
+     "7a6961fcc382d711.png"
+    ]
+   },
+   {
+    "name": "Aurelion Sol",
+    "icon": "a93af0f5f6773a33.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "085234fb2842b1fe.png",
+     "7a6961fcc382d711.png"
+    ]
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "efffaa8139efd7ad.png",
+     "3cd8b56157eda0bc.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Arbiter",
+   "Conduit",
+   "Vanguard"
+  ],
+  "style": "reroll",
+  "styleDetail": "Zoe 3\u2605",
+  "augments": [],
+  "avgPlace": 4.57,
+  "games": 3391
+ },
+ {
+  "id": 409037,
+  "title": "Dark Star \u00b7 Cho'Gath",
+  "units": [
+   {
+    "name": "Cho'Gath",
+    "icon": "414c42d611d29a42.png",
+    "star3": true,
+    "items": [
+     "3cd8b56157eda0bc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Lissandra",
+    "icon": "7eaaf88dd16f634a.png",
+    "star3": true,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": [
+     "07d07350751f359a.png",
+     "8b89b63a39914310.png"
+    ]
+   },
+   {
+    "name": "Pantheon",
+    "icon": "4ac007b484678b2b.png",
+    "star3": false,
+    "items": [
+     "07d07350751f359a.png",
+     "8b89b63a39914310.png"
+    ]
+   },
+   {
+    "name": "Kai'Sa",
+    "icon": "576920015eb9c661.png",
+    "star3": false,
+    "items": [
+     "76a409d854ecfc32.png",
+     "085234fb2842b1fe.png",
+     "e8bc6f7ac38b7be3.png"
+    ]
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "The Mighty Mech",
+    "icon": "bd5fed58061b7b8b.png",
+    "star3": false,
+    "items": [
+     "07d07350751f359a.png",
+     "8b89b63a39914310.png"
+    ]
+   },
+   {
+    "name": "Jhin",
+    "icon": "a565acc29322bdac.png",
+    "star3": false,
+    "items": [
+     "c03e276b1288b359.png",
+     "76a409d854ecfc32.png",
+     "5f2ec041371ff67e.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Replicator",
+   "Dark Star",
+   "Voyager",
+   "Brawler"
+  ],
+  "style": "reroll",
+  "styleDetail": "Cho'Gath 3\u2605",
+  "augments": [],
+  "avgPlace": 4.58,
+  "games": 44692
+ },
+ {
+  "id": 409007,
+  "title": "Self Destruct",
+  "units": [
+   {
+    "name": "Cho'Gath",
+    "icon": "414c42d611d29a42.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Pyke",
+    "icon": "e535b48e11f9d7de.png",
+    "star3": true,
+    "items": [
+     "cfdc6513c6e1680d.png",
+     "853555e601c182fd.png",
+     "76a409d854ecfc32.png"
+    ]
+   },
+   {
+    "name": "Gragas",
+    "icon": "b5fef7f95ca45237.png",
+    "star3": true,
+    "items": [
+     "afc536bf39d70c46.png",
+     "08841f5ccd724518.png",
+     "31c0a9df7625e69c.png"
+    ]
+   },
+   {
+    "name": "Pantheon",
+    "icon": "4ac007b484678b2b.png",
+    "star3": false,
+    "items": [
+     "07d07350751f359a.png",
+     "8b89b63a39914310.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Maokai",
+    "icon": "2b4092a49e9cab12.png",
+    "star3": false,
+    "items": [
+     "07d07350751f359a.png",
+     "8b89b63a39914310.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Urgot",
+    "icon": "19104738c6382f82.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Master Yi",
+    "icon": "fc6bc5c04abc477e.png",
+    "star3": false,
+    "items": [
+     "666ec5f443dd2864.png",
+     "853555e601c182fd.png",
+     "085234fb2842b1fe.png"
+    ]
+   },
+   {
+    "name": "Tahm Kench",
+    "icon": "2d597e4bb4f136ed.png",
+    "star3": false,
+    "items": [
+     "07d07350751f359a.png",
+     "8b89b63a39914310.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Sona",
+    "icon": "90832d533b8cebce.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Brawler",
+   "Marauder",
+   "Psionic"
+  ],
+  "style": "reroll",
+  "styleDetail": "Gragas 3\u2605",
+  "augments": [],
+  "avgPlace": 4.59,
+  "games": 8949
+ },
+ {
+  "id": 409021,
+  "title": "Sniper \u00b7 Xayah",
+  "units": [
+   {
+    "name": "Gnar",
+    "icon": "1b2db4a2b2cb99c7.png",
+    "star3": false,
+    "items": [
+     "c03e276b1288b359.png",
+     "e881e94b2c1eb009.png",
+     "76a409d854ecfc32.png"
+    ]
+   },
+   {
+    "name": "Jax",
+    "icon": "c19fa2745cff53ca.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Rhaast",
+    "icon": "6642b4c8453fa74b.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Rammus",
+    "icon": "f90cb6380e0f293d.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "efffaa8139efd7ad.png",
+     "3cd8b56157eda0bc.png",
+     "3cd8b56157eda0bc.png"
+    ]
+   },
+   {
+    "name": "Xayah",
+    "icon": "704e088b2998520c.png",
+    "star3": false,
+    "items": [
+     "c79e7e2a0d0c1e89.png",
+     "5948bb283d91af25.png",
+     "5948bb283d91af25.png"
+    ]
+   },
+   {
+    "name": "Bard",
+    "icon": "aac2357d6d68b0bc.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Jhin",
+    "icon": "a565acc29322bdac.png",
+    "star3": false,
+    "items": [
+     "c03e276b1288b359.png",
+     "76a409d854ecfc32.png",
+     "5f2ec041371ff67e.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Meeple",
+   "Dark Star",
+   "Conduit",
+   "Sniper",
+   "Bastion",
+   "Vanguard"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Dummify",
+    "icon": "bde4ae2db71acfd3.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exiles I",
+    "icon": "81073aa394d2b9ce.png",
+    "tier": "S"
+   },
+   {
+    "name": "Electrocharge I",
+    "icon": "b900011622e3790a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Good For Something I",
+    "icon": "ae523343fc04cd5a.png",
+    "tier": "S"
+   },
+   {
+    "name": "AFK",
+    "icon": "0d9ce89bfc544a6a.png",
+    "tier": "A"
+   },
+   {
+    "name": "Band of Thieves",
+    "icon": "beec608ff9ec3940.png",
+    "tier": "A"
+   },
+   {
+    "name": "Cognitive Tax",
+    "icon": "2051a33fba491ee6.png",
+    "tier": "B"
+   },
+   {
+    "name": "Cognitive Tax+",
+    "icon": "2051a33fba491ee6.png",
+    "tier": "B"
+   }
+  ],
+  "avgPlace": 4.59,
+  "games": 13044
+ },
+ {
+  "id": 409053,
+  "title": "Meeple \u00b7 Rammus",
+  "units": [
+   {
+    "name": "Milio",
+    "icon": "f4a78615b9f0d55d.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Fizz",
+    "icon": "fe0b754b94d64807.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Rammus",
+    "icon": "f90cb6380e0f293d.png",
+    "star3": false,
+    "items": [
+     "895e50378764fc42.png",
+     "3cd8b56157eda0bc.png",
+     "2a98d25855f47dfc.png"
+    ]
+   },
+   {
+    "name": "Corki",
+    "icon": "f77bc00e672058dc.png",
+    "star3": false,
+    "items": [
+     "c03e276b1288b359.png",
+     "5f2ec041371ff67e.png",
+     "6c11d8113d9dd446.png"
+    ]
+   },
+   {
+    "name": "The Mighty Mech",
+    "icon": "bd5fed58061b7b8b.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Riven",
+    "icon": "5a207e124dc36d66.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Bard",
+    "icon": "aac2357d6d68b0bc.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "e8bc6f7ac38b7be3.png"
+    ]
+   },
+   {
+    "name": "Shen",
+    "icon": "4a6986ec1fae86a1.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Rogue",
+   "Meeple",
+   "Fateweaver",
+   "Voyager",
+   "Bastion",
+   "Timebreaker"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Band of Thieves",
+    "icon": "beec608ff9ec3940.png",
+    "tier": "S"
+   },
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Good For Something I",
+    "icon": "ae523343fc04cd5a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Booster Pack++",
+    "icon": "d496656e84080692.png",
+    "tier": "S"
+   },
+   {
+    "name": "Calculated Loss",
+    "icon": "76e99e8b732ef3da.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Epic Rolldown",
+    "icon": "fb1557c4a5f99c43.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "ReinFOURcement",
+    "icon": "0068cff2161c57b9.png",
+    "tier": "S"
+   },
+   {
+    "name": "Comeback Story",
+    "icon": "92e05bd5c2276b9e.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.59,
+  "games": 48027
+ },
+ {
+  "id": 409020,
+  "title": "The Big Bang \u00b7 Voyager",
+  "units": [
+   {
+    "name": "Poppy",
+    "icon": "4cc40ff276f69749.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Lissandra",
+    "icon": "7eaaf88dd16f634a.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Pyke",
+    "icon": "e535b48e11f9d7de.png",
+    "star3": true,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "853555e601c182fd.png",
+     "76a409d854ecfc32.png"
+    ]
+   },
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": true,
+    "items": [
+     "853555e601c182fd.png",
+     "08841f5ccd724518.png",
+     "31c0a9df7625e69c.png"
+    ]
+   },
+   {
+    "name": "Aurora",
+    "icon": "14a63f881bae1b5c.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Rammus",
+    "icon": "f90cb6380e0f293d.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "The Mighty Mech",
+    "icon": "bd5fed58061b7b8b.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "8b89b63a39914310.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Sona",
+    "icon": "90832d533b8cebce.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Meeple",
+   "Dark Star",
+   "Voyager",
+   "Psionic",
+   "Bastion",
+   "Shepherd"
+  ],
+  "style": "reroll",
+  "styleDetail": "Meepsie 3\u2605",
+  "augments": [],
+  "avgPlace": 4.6,
+  "games": 2562
+ },
+ {
+  "id": 409039,
+  "title": "Termeepnal Velocity",
+  "units": [
+   {
+    "name": "Poppy",
+    "icon": "4cc40ff276f69749.png",
+    "star3": true,
+    "items": [
+     "96c25688e0407133.png",
+     "76a409d854ecfc32.png",
+     "085234fb2842b1fe.png"
+    ]
+   },
+   {
+    "name": "Gnar",
+    "icon": "1b2db4a2b2cb99c7.png",
+    "star3": false,
+    "items": [
+     "c03e276b1288b359.png",
+     "e881e94b2c1eb009.png",
+     "76a409d854ecfc32.png"
+    ]
+   },
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": [
+     "8b89b63a39914310.png",
+     "74c587ae6919f95a.png"
+    ]
+   },
+   {
+    "name": "Fizz",
+    "icon": "fe0b754b94d64807.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Ornn",
+    "icon": "2f2239a29562bbf3.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Rammus",
+    "icon": "f90cb6380e0f293d.png",
+    "star3": false,
+    "items": [
+     "895e50378764fc42.png",
+     "3cd8b56157eda0bc.png",
+     "2a98d25855f47dfc.png"
+    ]
+   },
+   {
+    "name": "Corki",
+    "icon": "f77bc00e672058dc.png",
+    "star3": false,
+    "items": [
+     "c03e276b1288b359.png",
+     "5f2ec041371ff67e.png",
+     "6c11d8113d9dd446.png"
+    ]
+   },
+   {
+    "name": "Bard",
+    "icon": "aac2357d6d68b0bc.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "7a6961fcc382d711.png"
+    ]
+   },
+   {
+    "name": "Shen",
+    "icon": "4a6986ec1fae86a1.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Meeple",
+   "Bastion",
+   "Space Groove"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [],
+  "avgPlace": 4.6,
+  "games": 3085
+ },
+ {
+  "id": 409022,
+  "title": "Challenger \u00b7 Jinx",
+  "units": [
+   {
+    "name": "Aatrox",
+    "icon": "40d07f95918439d0.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png",
+     "c730af989906bafe.png"
+    ]
+   },
+   {
+    "name": "Bel'Veth",
+    "icon": "fe35b1559bb672e9.png",
+    "star3": true,
+    "items": [
+     "085234fb2842b1fe.png",
+     "021131a2bc82b58a.png",
+     "5948bb283d91af25.png"
+    ]
+   },
+   {
+    "name": "Jinx",
+    "icon": "29c0eb3f0041ab3c.png",
+    "star3": true,
+    "items": [
+     "c03e276b1288b359.png",
+     "5f2ec041371ff67e.png",
+     "c79e7e2a0d0c1e89.png"
+    ]
+   },
+   {
+    "name": "Akali",
+    "icon": "89aee7e6a05038f5.png",
+    "star3": true,
+    "items": [
+     "853555e601c182fd.png",
+     "6c11d8113d9dd446.png",
+     "31c0a9df7625e69c.png"
+    ]
+   },
+   {
+    "name": "Jax",
+    "icon": "c19fa2745cff53ca.png",
+    "star3": true,
+    "items": [
+     "895e50378764fc42.png",
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png"
+    ]
+   },
+   {
+    "name": "Miss Fortune",
+    "icon": "c486f498cd9ee7d6.png",
+    "star3": false,
+    "items": [
+     "c03e276b1288b359.png",
+     "e881e94b2c1eb009.png",
+     "76a409d854ecfc32.png"
+    ]
+   },
+   {
+    "name": "Diana",
+    "icon": "fe603118f10f8fd1.png",
+    "star3": false,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "e881e94b2c1eb009.png",
+     "c730af989906bafe.png"
+    ]
+   },
+   {
+    "name": "Kindred",
+    "icon": "c76b55300523212d.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "085234fb2842b1fe.png",
+     "5948bb283d91af25.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Challenger",
+   "N.O.V.A.",
+   "Marauder",
+   "Bastion"
+  ],
+  "style": "reroll",
+  "styleDetail": "Jinx 3\u2605",
+  "augments": [
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Second Wind",
+    "icon": "e7fcc80ee8c45f92.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Team Building",
+    "icon": "52840d72fdc55e9c.png",
+    "tier": "S"
+   },
+   {
+    "name": "NO SCOUT NO PIVOT",
+    "icon": "fb3162350722935d.png",
+    "tier": "S"
+   },
+   {
+    "name": "Two Much Value",
+    "icon": "dc0c85ec736e8276.png",
+    "tier": "S"
+   },
+   {
+    "name": "Calculated Loss",
+    "icon": "76e99e8b732ef3da.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag+",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.61,
+  "games": 6869
+ },
+ {
+  "id": 409058,
+  "title": "Vanguard \u00b7 Nunu & Willump",
+  "units": [
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "efffaa8139efd7ad.png",
+     "3cd8b56157eda0bc.png",
+     "3cd8b56157eda0bc.png"
+    ]
+   },
+   {
+    "name": "Bard",
+    "icon": "aac2357d6d68b0bc.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Blitzcrank",
+    "icon": "55fd66e9e799936e.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Sona",
+    "icon": "90832d533b8cebce.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Vex",
+    "icon": "b86c8163e45661fc.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "7a6961fcc382d711.png",
+     "c79e7e2a0d0c1e89.png"
+    ]
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Dark Star",
+   "Voyager",
+   "Conduit",
+   "Vanguard",
+   "Space Groove",
+   "Shepherd"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Band of Thieves",
+    "icon": "beec608ff9ec3940.png",
+    "tier": "S"
+   },
+   {
+    "name": "Good For Something I",
+    "icon": "ae523343fc04cd5a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Late Game Specialist",
+    "icon": "986e554f6cae1064.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "One, Two, Five!",
+    "icon": "0ccda3d1c2e65e32.png",
+    "tier": "S"
+   },
+   {
+    "name": "Second Wind",
+    "icon": "e7fcc80ee8c45f92.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Birthday Reunion",
+    "icon": "217d7db0e1364958.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Gilded Steel",
+    "icon": "c6524c51b50bc54c.png",
+    "tier": "S"
+   },
+   {
+    "name": "Group Hug II",
+    "icon": "7b5894b27188d2ff.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.61,
+  "games": 210517
+ },
+ {
+  "id": 409041,
+  "title": "Fateweaver \u00b7 Twisted Fate",
+  "units": [
+   {
+    "name": "Caitlyn",
+    "icon": "ab32860ecf751ff7.png",
+    "star3": true,
+    "items": [
+     "c03e276b1288b359.png",
+     "e881e94b2c1eb009.png",
+     "085234fb2842b1fe.png"
+    ]
+   },
+   {
+    "name": "Aatrox",
+    "icon": "40d07f95918439d0.png",
+    "star3": true,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png",
+     "c730af989906bafe.png"
+    ]
+   },
+   {
+    "name": "Twisted Fate",
+    "icon": "a2dd3ad10043704c.png",
+    "star3": true,
+    "items": [
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png",
+     "7a6961fcc382d711.png"
+    ]
+   },
+   {
+    "name": "Talon",
+    "icon": "909153a8f061a4ee.png",
+    "star3": true,
+    "items": [
+     "853555e601c182fd.png",
+     "d27d73d00f0b1ce7.png",
+     "e8bc6f7ac38b7be3.png"
+    ]
+   },
+   {
+    "name": "Jax",
+    "icon": "c19fa2745cff53ca.png",
+    "star3": true,
+    "items": [
+     "895e50378764fc42.png",
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png"
+    ]
+   },
+   {
+    "name": "Milio",
+    "icon": "f4a78615b9f0d55d.png",
+    "star3": false,
+    "items": [
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png",
+     "7a6961fcc382d711.png"
+    ]
+   },
+   {
+    "name": "Corki",
+    "icon": "f77bc00e672058dc.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Riven",
+    "icon": "5a207e124dc36d66.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Rogue",
+   "N.O.V.A.",
+   "Fateweaver",
+   "Bastion",
+   "Timebreaker"
+  ],
+  "style": "reroll",
+  "styleDetail": "Twisted Fate 3\u2605",
+  "augments": [
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Good For Something I",
+    "icon": "ae523343fc04cd5a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Missed Connections",
+    "icon": "527e7baf9acfbdaa.png",
+    "tier": "S"
+   },
+   {
+    "name": "On a Roll",
+    "icon": "e7d6641832187337.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "NO SCOUT NO PIVOT",
+    "icon": "fb3162350722935d.png",
+    "tier": "S"
+   },
+   {
+    "name": "Calculated Loss",
+    "icon": "76e99e8b732ef3da.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Early Learnings",
+    "icon": "595dfb1335cc8222.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag+",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.66,
+  "games": 19719
+ },
+ {
+  "id": 409045,
+  "title": "N.O.V.A. \u00b7 Kindred",
+  "units": [
+   {
+    "name": "Bel'Veth",
+    "icon": "fe35b1559bb672e9.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Gragas",
+    "icon": "b5fef7f95ca45237.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Maokai",
+    "icon": "2b4092a49e9cab12.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Urgot",
+    "icon": "19104738c6382f82.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Rhaast",
+    "icon": "6642b4c8453fa74b.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Kindred",
+    "icon": "c76b55300523212d.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "085234fb2842b1fe.png",
+     "5948bb283d91af25.png"
+    ]
+   },
+   {
+    "name": "Master Yi",
+    "icon": "fc6bc5c04abc477e.png",
+    "star3": false,
+    "items": [
+     "853555e601c182fd.png",
+     "085234fb2842b1fe.png",
+     "021131a2bc82b58a.png"
+    ]
+   },
+   {
+    "name": "Tahm Kench",
+    "icon": "2d597e4bb4f136ed.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Fiora",
+    "icon": "9e3ae8bbc645ccfb.png",
+    "star3": false,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "853555e601c182fd.png",
+     "0de8369b21cdcbe1.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Challenger",
+   "N.O.V.A.",
+   "Brawler",
+   "Marauder",
+   "Psionic"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Band of Thieves",
+    "icon": "beec608ff9ec3940.png",
+    "tier": "S"
+   },
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Good For Something I",
+    "icon": "ae523343fc04cd5a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Booster Pack++",
+    "icon": "d496656e84080692.png",
+    "tier": "S"
+   },
+   {
+    "name": "Calculated Loss",
+    "icon": "76e99e8b732ef3da.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Epic Rolldown",
+    "icon": "fb1557c4a5f99c43.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "ReinFOURcement",
+    "icon": "0068cff2161c57b9.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.67,
+  "games": 34730
+ },
+ {
+  "id": 409056,
+  "title": "Bastion \u00b7 Corki",
+  "units": [
+   {
+    "name": "Poppy",
+    "icon": "4cc40ff276f69749.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Caitlyn",
+    "icon": "ab32860ecf751ff7.png",
+    "star3": true,
+    "items": [
+     "c03e276b1288b359.png",
+     "e881e94b2c1eb009.png",
+     "6c11d8113d9dd446.png"
+    ]
+   },
+   {
+    "name": "Aatrox",
+    "icon": "40d07f95918439d0.png",
+    "star3": true,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png",
+     "c730af989906bafe.png"
+    ]
+   },
+   {
+    "name": "Jax",
+    "icon": "c19fa2745cff53ca.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Ornn",
+    "icon": "2f2239a29562bbf3.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Rammus",
+    "icon": "f90cb6380e0f293d.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Corki",
+    "icon": "f77bc00e672058dc.png",
+    "star3": false,
+    "items": [
+     "c03e276b1288b359.png",
+     "085234fb2842b1fe.png",
+     "6c11d8113d9dd446.png"
+    ]
+   },
+   {
+    "name": "Vex",
+    "icon": "b86c8163e45661fc.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "08841f5ccd724518.png",
+     "085234fb2842b1fe.png"
+    ]
+   },
+   {
+    "name": "Shen",
+    "icon": "4a6986ec1fae86a1.png",
+    "star3": false,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "e881e94b2c1eb009.png",
+     "c730af989906bafe.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Meeple",
+   "N.O.V.A.",
+   "Fateweaver",
+   "Bastion",
+   "Space Groove"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Band of Thieves",
+    "icon": "beec608ff9ec3940.png",
+    "tier": "S"
+   },
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Good For Something I",
+    "icon": "ae523343fc04cd5a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Booster Pack++",
+    "icon": "d496656e84080692.png",
+    "tier": "S"
+   },
+   {
+    "name": "Calculated Loss",
+    "icon": "76e99e8b732ef3da.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Epic Rolldown",
+    "icon": "fb1557c4a5f99c43.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "ReinFOURcement",
+    "icon": "0068cff2161c57b9.png",
+    "tier": "S"
+   },
+   {
+    "name": "Comeback Story",
+    "icon": "92e05bd5c2276b9e.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.68,
+  "games": 7922
+ },
+ {
+  "id": 409035,
+  "title": "Replicator \u00b7 Miss Fortune",
+  "units": [
+   {
+    "name": "Aatrox",
+    "icon": "40d07f95918439d0.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Jax",
+    "icon": "c19fa2745cff53ca.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Pantheon",
+    "icon": "4ac007b484678b2b.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Miss Fortune",
+    "icon": "c486f498cd9ee7d6.png",
+    "star3": true,
+    "items": [
+     "c03e276b1288b359.png",
+     "76a409d854ecfc32.png",
+     "e8bc6f7ac38b7be3.png"
+    ]
+   },
+   {
+    "name": "Maokai",
+    "icon": "2b4092a49e9cab12.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Lulu",
+    "icon": "6204198317475435.png",
+    "star3": true,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Nami",
+    "icon": "8b670f32cf866454.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "efffaa8139efd7ad.png",
+     "3cd8b56157eda0bc.png"
+    ]
+   },
+   {
+    "name": "Morgana",
+    "icon": "fe400a2bb06fdcc4.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Replicator",
+   "N.O.V.A.",
+   "Brawler",
+   "Bastion",
+   "Space Groove"
+  ],
+  "style": "reroll",
+  "styleDetail": "Miss Fortune 3\u2605",
+  "augments": [],
+  "avgPlace": 4.69,
+  "games": 8631
+ },
+ {
+  "id": 409040,
+  "title": "Vanguard \u00b7 LeBlanc",
+  "units": [
+   {
+    "name": "Leona",
+    "icon": "d164ec04180efe98.png",
+    "star3": true,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Zoe",
+    "icon": "96e4782903d226ce.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "efffaa8139efd7ad.png",
+     "3cd8b56157eda0bc.png",
+     "3cd8b56157eda0bc.png"
+    ]
+   },
+   {
+    "name": "LeBlanc",
+    "icon": "9153c0807ab5c7ea.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "08841f5ccd724518.png",
+     "085234fb2842b1fe.png"
+    ]
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Arbiter",
+   "Dark Star",
+   "Voyager",
+   "Conduit",
+   "Vanguard",
+   "Shepherd"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Band of Thieves",
+    "icon": "beec608ff9ec3940.png",
+    "tier": "S"
+   },
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Booster Pack++",
+    "icon": "d496656e84080692.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Calculated Loss",
+    "icon": "76e99e8b732ef3da.png",
+    "tier": "S"
+   },
+   {
+    "name": "Epic Rolldown",
+    "icon": "fb1557c4a5f99c43.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "ReinFOURcement",
+    "icon": "0068cff2161c57b9.png",
+    "tier": "S"
+   },
+   {
+    "name": "Commerce Core",
+    "icon": "ad13dad3a61b75f6.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.69,
+  "games": 42088
+ },
+ {
+  "id": 409030,
+  "title": "Challenger \u00b7 Miss Fortune",
+  "units": [
+   {
+    "name": "Akali",
+    "icon": "89aee7e6a05038f5.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Miss Fortune",
+    "icon": "c486f498cd9ee7d6.png",
+    "star3": true,
+    "items": [
+     "c03e276b1288b359.png",
+     "e881e94b2c1eb009.png",
+     "76a409d854ecfc32.png"
+    ]
+   },
+   {
+    "name": "Maokai",
+    "icon": "2b4092a49e9cab12.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Urgot",
+    "icon": "19104738c6382f82.png",
+    "star3": false,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "0de8369b21cdcbe1.png",
+     "c730af989906bafe.png"
+    ]
+   },
+   {
+    "name": "Diana",
+    "icon": "fe603118f10f8fd1.png",
+    "star3": false,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "e881e94b2c1eb009.png",
+     "c730af989906bafe.png"
+    ]
+   },
+   {
+    "name": "Rhaast",
+    "icon": "6642b4c8453fa74b.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Kindred",
+    "icon": "c76b55300523212d.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "76a409d854ecfc32.png",
+     "5948bb283d91af25.png"
+    ]
+   },
+   {
+    "name": "Tahm Kench",
+    "icon": "2d597e4bb4f136ed.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Challenger",
+   "N.O.V.A.",
+   "Brawler",
+   "Marauder"
+  ],
+  "style": "reroll",
+  "styleDetail": "Miss Fortune 3\u2605",
+  "augments": [
+   {
+    "name": "Good For Something I",
+    "icon": "ae523343fc04cd5a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Second Wind",
+    "icon": "e7fcc80ee8c45f92.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Team Building",
+    "icon": "52840d72fdc55e9c.png",
+    "tier": "S"
+   },
+   {
+    "name": "Calculated Loss",
+    "icon": "76e99e8b732ef3da.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag+",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag++",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.71,
+  "games": 2235
+ },
+ {
+  "id": 409042,
+  "title": "Brawler \u00b7 Ezreal",
+  "units": [
+   {
+    "name": "Ezreal",
+    "icon": "b57e9fff19cf4dae.png",
+    "star3": true,
+    "items": [
+     "c03e276b1288b359.png",
+     "76a409d854ecfc32.png",
+     "e8bc6f7ac38b7be3.png"
+    ]
+   },
+   {
+    "name": "Cho'Gath",
+    "icon": "414c42d611d29a42.png",
+    "star3": true,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Milio",
+    "icon": "f4a78615b9f0d55d.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Pantheon",
+    "icon": "4ac007b484678b2b.png",
+    "star3": false,
+    "items": [
+     "8b89b63a39914310.png",
+     "74c587ae6919f95a.png"
+    ]
+   },
+   {
+    "name": "Maokai",
+    "icon": "2b4092a49e9cab12.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Riven",
+    "icon": "5a207e124dc36d66.png",
+    "star3": false,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "0de8369b21cdcbe1.png",
+     "c730af989906bafe.png"
+    ]
+   },
+   {
+    "name": "Tahm Kench",
+    "icon": "2d597e4bb4f136ed.png",
+    "star3": false,
+    "items": [
+     "8b89b63a39914310.png",
+     "74c587ae6919f95a.png"
+    ]
+   },
+   {
+    "name": "Jhin",
+    "icon": "a565acc29322bdac.png",
+    "star3": false,
+    "items": [
+     "5f2ec041371ff67e.png",
+     "c79e7e2a0d0c1e89.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Dark Star",
+   "Brawler",
+   "Sniper",
+   "Timebreaker"
+  ],
+  "style": "reroll",
+  "styleDetail": "Ezreal 3\u2605",
+  "augments": [
+   {
+    "name": "Missed Connections",
+    "icon": "527e7baf9acfbdaa.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.72,
+  "games": 34163
+ },
+ {
+  "id": 409046,
+  "title": "Shepherd \u00b7 Nami",
+  "units": [
+   {
+    "name": "Lissandra",
+    "icon": "7eaaf88dd16f634a.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Rhaast",
+    "icon": "6642b4c8453fa74b.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "The Mighty Mech",
+    "icon": "bd5fed58061b7b8b.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Nami",
+    "icon": "8b670f32cf866454.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "efffaa8139efd7ad.png",
+     "3cd8b56157eda0bc.png",
+     "3cd8b56157eda0bc.png"
+    ]
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Replicator",
+   "Dark Star",
+   "Voyager",
+   "Vanguard",
+   "Space Groove",
+   "Shepherd"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [],
+  "avgPlace": 4.81,
+  "games": 12365
+ },
+ {
+  "id": 409017,
+  "title": "Stellar Combo \u00b7 Jax",
+  "units": [
+   {
+    "name": "Caitlyn",
+    "icon": "ab32860ecf751ff7.png",
+    "star3": true,
+    "items": [
+     "c03e276b1288b359.png",
+     "e881e94b2c1eb009.png",
+     "085234fb2842b1fe.png"
+    ]
+   },
+   {
+    "name": "Aatrox",
+    "icon": "40d07f95918439d0.png",
+    "star3": true,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "0de8369b21cdcbe1.png",
+     "c730af989906bafe.png"
+    ]
+   },
+   {
+    "name": "Twisted Fate",
+    "icon": "a2dd3ad10043704c.png",
+    "star3": true,
+    "items": [
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png",
+     "7a6961fcc382d711.png"
+    ]
+   },
+   {
+    "name": "Talon",
+    "icon": "909153a8f061a4ee.png",
+    "star3": true,
+    "items": [
+     "853555e601c182fd.png",
+     "d27d73d00f0b1ce7.png",
+     "e8bc6f7ac38b7be3.png"
+    ]
+   },
+   {
+    "name": "Akali",
+    "icon": "89aee7e6a05038f5.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Jax",
+    "icon": "c19fa2745cff53ca.png",
+    "star3": true,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Maokai",
+    "icon": "2b4092a49e9cab12.png",
+    "star3": false,
+    "items": [
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Kindred",
+    "icon": "c76b55300523212d.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "085234fb2842b1fe.png",
+     "5948bb283d91af25.png"
+    ]
+   }
+  ],
+  "traits": [
+   "N.O.V.A.",
+   "Fateweaver",
+   "Bastion"
+  ],
+  "style": "reroll",
+  "styleDetail": "Aatrox 3\u2605",
+  "augments": [
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Good For Something I",
+    "icon": "ae523343fc04cd5a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Missed Connections",
+    "icon": "527e7baf9acfbdaa.png",
+    "tier": "S"
+   },
+   {
+    "name": "On a Roll",
+    "icon": "e7d6641832187337.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "NO SCOUT NO PIVOT",
+    "icon": "fb3162350722935d.png",
+    "tier": "S"
+   },
+   {
+    "name": "Calculated Loss",
+    "icon": "76e99e8b732ef3da.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Early Learnings",
+    "icon": "595dfb1335cc8222.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag+",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.82,
+  "games": 1299
+ },
+ {
+  "id": 409026,
+  "title": "Vanguard \u00b7 Aurelion Sol",
+  "units": [
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Aurelion Sol",
+    "icon": "a93af0f5f6773a33.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "085234fb2842b1fe.png",
+     "7a6961fcc382d711.png"
+    ]
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "3cd8b56157eda0bc.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Bard",
+    "icon": "aac2357d6d68b0bc.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "085234fb2842b1fe.png",
+     "7a6961fcc382d711.png"
+    ]
+   },
+   {
+    "name": "Blitzcrank",
+    "icon": "55fd66e9e799936e.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Sona",
+    "icon": "90832d533b8cebce.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Dark Star",
+   "Voyager",
+   "Conduit",
+   "Vanguard",
+   "Space Groove",
+   "Shepherd"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Band of Thieves",
+    "icon": "beec608ff9ec3940.png",
+    "tier": "S"
+   },
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Booster Pack++",
+    "icon": "d496656e84080692.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Calculated Loss",
+    "icon": "76e99e8b732ef3da.png",
+    "tier": "S"
+   },
+   {
+    "name": "Epic Rolldown",
+    "icon": "fb1557c4a5f99c43.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "ReinFOURcement",
+    "icon": "0068cff2161c57b9.png",
+    "tier": "S"
+   },
+   {
+    "name": "Commerce Core",
+    "icon": "ad13dad3a61b75f6.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.82,
+  "games": 15534
+ },
+ {
+  "id": 409050,
+  "title": "Bonk!",
+  "units": [
+   {
+    "name": "Teemo",
+    "icon": "2f76af333babec74.png",
+    "star3": true,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "d27d73d00f0b1ce7.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Nasus",
+    "icon": "a59c758a391e4a54.png",
+    "star3": true,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "e881e94b2c1eb009.png",
+     "c730af989906bafe.png"
+    ]
+   },
+   {
+    "name": "Leona",
+    "icon": "d164ec04180efe98.png",
+    "star3": true,
+    "items": [
+     "8c06589ca216f271.png",
+     "bc47c2f7ba1a89e3.png",
+     "8b89b63a39914310.png"
+    ]
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "efffaa8139efd7ad.png",
+     "3cd8b56157eda0bc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "LeBlanc",
+    "icon": "9153c0807ab5c7ea.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "085234fb2842b1fe.png",
+     "7a6961fcc382d711.png"
+    ]
+   },
+   {
+    "name": "Blitzcrank",
+    "icon": "55fd66e9e799936e.png",
+    "star3": false,
+    "items": [
+     "7a6961fcc382d711.png",
+     "31c0a9df7625e69c.png"
+    ]
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Arbiter",
+   "Vanguard",
+   "Space Groove",
+   "Shepherd"
+  ],
+  "style": "reroll",
+  "styleDetail": "Nasus 3\u2605",
+  "augments": [],
+  "avgPlace": 4.82,
+  "games": 3766
+ },
+ {
+  "id": 409023,
+  "title": "Challenger \u00b7 Miss Fortune",
+  "units": [
+   {
+    "name": "Aatrox",
+    "icon": "40d07f95918439d0.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Leona",
+    "icon": "d164ec04180efe98.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Bel'Veth",
+    "icon": "fe35b1559bb672e9.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Miss Fortune",
+    "icon": "c486f498cd9ee7d6.png",
+    "star3": true,
+    "items": [
+     "c03e276b1288b359.png",
+     "e881e94b2c1eb009.png",
+     "76a409d854ecfc32.png"
+    ]
+   },
+   {
+    "name": "Ornn",
+    "icon": "2f2239a29562bbf3.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Diana",
+    "icon": "fe603118f10f8fd1.png",
+    "star3": true,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "e881e94b2c1eb009.png",
+     "c730af989906bafe.png"
+    ]
+   },
+   {
+    "name": "Rhaast",
+    "icon": "6642b4c8453fa74b.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "8b89b63a39914310.png",
+     "a6fabaa12af4d889.png"
+    ]
+   },
+   {
+    "name": "Kindred",
+    "icon": "c76b55300523212d.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "76a409d854ecfc32.png",
+     "085234fb2842b1fe.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Arbiter",
+   "Challenger",
+   "N.O.V.A.",
+   "Bastion",
+   "Space Groove"
+  ],
+  "style": "reroll",
+  "styleDetail": "Diana 3\u2605",
+  "augments": [
+   {
+    "name": "Good For Something I",
+    "icon": "ae523343fc04cd5a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Second Wind",
+    "icon": "e7fcc80ee8c45f92.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Team Building",
+    "icon": "52840d72fdc55e9c.png",
+    "tier": "S"
+   },
+   {
+    "name": "Calculated Loss",
+    "icon": "76e99e8b732ef3da.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag+",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag++",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.84,
+  "games": 2502
+ },
+ {
+  "id": 409032,
+  "title": "Mecha \u00b7 Master Yi",
+  "units": [
+   {
+    "name": "Pyke",
+    "icon": "e535b48e11f9d7de.png",
+    "star3": false,
+    "items": [
+     "853555e601c182fd.png",
+     "76a409d854ecfc32.png",
+     "31c0a9df7625e69c.png"
+    ]
+   },
+   {
+    "name": "Gragas",
+    "icon": "b5fef7f95ca45237.png",
+    "star3": false,
+    "items": [
+     "f612203dab217c6b.png",
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png"
+    ]
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Urgot",
+    "icon": "19104738c6382f82.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Viktor",
+    "icon": "ab8031cbcc69c304.png",
+    "star3": false,
+    "items": [
+     "afc536bf39d70c46.png",
+     "08841f5ccd724518.png",
+     "7a6961fcc382d711.png"
+    ]
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Aurelion Sol",
+    "icon": "a93af0f5f6773a33.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "7a6961fcc382d711.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "The Mighty Mech",
+    "icon": "bd5fed58061b7b8b.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png",
+     "0de8369b21cdcbe1.png"
+    ]
+   },
+   {
+    "name": "Master Yi",
+    "icon": "fc6bc5c04abc477e.png",
+    "star3": false,
+    "items": [
+     "666ec5f443dd2864.png",
+     "853555e601c182fd.png",
+     "085234fb2842b1fe.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Dark Star",
+   "Voyager",
+   "Brawler",
+   "Conduit",
+   "Mecha",
+   "Marauder",
+   "Psionic"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Expedition",
+    "icon": "d6747db85a980d8c.png",
+    "tier": "S"
+   },
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Solo Plate",
+    "icon": "8d4dfd10afc61e14.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "ReinFOURcement",
+    "icon": "0068cff2161c57b9.png",
+    "tier": "S"
+   },
+   {
+    "name": "Calculated Loss",
+    "icon": "76e99e8b732ef3da.png",
+    "tier": "S"
+   },
+   {
+    "name": "Commerce Core",
+    "icon": "ad13dad3a61b75f6.png",
+    "tier": "S"
+   },
+   {
+    "name": "Upward Mobility",
+    "icon": "3b19db363cb273e5.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.84,
+  "games": 2583
+ },
+ {
+  "id": 409025,
+  "title": "Reach for the Stars \u00b7 Bastion",
+  "units": [
+   {
+    "name": "Twisted Fate",
+    "icon": "a2dd3ad10043704c.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Talon",
+    "icon": "909153a8f061a4ee.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Jax",
+    "icon": "c19fa2745cff53ca.png",
+    "star3": true,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "e881e94b2c1eb009.png",
+     "c730af989906bafe.png"
+    ]
+   },
+   {
+    "name": "Ornn",
+    "icon": "2f2239a29562bbf3.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Lulu",
+    "icon": "6204198317475435.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Rammus",
+    "icon": "f90cb6380e0f293d.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "efffaa8139efd7ad.png",
+     "3cd8b56157eda0bc.png",
+     "3cd8b56157eda0bc.png"
+    ]
+   },
+   {
+    "name": "Xayah",
+    "icon": "704e088b2998520c.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "76a409d854ecfc32.png",
+     "5948bb283d91af25.png"
+    ]
+   },
+   {
+    "name": "Shen",
+    "icon": "4a6986ec1fae86a1.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Bastion",
+   "Space Groove",
+   "Stargazer"
+  ],
+  "style": "reroll",
+  "styleDetail": "Jax 3\u2605",
+  "augments": [
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Second Wind",
+    "icon": "e7fcc80ee8c45f92.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Team Building",
+    "icon": "52840d72fdc55e9c.png",
+    "tier": "S"
+   },
+   {
+    "name": "Reach for the Stars",
+    "icon": "a3a2101a54d6d35a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag+",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag++",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Commerce Core",
+    "icon": "ad13dad3a61b75f6.png",
+    "tier": "S"
+   },
+   {
+    "name": "Just Hit",
+    "icon": "686f83aee9121f1f.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 4.86,
+  "games": 2025
+ },
+ {
+  "id": 409027,
+  "title": "Stellar Combo \u00b7 Kindred",
+  "units": [
+   {
+    "name": "Poppy",
+    "icon": "4cc40ff276f69749.png",
+    "star3": true,
+    "items": [
+     "3cd8b56157eda0bc.png",
+     "2a98d25855f47dfc.png",
+     "8b89b63a39914310.png"
+    ]
+   },
+   {
+    "name": "Caitlyn",
+    "icon": "ab32860ecf751ff7.png",
+    "star3": true,
+    "items": [
+     "c03e276b1288b359.png",
+     "e881e94b2c1eb009.png",
+     "6c11d8113d9dd446.png"
+    ]
+   },
+   {
+    "name": "Aatrox",
+    "icon": "40d07f95918439d0.png",
+    "star3": true,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "0de8369b21cdcbe1.png",
+     "c730af989906bafe.png"
+    ]
+   },
+   {
+    "name": "Akali",
+    "icon": "89aee7e6a05038f5.png",
+    "star3": false,
+    "items": [
+     "853555e601c182fd.png",
+     "31c0a9df7625e69c.png"
+    ]
+   },
+   {
+    "name": "Maokai",
+    "icon": "2b4092a49e9cab12.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Ornn",
+    "icon": "2f2239a29562bbf3.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Kindred",
+    "icon": "c76b55300523212d.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "085234fb2842b1fe.png",
+     "5948bb283d91af25.png"
+    ]
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "N.O.V.A.",
+   "Bastion",
+   "Space Groove"
+  ],
+  "style": "reroll",
+  "styleDetail": "Aatrox 3\u2605",
+  "augments": [],
+  "avgPlace": 4.93,
+  "games": 3375
+ },
+ {
+  "id": 409057,
+  "title": "Vanguard \u00b7 Xayah",
+  "units": [
+   {
+    "name": "Jax",
+    "icon": "c19fa2745cff53ca.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Rammus",
+    "icon": "f90cb6380e0f293d.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "The Mighty Mech",
+    "icon": "bd5fed58061b7b8b.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "3cd8b56157eda0bc.png",
+     "3cd8b56157eda0bc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Xayah",
+    "icon": "704e088b2998520c.png",
+    "star3": false,
+    "items": [
+     "c79e7e2a0d0c1e89.png",
+     "5948bb283d91af25.png",
+     "5948bb283d91af25.png"
+    ]
+   },
+   {
+    "name": "Tahm Kench",
+    "icon": "2d597e4bb4f136ed.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Jhin",
+    "icon": "a565acc29322bdac.png",
+    "star3": false,
+    "items": [
+     "c03e276b1288b359.png",
+     "76a409d854ecfc32.png",
+     "5f2ec041371ff67e.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Dark Star",
+   "Sniper",
+   "Bastion",
+   "Vanguard"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Dummify",
+    "icon": "bde4ae2db71acfd3.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exiles I",
+    "icon": "81073aa394d2b9ce.png",
+    "tier": "S"
+   },
+   {
+    "name": "Electrocharge I",
+    "icon": "b900011622e3790a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Good For Something I",
+    "icon": "ae523343fc04cd5a.png",
+    "tier": "S"
+   },
+   {
+    "name": "AFK",
+    "icon": "0d9ce89bfc544a6a.png",
+    "tier": "A"
+   },
+   {
+    "name": "Band of Thieves",
+    "icon": "beec608ff9ec3940.png",
+    "tier": "A"
+   },
+   {
+    "name": "Cognitive Tax",
+    "icon": "2051a33fba491ee6.png",
+    "tier": "B"
+   },
+   {
+    "name": "Cognitive Tax+",
+    "icon": "2051a33fba491ee6.png",
+    "tier": "B"
+   }
+  ],
+  "avgPlace": 4.98,
+  "games": 10095
+ },
+ {
+  "id": 409018,
+  "title": "Anima \u00b7 Diana",
+  "units": [
+   {
+    "name": "Leona",
+    "icon": "d164ec04180efe98.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Jinx",
+    "icon": "29c0eb3f0041ab3c.png",
+    "star3": false,
+    "items": [
+     "594334f99e09410a.png",
+     "e881e94b2c1eb009.png",
+     "76a409d854ecfc32.png"
+    ]
+   },
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": true,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Aurora",
+    "icon": "14a63f881bae1b5c.png",
+    "star3": true,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "e8bc6f7ac38b7be3.png"
+    ]
+   },
+   {
+    "name": "Diana",
+    "icon": "fe603118f10f8fd1.png",
+    "star3": true,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "e881e94b2c1eb009.png",
+     "c730af989906bafe.png"
+    ]
+   },
+   {
+    "name": "Rhaast",
+    "icon": "6642b4c8453fa74b.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "LeBlanc",
+    "icon": "9153c0807ab5c7ea.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "08841f5ccd724518.png",
+     "085234fb2842b1fe.png"
+    ]
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Arbiter",
+   "Challenger",
+   "Anima",
+   "Voyager",
+   "Vanguard",
+   "Shepherd"
+  ],
+  "style": "reroll",
+  "styleDetail": "Diana 3\u2605",
+  "augments": [],
+  "avgPlace": 4.99,
+  "games": 15168
+ },
+ {
+  "id": 409064,
+  "title": "Brawler \u00b7 Maokai",
+  "units": [
+   {
+    "name": "Gragas",
+    "icon": "b5fef7f95ca45237.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Maokai",
+    "icon": "2b4092a49e9cab12.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Urgot",
+    "icon": "19104738c6382f82.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Tahm Kench",
+    "icon": "2d597e4bb4f136ed.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Bard",
+    "icon": "aac2357d6d68b0bc.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Fiora",
+    "icon": "9e3ae8bbc645ccfb.png",
+    "star3": false,
+    "items": [
+     "853555e601c182fd.png",
+     "0de8369b21cdcbe1.png",
+     "31c0a9df7625e69c.png"
+    ]
+   },
+   {
+    "name": "Jhin",
+    "icon": "a565acc29322bdac.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "76a409d854ecfc32.png",
+     "085234fb2842b1fe.png"
+    ]
+   },
+   {
+    "name": "Blitzcrank",
+    "icon": "55fd66e9e799936e.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Sona",
+    "icon": "90832d533b8cebce.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Vex",
+    "icon": "b86c8163e45661fc.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "08841f5ccd724518.png",
+     "085234fb2842b1fe.png"
+    ]
+   },
+   {
+    "name": "Graves",
+    "icon": "170dc6903451540d.png",
+    "star3": false,
+    "items": [
+     "998fc493940c45dc.png",
+     "021131a2bc82b58a.png",
+     "0de8369b21cdcbe1.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Brawler",
+   "Marauder",
+   "Psionic",
+   "Space Groove"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [],
+  "avgPlace": 5.1,
+  "games": 4314
+ },
+ {
+  "id": 409047,
+  "title": "Challenger \u00b7 Diana",
+  "units": [
+   {
+    "name": "Leona",
+    "icon": "d164ec04180efe98.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Miss Fortune",
+    "icon": "c486f498cd9ee7d6.png",
+    "star3": true,
+    "items": [
+     "c03e276b1288b359.png",
+     "e881e94b2c1eb009.png",
+     "76a409d854ecfc32.png"
+    ]
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Diana",
+    "icon": "fe603118f10f8fd1.png",
+    "star3": true,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "e881e94b2c1eb009.png",
+     "c730af989906bafe.png"
+    ]
+   },
+   {
+    "name": "Kindred",
+    "icon": "c76b55300523212d.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "3cd8b56157eda0bc.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "LeBlanc",
+    "icon": "9153c0807ab5c7ea.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Arbiter",
+   "Challenger",
+   "Vanguard",
+   "Shepherd"
+  ],
+  "style": "reroll",
+  "styleDetail": "Diana 3\u2605",
+  "augments": [],
+  "avgPlace": 5.16,
+  "games": 2008
+ },
+ {
+  "id": 409051,
+  "title": "Voyager \u00b7 The Mighty Mech",
+  "units": [
+   {
+    "name": "Lissandra",
+    "icon": "7eaaf88dd16f634a.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Rhaast",
+    "icon": "6642b4c8453fa74b.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "e8bc6f7ac38b7be3.png"
+    ]
+   },
+   {
+    "name": "The Mighty Mech",
+    "icon": "bd5fed58061b7b8b.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Nami",
+    "icon": "8b670f32cf866454.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Replicator",
+   "Dark Star",
+   "Voyager",
+   "Vanguard",
+   "Space Groove",
+   "Shepherd"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [],
+  "avgPlace": 5.19,
+  "games": 3665
+ },
+ {
+  "id": 409052,
+  "title": "Primordian \u00b7 Bel'Veth",
+  "units": [
+   {
+    "name": "Briar",
+    "icon": "749b80b1a6fbb34f.png",
+    "star3": true,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "0de8369b21cdcbe1.png",
+     "c730af989906bafe.png"
+    ]
+   },
+   {
+    "name": "Cho'Gath",
+    "icon": "414c42d611d29a42.png",
+    "star3": true,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Rek'Sai",
+    "icon": "ca434ab02afa2e31.png",
+    "star3": true,
+    "items": [
+     "3cd8b56157eda0bc.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Bel'Veth",
+    "icon": "fe35b1559bb672e9.png",
+    "star3": true,
+    "items": [
+     "085234fb2842b1fe.png",
+     "021131a2bc82b58a.png",
+     "5948bb283d91af25.png"
+    ]
+   },
+   {
+    "name": "Akali",
+    "icon": "89aee7e6a05038f5.png",
+    "star3": false,
+    "items": [
+     "853555e601c182fd.png",
+     "0de8369b21cdcbe1.png",
+     "31c0a9df7625e69c.png"
+    ]
+   },
+   {
+    "name": "Kai'Sa",
+    "icon": "576920015eb9c661.png",
+    "star3": false,
+    "items": [
+     "76a409d854ecfc32.png",
+     "6c11d8113d9dd446.png",
+     "e8bc6f7ac38b7be3.png"
+    ]
+   },
+   {
+    "name": "Rhaast",
+    "icon": "6642b4c8453fa74b.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Kindred",
+    "icon": "c76b55300523212d.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "5f2ec041371ff67e.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Challenger",
+   "Rogue",
+   "N.O.V.A.",
+   "Dark Star",
+   "Brawler",
+   "Marauder",
+   "Primordian"
+  ],
+  "style": "reroll",
+  "styleDetail": "Rek'Sai 3\u2605",
+  "augments": [
+   {
+    "name": "Band of Thieves",
+    "icon": "beec608ff9ec3940.png",
+    "tier": "S"
+   },
+   {
+    "name": "Caretaker's Ally",
+    "icon": "59b8b4d3d5b5ea30.png",
+    "tier": "S"
+   },
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Good For Something I",
+    "icon": "ae523343fc04cd5a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Boxing Lessons",
+    "icon": "ef534aeb76b08db4.png",
+    "tier": "S"
+   },
+   {
+    "name": "Lineup",
+    "icon": "838d67891cd499ee.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "On a Roll",
+    "icon": "e7d6641832187337.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Second Wind",
+    "icon": "e7fcc80ee8c45f92.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Team Building",
+    "icon": "52840d72fdc55e9c.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 5.24,
+  "games": 12305
+ },
+ {
+  "id": 409044,
+  "title": "Vanguard \u00b7 Teemo",
+  "units": [
+   {
+    "name": "Teemo",
+    "icon": "2f76af333babec74.png",
+    "star3": true,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "085234fb2842b1fe.png",
+     "7a6961fcc382d711.png"
+    ]
+   },
+   {
+    "name": "Nasus",
+    "icon": "a59c758a391e4a54.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Leona",
+    "icon": "d164ec04180efe98.png",
+    "star3": true,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Lissandra",
+    "icon": "7eaaf88dd16f634a.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Zoe",
+    "icon": "96e4782903d226ce.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Nami",
+    "icon": "8b670f32cf866454.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Arbiter",
+   "Replicator",
+   "Dark Star",
+   "Conduit",
+   "Vanguard",
+   "Space Groove",
+   "Shepherd"
+  ],
+  "style": "reroll",
+  "styleDetail": "Leona 3\u2605",
+  "augments": [
+   {
+    "name": "Find Your Center",
+    "icon": "35474a7303358f05.png",
+    "tier": "S"
+   },
+   {
+    "name": "Electrocharge I",
+    "icon": "b900011622e3790a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "NO SCOUT NO PIVOT",
+    "icon": "fb3162350722935d.png",
+    "tier": "S"
+   },
+   {
+    "name": "Warlord's Honor",
+    "icon": "c1a7d56644b90b9e.png",
+    "tier": "S"
+   },
+   {
+    "name": "Living Forge",
+    "icon": "117d861afc307694.png",
+    "tier": "S"
+   },
+   {
+    "name": "Second Wind",
+    "icon": "e7fcc80ee8c45f92.png",
+    "tier": "A"
+   },
+   {
+    "name": "Expedition",
+    "icon": "d6747db85a980d8c.png",
+    "tier": "B"
+   },
+   {
+    "name": "Best Friends I",
+    "icon": "9de63b56c2534f5a.png",
+    "tier": "C"
+   },
+   {
+    "name": "Exiles I",
+    "icon": "81073aa394d2b9ce.png",
+    "tier": "C"
+   },
+   {
+    "name": "Group Hug I",
+    "icon": "0491822f62d6c937.png",
+    "tier": "C"
+   }
+  ],
+  "avgPlace": 5.3,
+  "games": 4809
+ },
+ {
+  "id": 409062,
+  "title": "Challenger \u00b7 Diana",
+  "units": [
+   {
+    "name": "Aatrox",
+    "icon": "40d07f95918439d0.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Leona",
+    "icon": "d164ec04180efe98.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Jinx",
+    "icon": "29c0eb3f0041ab3c.png",
+    "star3": false,
+    "items": [
+     "594334f99e09410a.png",
+     "e881e94b2c1eb009.png",
+     "76a409d854ecfc32.png"
+    ]
+   },
+   {
+    "name": "Miss Fortune",
+    "icon": "c486f498cd9ee7d6.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Ornn",
+    "icon": "2f2239a29562bbf3.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Diana",
+    "icon": "fe603118f10f8fd1.png",
+    "star3": false,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "e881e94b2c1eb009.png",
+     "c730af989906bafe.png"
+    ]
+   },
+   {
+    "name": "Rhaast",
+    "icon": "6642b4c8453fa74b.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Kindred",
+    "icon": "c76b55300523212d.png",
+    "star3": false,
+    "items": [
+     "c03e276b1288b359.png",
+     "e881e94b2c1eb009.png",
+     "c79e7e2a0d0c1e89.png"
+    ]
+   },
+   {
+    "name": "Blitzcrank",
+    "icon": "55fd66e9e799936e.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Arbiter",
+   "Challenger",
+   "N.O.V.A.",
+   "Bastion",
+   "Vanguard",
+   "Space Groove"
+  ],
+  "style": "standard",
+  "styleDetail": null,
+  "augments": [],
+  "avgPlace": 5.35,
+  "games": 1493
+ },
+ {
+  "id": 409055,
+  "title": "Rogue \u00b7 Kai'Sa",
+  "units": [
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Fizz",
+    "icon": "fe0b754b94d64807.png",
+    "star3": true,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "31c0a9df7625e69c.png"
+    ]
+   },
+   {
+    "name": "Kai'Sa",
+    "icon": "576920015eb9c661.png",
+    "star3": true,
+    "items": [
+     "96c25688e0407133.png",
+     "76a409d854ecfc32.png",
+     "6c11d8113d9dd446.png"
+    ]
+   },
+   {
+    "name": "Ornn",
+    "icon": "2f2239a29562bbf3.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Rhaast",
+    "icon": "6642b4c8453fa74b.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Rammus",
+    "icon": "f90cb6380e0f293d.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": [
+     "1a04a5b3176c4759.png",
+     "7d14e1e5280c568e.png"
+    ]
+   },
+   {
+    "name": "Riven",
+    "icon": "5a207e124dc36d66.png",
+    "star3": false,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "0de8369b21cdcbe1.png",
+     "c730af989906bafe.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Rogue",
+   "Meeple",
+   "Dark Star",
+   "Voyager",
+   "Bastion",
+   "Space Groove"
+  ],
+  "style": "reroll",
+  "styleDetail": "Kai'Sa 3\u2605",
+  "augments": [],
+  "avgPlace": 5.36,
+  "games": 1618
+ },
+ {
+  "id": 409063,
+  "title": "Psionic \u00b7 Viktor",
+  "units": [
+   {
+    "name": "Pyke",
+    "icon": "e535b48e11f9d7de.png",
+    "star3": true,
+    "items": [
+     "cfdc6513c6e1680d.png",
+     "853555e601c182fd.png",
+     "76a409d854ecfc32.png"
+    ]
+   },
+   {
+    "name": "Gragas",
+    "icon": "b5fef7f95ca45237.png",
+    "star3": false,
+    "items": [
+     "f612203dab217c6b.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Maokai",
+    "icon": "2b4092a49e9cab12.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Viktor",
+    "icon": "ab8031cbcc69c304.png",
+    "star3": false,
+    "items": [
+     "afc536bf39d70c46.png",
+     "08841f5ccd724518.png",
+     "7a6961fcc382d711.png"
+    ]
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Master Yi",
+    "icon": "fc6bc5c04abc477e.png",
+    "star3": false,
+    "items": [
+     "666ec5f443dd2864.png",
+     "853555e601c182fd.png",
+     "085234fb2842b1fe.png"
+    ]
+   },
+   {
+    "name": "Tahm Kench",
+    "icon": "2d597e4bb4f136ed.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Fiora",
+    "icon": "9e3ae8bbc645ccfb.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Sona",
+    "icon": "90832d533b8cebce.png",
+    "star3": false,
+    "items": [
+     "c4ff48c4182304fb.png",
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Voyager",
+   "Brawler",
+   "Marauder",
+   "Psionic"
+  ],
+  "style": "reroll",
+  "styleDetail": "Pyke 3\u2605",
+  "augments": [
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Second Wind",
+    "icon": "e7fcc80ee8c45f92.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Team Building",
+    "icon": "52840d72fdc55e9c.png",
+    "tier": "S"
+   },
+   {
+    "name": "Contract Killer",
+    "icon": "d8d8f85632094fcd.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag+",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Heroic Grab Bag++",
+    "icon": "b04e1a62a6bf927f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Commerce Core",
+    "icon": "ad13dad3a61b75f6.png",
+    "tier": "S"
+   },
+   {
+    "name": "Just Hit",
+    "icon": "686f83aee9121f1f.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 5.36,
+  "games": 2227
+ },
+ {
+  "id": 409014,
+  "title": "Mecha \u00b7 Urgot",
+  "units": [
+   {
+    "name": "Akali",
+    "icon": "89aee7e6a05038f5.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Aurora",
+    "icon": "14a63f881bae1b5c.png",
+    "star3": true,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "e8bc6f7ac38b7be3.png"
+    ]
+   },
+   {
+    "name": "Maokai",
+    "icon": "2b4092a49e9cab12.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Urgot",
+    "icon": "19104738c6382f82.png",
+    "star3": true,
+    "items": [
+     "76a409d854ecfc32.png",
+     "085234fb2842b1fe.png",
+     "021131a2bc82b58a.png"
+    ]
+   },
+   {
+    "name": "Rhaast",
+    "icon": "6642b4c8453fa74b.png",
+    "star3": false,
+    "items": [
+     "895e50378764fc42.png",
+     "3cd8b56157eda0bc.png",
+     "2a98d25855f47dfc.png"
+    ]
+   },
+   {
+    "name": "The Mighty Mech",
+    "icon": "bd5fed58061b7b8b.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png",
+     "0de8369b21cdcbe1.png"
+    ]
+   }
+  ],
+  "traits": [
+   "N.O.V.A.",
+   "Voyager",
+   "Brawler",
+   "Mecha",
+   "Marauder"
+  ],
+  "style": "reroll",
+  "styleDetail": "Urgot 3\u2605",
+  "augments": [],
+  "avgPlace": 5.4,
+  "games": 1804
+ },
+ {
+  "id": 409060,
+  "title": "Arbiter \u00b7 Diana",
+  "units": [
+   {
+    "name": "Leona",
+    "icon": "d164ec04180efe98.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Jinx",
+    "icon": "29c0eb3f0041ab3c.png",
+    "star3": false,
+    "items": [
+     "594334f99e09410a.png",
+     "e881e94b2c1eb009.png",
+     "76a409d854ecfc32.png"
+    ]
+   },
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Diana",
+    "icon": "fe603118f10f8fd1.png",
+    "star3": false,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "e881e94b2c1eb009.png",
+     "c730af989906bafe.png"
+    ]
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "efffaa8139efd7ad.png",
+     "3cd8b56157eda0bc.png",
+     "3cd8b56157eda0bc.png"
+    ]
+   },
+   {
+    "name": "LeBlanc",
+    "icon": "9153c0807ab5c7ea.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "08841f5ccd724518.png",
+     "085234fb2842b1fe.png"
+    ]
+   },
+   {
+    "name": "Tahm Kench",
+    "icon": "2d597e4bb4f136ed.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Arbiter",
+   "Challenger",
+   "Vanguard",
+   "Shepherd"
+  ],
+  "style": "reroll",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Band of Thieves",
+    "icon": "beec608ff9ec3940.png",
+    "tier": "S"
+   },
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "Slightly Magic Roll",
+    "icon": "713394953cef63ed.png",
+    "tier": "S"
+   },
+   {
+    "name": "Booster Pack++",
+    "icon": "d496656e84080692.png",
+    "tier": "S"
+   },
+   {
+    "name": "Care Package",
+    "icon": "ac237b8dc2bbfa2f.png",
+    "tier": "S"
+   },
+   {
+    "name": "Calculated Loss",
+    "icon": "76e99e8b732ef3da.png",
+    "tier": "S"
+   },
+   {
+    "name": "Epic Rolldown",
+    "icon": "fb1557c4a5f99c43.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exclusive Customization",
+    "icon": "2ff51ca88b9f0922.png",
+    "tier": "S"
+   },
+   {
+    "name": "ReinFOURcement",
+    "icon": "0068cff2161c57b9.png",
+    "tier": "S"
+   },
+   {
+    "name": "Commerce Core",
+    "icon": "ad13dad3a61b75f6.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 5.44,
+  "games": 1819
+ },
+ {
+  "id": 409059,
+  "title": "Timebreaker \u00b7 Pantheon",
+  "units": [
+   {
+    "name": "Ezreal",
+    "icon": "b57e9fff19cf4dae.png",
+    "star3": false,
+    "items": [
+     "c03e276b1288b359.png",
+     "76a409d854ecfc32.png",
+     "e8bc6f7ac38b7be3.png"
+    ]
+   },
+   {
+    "name": "Cho'Gath",
+    "icon": "414c42d611d29a42.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Milio",
+    "icon": "f4a78615b9f0d55d.png",
+    "star3": true,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Pantheon",
+    "icon": "4ac007b484678b2b.png",
+    "star3": true,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Maokai",
+    "icon": "2b4092a49e9cab12.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Riven",
+    "icon": "5a207e124dc36d66.png",
+    "star3": false,
+    "items": [
+     "034c34afa7b9feeb.png",
+     "0de8369b21cdcbe1.png",
+     "c730af989906bafe.png"
+    ]
+   },
+   {
+    "name": "Tahm Kench",
+    "icon": "2d597e4bb4f136ed.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Jhin",
+    "icon": "a565acc29322bdac.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Dark Star",
+   "Brawler",
+   "Sniper",
+   "Timebreaker"
+  ],
+  "style": "reroll",
+  "styleDetail": "Milio 3\u2605",
+  "augments": [
+   {
+    "name": "Missed Connections",
+    "icon": "527e7baf9acfbdaa.png",
+    "tier": "S"
+   }
+  ],
+  "avgPlace": 5.47,
+  "games": 2575
+ },
+ {
+  "id": 409061,
+  "title": "Stargazer \u00b7 Lulu",
+  "units": [
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Lulu",
+    "icon": "6204198317475435.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "45fc0b297ee909f8.png",
+     "45fc0b297ee909f8.png"
+    ]
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "3cd8b56157eda0bc.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Bard",
+    "icon": "aac2357d6d68b0bc.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Blitzcrank",
+    "icon": "55fd66e9e799936e.png",
+    "star3": false,
+    "items": [
+     "caf4f8a61ee6a72b.png",
+     "08841f5ccd724518.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Dark Star",
+   "Voyager",
+   "Conduit",
+   "Vanguard",
+   "Space Groove"
+  ],
+  "style": "standard",
+  "styleDetail": null,
+  "augments": [
+   {
+    "name": "Patience is a Virtue",
+    "icon": "201a0af40a3ed082.png",
+    "tier": "S"
+   },
+   {
+    "name": "Dummify",
+    "icon": "bde4ae2db71acfd3.png",
+    "tier": "S"
+   },
+   {
+    "name": "Exiles I",
+    "icon": "81073aa394d2b9ce.png",
+    "tier": "S"
+   },
+   {
+    "name": "Electrocharge I",
+    "icon": "b900011622e3790a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Good For Something I",
+    "icon": "ae523343fc04cd5a.png",
+    "tier": "S"
+   },
+   {
+    "name": "AFK",
+    "icon": "0d9ce89bfc544a6a.png",
+    "tier": "A"
+   },
+   {
+    "name": "Band of Thieves",
+    "icon": "beec608ff9ec3940.png",
+    "tier": "A"
+   },
+   {
+    "name": "Cognitive Tax",
+    "icon": "2051a33fba491ee6.png",
+    "tier": "B"
+   },
+   {
+    "name": "Cognitive Tax+",
+    "icon": "2051a33fba491ee6.png",
+    "tier": "B"
+   }
+  ],
+  "avgPlace": 5.64,
+  "games": 1566
+ },
+ {
+  "id": 409065,
+  "title": "Vanguard \u00b7 Leona",
+  "units": [
+   {
+    "name": "Nasus",
+    "icon": "a59c758a391e4a54.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Leona",
+    "icon": "d164ec04180efe98.png",
+    "star3": true,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "efffaa8139efd7ad.png",
+     "3cd8b56157eda0bc.png"
+    ]
+   },
+   {
+    "name": "Bard",
+    "icon": "aac2357d6d68b0bc.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "085234fb2842b1fe.png",
+     "7a6961fcc382d711.png"
+    ]
+   },
+   {
+    "name": "Blitzcrank",
+    "icon": "55fd66e9e799936e.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Sona",
+    "icon": "90832d533b8cebce.png",
+    "star3": false,
+    "items": [
+     "7d14e1e5280c568e.png",
+     "e8bc6f7ac38b7be3.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Vex",
+    "icon": "b86c8163e45661fc.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "08841f5ccd724518.png",
+     "085234fb2842b1fe.png"
+    ]
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Meeple",
+   "Dark Star",
+   "Voyager",
+   "Conduit",
+   "Vanguard",
+   "Space Groove",
+   "Shepherd"
+  ],
+  "style": "reroll",
+  "styleDetail": "Leona 3\u2605",
+  "augments": [
+   {
+    "name": "Find Your Center",
+    "icon": "35474a7303358f05.png",
+    "tier": "S"
+   },
+   {
+    "name": "Electrocharge I",
+    "icon": "b900011622e3790a.png",
+    "tier": "S"
+   },
+   {
+    "name": "Firesale",
+    "icon": "f6f9d523838a5b59.png",
+    "tier": "S"
+   },
+   {
+    "name": "Rolling For Days I",
+    "icon": "2079b90de36d0599.png",
+    "tier": "S"
+   },
+   {
+    "name": "NO SCOUT NO PIVOT",
+    "icon": "fb3162350722935d.png",
+    "tier": "S"
+   },
+   {
+    "name": "Warlord's Honor",
+    "icon": "c1a7d56644b90b9e.png",
+    "tier": "S"
+   },
+   {
+    "name": "Living Forge",
+    "icon": "117d861afc307694.png",
+    "tier": "S"
+   },
+   {
+    "name": "Second Wind",
+    "icon": "e7fcc80ee8c45f92.png",
+    "tier": "A"
+   },
+   {
+    "name": "Expedition",
+    "icon": "d6747db85a980d8c.png",
+    "tier": "B"
+   },
+   {
+    "name": "Best Friends I",
+    "icon": "9de63b56c2534f5a.png",
+    "tier": "C"
+   },
+   {
+    "name": "Exiles I",
+    "icon": "81073aa394d2b9ce.png",
+    "tier": "C"
+   },
+   {
+    "name": "Group Hug I",
+    "icon": "0491822f62d6c937.png",
+    "tier": "C"
+   }
+  ],
+  "avgPlace": 5.92,
+  "games": 4565
+ },
+ {
+  "id": 409066,
+  "title": "Anima \u00b7 Aurora",
+  "units": [
+   {
+    "name": "Briar",
+    "icon": "749b80b1a6fbb34f.png",
+    "star3": false,
+    "items": [
+     "2188927e7ec32c6d.png",
+     "297772c6739b81c8.png"
+    ]
+   },
+   {
+    "name": "Jinx",
+    "icon": "29c0eb3f0041ab3c.png",
+    "star3": false,
+    "items": [
+     "594334f99e09410a.png",
+     "e881e94b2c1eb009.png",
+     "76a409d854ecfc32.png"
+    ]
+   },
+   {
+    "name": "Mordekaiser",
+    "icon": "542c0e9838a507ec.png",
+    "star3": false,
+    "items": [
+     "69143cf4d70fad08.png",
+     "297772c6739b81c8.png"
+    ]
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Aurora",
+    "icon": "14a63f881bae1b5c.png",
+    "star3": false,
+    "items": [
+     "08841f5ccd724518.png",
+     "7a6961fcc382d711.png",
+     "540d0d7d28d5bc27.png"
+    ]
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "69143cf4d70fad08.png",
+     "3cd8b56157eda0bc.png",
+     "2a98d25855f47dfc.png"
+    ]
+   },
+   {
+    "name": "Tahm Kench",
+    "icon": "2d597e4bb4f136ed.png",
+    "star3": false,
+    "items": [
+     "69143cf4d70fad08.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Fiora",
+    "icon": "9e3ae8bbc645ccfb.png",
+    "star3": false,
+    "items": [
+     "2188927e7ec32c6d.png",
+     "034c34afa7b9feeb.png",
+     "853555e601c182fd.png"
+    ]
+   }
+  ],
+  "traits": [
+   "Anima",
+   "Dark Star",
+   "Voyager",
+   "Vanguard"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [],
+  "avgPlace": 5.98,
+  "games": 5362
+ },
+ {
+  "id": 409067,
+  "title": "Bastion \u00b7 Ornn",
+  "units": [
+   {
+    "name": "Aatrox",
+    "icon": "40d07f95918439d0.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "2a98d25855f47dfc.png",
+     "c730af989906bafe.png"
+    ]
+   },
+   {
+    "name": "Akali",
+    "icon": "89aee7e6a05038f5.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Jax",
+    "icon": "c19fa2745cff53ca.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Samira",
+    "icon": "55f971d4378406e5.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Ornn",
+    "icon": "2f2239a29562bbf3.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Blitzcrank",
+    "icon": "55fd66e9e799936e.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Sona",
+    "icon": "90832d533b8cebce.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Vex",
+    "icon": "b86c8163e45661fc.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "08841f5ccd724518.png",
+     "085234fb2842b1fe.png"
+    ]
+   },
+   {
+    "name": "Graves",
+    "icon": "170dc6903451540d.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "76a409d854ecfc32.png",
+     "085234fb2842b1fe.png"
+    ]
+   }
+  ],
+  "traits": [
+   "N.O.V.A.",
+   "Bastion",
+   "Vanguard",
+   "Space Groove"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [],
+  "avgPlace": 6.15,
+  "games": 1880
+ },
+ {
+  "id": 409068,
+  "title": "Anima \u00b7 Jinx",
+  "units": [
+   {
+    "name": "Jinx",
+    "icon": "29c0eb3f0041ab3c.png",
+    "star3": false,
+    "items": [
+     "594334f99e09410a.png",
+     "e881e94b2c1eb009.png",
+     "76a409d854ecfc32.png"
+    ]
+   },
+   {
+    "name": "Meepsie",
+    "icon": "032f98373db49a13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Illaoi",
+    "icon": "7077301beb5a4e7a.png",
+    "star3": false,
+    "items": [
+     "2a98d25855f47dfc.png",
+     "a6fabaa12af4d889.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Karma",
+    "icon": "1be9b903e2d38f13.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Nunu & Willump",
+    "icon": "a17fca0f62da3830.png",
+    "star3": false,
+    "items": [
+     "3cd8b56157eda0bc.png",
+     "2a98d25855f47dfc.png",
+     "05fb06ef5ea4fc8f.png"
+    ]
+   },
+   {
+    "name": "Bard",
+    "icon": "aac2357d6d68b0bc.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Blitzcrank",
+    "icon": "55fd66e9e799936e.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Sona",
+    "icon": "90832d533b8cebce.png",
+    "star3": false,
+    "items": []
+   },
+   {
+    "name": "Vex",
+    "icon": "b86c8163e45661fc.png",
+    "star3": false,
+    "items": [
+     "e881e94b2c1eb009.png",
+     "08841f5ccd724518.png",
+     "085234fb2842b1fe.png"
+    ]
+   },
+   {
+    "name": "Bia & Bayin",
+    "icon": "395b6e89a6e2a55a.png",
+    "star3": false,
+    "items": []
+   }
+  ],
+  "traits": [
+   "Dark Star",
+   "Voyager",
+   "Vanguard",
+   "Space Groove",
+   "Shepherd"
+  ],
+  "style": "fast9",
+  "styleDetail": null,
+  "augments": [],
+  "avgPlace": 6.93,
+  "games": 5652
+ }
+]

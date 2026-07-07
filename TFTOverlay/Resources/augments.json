@@ -1,0 +1,2914 @@
+[
+ {
+  "id": "TFT_Augment_HeadStart",
+  "tier": "S",
+  "name": "Delayed Start",
+  "desc": "Sell your board and bench. Gain ? random 2-star ?-cost champions. Disable your Shop for the next ? rounds.",
+  "icon": "acd2cff2363b0219.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_RestartMission",
+  "tier": "S",
+  "name": "Restart Mission",
+  "desc": "Remove all champions on your board and bench. Gain ? random 2-star 3-costs, ? 2-star 2-costs, and ? 2-star 1-cost champion.",
+  "icon": "c630e3d41026975c.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_ForwardThinking",
+  "tier": "S",
+  "name": "Forward Thinking",
+  "desc": "Lose all your gold. After ? player combats, gain back the original amount and another ? gold.\n\nIncoming Gold: ?",
+  "icon": "ff7644748fb1b2dc.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_Indecision1",
+  "tier": "S",
+  "name": "Indecision I",
+  "desc": "In ? rounds, choose a new augment of the same tier. Gain ? gold now.",
+  "icon": "79720d1018bad46e.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_MagicRollMinus",
+  "tier": "S",
+  "name": "Slightly Magic Roll",
+  "desc": "Roll a die. Gain rewards based on the number rolled.\n\nReward: ?",
+  "icon": "713394953cef63ed.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_Indecision2",
+  "tier": "S",
+  "name": "Indecision II",
+  "desc": "In ? rounds, choose a new augment of the same tier. Gain ? gold now.",
+  "icon": "79720d1018bad46e.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT9_Augment_StarsAreBorn",
+  "tier": "S",
+  "name": "Stars Are Born",
+  "desc": "The first 1-cost and 2-cost champions you buy are instantly upgraded to 2-star. Gain ? gold.",
+  "icon": "34b119836f229341.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_SpreadingRoots",
+  "tier": "S",
+  "name": "Spreading Roots",
+  "desc": "Gain ? random Emblems and ? gold.",
+  "icon": "e92492cc4459c3a4.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_SpreadingRootsPlus",
+  "tier": "S",
+  "name": "Spreading Roots+",
+  "desc": "Gain ? random Emblems, a Reforger, and ? gold.",
+  "icon": "e92492cc4459c3a4.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_ThreeThrees",
+  "tier": "S",
+  "name": "3 Threes",
+  "desc": "Gain ? random 2-star 3-cost champions and ? gold.",
+  "icon": "ad14f7556a5b6fbc.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_TraitTree",
+  "tier": "S",
+  "name": "The Trait Tree",
+  "desc": "Gain ? random Emblems, a Reforger, and ? gold.",
+  "icon": "ddc757b9752453f4.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_TraitTreePlus",
+  "tier": "S",
+  "name": "The Trait Tree+",
+  "desc": "Gain ? random Emblems, a Reforger, and ? gold.",
+  "icon": "ddc757b9752453f4.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_TacticiansKitchen",
+  "tier": "S",
+  "name": "Tactician's Kitchen",
+  "desc": "Gain a random Emblem. After ? rounds, gain a Tactician's Cape.",
+  "icon": "79ca32c8de43dd93.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT16_Augment_Ixtal_Expeditionist",
+  "tier": "S",
+  "name": "Ixtal Expeditionist",
+  "desc": "Gain a Qiyana, a Neeko, and a Milio. Increase your current and max player Health by ?.",
+  "icon": "4521b959a7c35665.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT16_Augment_TheWorldRunes",
+  "tier": "S",
+  "name": "The World Runes",
+  "desc": "Gain ? Emblems from random Region traits. Gain ? XP every player combat, increased to ? XP if ? or more Region traits are active.",
+  "icon": "1eb1fb1dd0c9f77b.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_EpicRolldown",
+  "tier": "S",
+  "name": "Epic Rolldown",
+  "desc": "When you reach Level 8, gain ? Shop rerolls.\n\nRuneterra Reforged Championship, 2023",
+  "icon": "fb1557c4a5f99c43.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT16_Augment_Weightlifting",
+  "tier": "S",
+  "name": "Lifting Competition",
+  "desc": "At the start of each round, if the combined Health of all your unique Bruisers is high enough, gain a reward and increase the threshold (up to four times). Gain a Shen and a Sion.\n\n?? / ?",
+  "icon": "8b9d4e10138a2f2a.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_SpiritLink1",
+  "tier": "S",
+  "name": "Spirit Link",
+  "desc": "Champions restore ?% of their max Health every ? seconds. Increase the healing by ?% for every 10 missing player Health.",
+  "icon": "54990e5eac93291a.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT9_Augment_Commander_RollingForDays",
+  "tier": "S",
+  "name": "Rolling For Days I",
+  "desc": "Gain ? free Shop rerolls.",
+  "icon": "2079b90de36d0599.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT16_Augment_RumbleCarry",
+  "tier": "S",
+  "name": "Artillery Barrage",
+  "desc": "Gain a Rumble. Your strongest Rumble gains +? Range and constantly fires missiles at enemies, increased with Attack Speed.",
+  "icon": "f3176a030f0c5004.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_HeftyRolls",
+  "tier": "S",
+  "name": "Hefty Rolls",
+  "desc": "Your team gains ? Health and size for each time you've rolled this game. Gain ? gold. \n\nRolls: ? Health: ?",
+  "icon": "9119236b3221c7dc.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT6_Augment_SecondWind1",
+  "tier": "S",
+  "name": "Second Wind",
+  "desc": "After ? seconds of combat, your team heals ?% of their missing Health.",
+  "icon": "e7fcc80ee8c45f92.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_TheBaronsLair",
+  "tier": "S",
+  "name": "Baron's Lair",
+  "desc": "Gain a random Tank item. After ? seconds of combat, your team gains ?% bonus Attack Damage and Ability Power every second for the rest of combat.\n\nTFT Paris Open, 2025",
+  "icon": "7886c2e9c8fcfba4.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_BranchingOutPlus",
+  "tier": "S",
+  "name": "Branching Out+",
+  "desc": "Gain a random Emblem and a Reforger.\n\nReforgers allow you to remake any item.",
+  "icon": "a5dd29d0ded5a644.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT6_Augment_CalculatedLoss",
+  "tier": "S",
+  "name": "Calculated Loss",
+  "desc": "After losing your combat, gain ? gold and a free Shop reroll.",
+  "icon": "76e99e8b732ef3da.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_JustHit",
+  "tier": "S",
+  "name": "Just Hit",
+  "desc": "Gain a Champion Duplicator, ? Shop rerolls, and ? gold.",
+  "icon": "686f83aee9121f1f.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_MaxBuild",
+  "tier": "S",
+  "name": "Max Build",
+  "desc": "Gain a Champion Duplicator, ? gold, and your next shop contains 5 unique four-cost champions.\n\nGalaxies Championship, 2020",
+  "icon": "80c05a82c460f2ac.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_CosmicRestart",
+  "tier": "S",
+  "name": "Cosmic Restart",
+  "desc": "Call upon the Gods to sell all units on your board and bench. Gain ? random Emblems and ? free Shop rerolls.",
+  "icon": "c192aa2964a92af8.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_BranchingOut",
+  "tier": "S",
+  "name": "Branching Out",
+  "desc": "Gain a random Emblem.",
+  "icon": "a5dd29d0ded5a644.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT17_Augment_VarusGodAugment_BoonOfStars",
+  "tier": "S",
+  "name": "Varus's Boon",
+  "desc": "Your team gains ? health for each total star level in your army, and your 5 cost odds increase by ?%.",
+  "icon": "7a96af52c1aaa7a0.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_HoldTheLine",
+  "tier": "S",
+  "name": "Hold the Line",
+  "desc": "Allies in your back 2 rows gain ?% Ability Power and ?% Attack Damage for each ally that starts combat in your front row.",
+  "icon": "72092f663695b3a6.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_ForgedInStrength",
+  "tier": "S",
+  "name": "Forged in Strength",
+  "desc": "Gain ? random Artifact. When you drop below ? Health, gain ? more random Artifacts.\n\nRemix Rumble Championship, 2023",
+  "icon": "965cfad941044a90.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT9_Augment_LongTimeCrafting",
+  "tier": "S",
+  "name": "Latent Forge",
+  "desc": "After ? player combats, gain an Artifact anvil. \n\nThe anvil offers 4 choices. Artifacts are more powerful items with a unique effect.",
+  "icon": "cdc531285a76e48e.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_TwoTanky",
+  "tier": "S",
+  "name": "Two Tanky",
+  "desc": "When you field exactly 2 copies of a champion, they both gain ? Health. When one copy dies, the other gains a ?% max Health Shield for ? seconds. When you 3-star, gain a 2-star copy.",
+  "icon": "87411011c10caf7b.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_TreasureHunt",
+  "tier": "S",
+  "name": "Treasure Hunt",
+  "desc": "Gain a locked chest each Stage between now and Stage ?. Unlock each chest when you spend ? gold on Shop rerolls. These chests persist until opened.",
+  "icon": "18056e90d732a1cd.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT9_Augment_CustomerIsAlwaysRight",
+  "tier": "A",
+  "name": "Component Buffet",
+  "desc": "Whenever you would get a component, gain a component anvil instead. Gain a random component now.\n\nThe anvil offers 4 choices.",
+  "icon": "ab638f9c1b5127b4.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_FiresalePlus",
+  "tier": "A",
+  "name": "Firesale",
+  "desc": "Each round, steal a random ?-cost or lower champion from the shop. Gain ? gold.",
+  "icon": "f6f9d523838a5b59.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT6_Augment_Diversify1",
+  "tier": "A",
+  "name": "Stand United",
+  "desc": "Gain ?% Attack Damage and ?% Ability Power for each non-unique Trait active across your team.\n\nCurrent Bonus: ?% %i:scaleAD% ?% %i:scaleAP%",
+  "icon": "80c719d434a8bb73.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_SmallGrabBag",
+  "tier": "A",
+  "name": "Small Grab Bag",
+  "desc": "Gain ? random item components.",
+  "icon": "7b7054f95b7453c2.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT6_Augment_Distancing",
+  "tier": "A",
+  "name": "Exiles I",
+  "desc": "Your champions that start combat with no adjacent champions gain a ?% max Health shield for ? seconds.",
+  "icon": "81073aa394d2b9ce.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_ComponentQuestSword",
+  "tier": "A",
+  "name": "Carve a Path",
+  "desc": "Gain a B.F. Sword. After your team deals ? physical damage, gain ? more.\n\nDamage dealt: ?",
+  "icon": "f9590d3a78548f80.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_Expedition",
+  "tier": "A",
+  "name": "Expedition",
+  "desc": "At the start of every round, lose the champion in the rightmost bench slot. After losing ? gold of champions in this way, gain a powerful reward. Gain a 3-cost champion now. ?",
+  "icon": "d6747db85a980d8c.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT7_Augment_BandOfThieves1",
+  "tier": "A",
+  "name": "Band of Thieves",
+  "desc": "Gain ? Thief's Gloves.",
+  "icon": "beec608ff9ec3940.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT6_Augment_PandorasItems",
+  "tier": "A",
+  "name": "Pandora's Items",
+  "desc": "Round start: items on your bench are randomized. \n\nGain ? random component.",
+  "icon": "7a1adb66e283713d.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_PlaceboPlus",
+  "tier": "A",
+  "name": "Placebo+",
+  "desc": "Your team gains ?% Attack Speed. Gain ? gold.",
+  "icon": "586bfe7ce94136b4.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_MagicRoll",
+  "tier": "A",
+  "name": "A Magic Roll",
+  "desc": "Roll 3 dice. Gain rewards based on their total.\n\nReward: ?",
+  "icon": "4c1b54e3268605b3.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT9_Augment_BigGrabBag",
+  "tier": "A",
+  "name": "Big Grab Bag",
+  "desc": "Gain ? random components, ? gold, and 1 Reforger. \n\nReforgers allow you to remake any item.",
+  "icon": "ce864806816a604e.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT9_Augment_LearningFromExperience2",
+  "tier": "A",
+  "name": "Patient Study",
+  "desc": "After player combat, gain ? XP if you won or ? XP if you lost.",
+  "icon": "b871645ef1f04cf0.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT6_Augment_SalvageBin",
+  "tier": "A",
+  "name": "Salvage Bin",
+  "desc": "Gain 1 random completed item now, and 1 component after ? player combats. Selling champions breaks completed items into components (excluding Tactician's items and Emblems).",
+  "icon": "b9571c4c17412cdc.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT10_Augment_HeroicGrabBag",
+  "tier": "A",
+  "name": "Heroic Grab Bag",
+  "desc": "Gain ? Lesser Champion Duplicators and ? gold.\n\nThis item allows you to copy a 3-cost or less champion.",
+  "icon": "b04e1a62a6bf927f.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT6_Augment_BandOfThieves2PlusPlus",
+  "tier": "A",
+  "name": "Band of Thieves II++",
+  "desc": "Gain ? Thief's Gloves. After ? player combats, gain another.",
+  "icon": "8d537070830ed049.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT6_Augment_BandOfThieves2Plus",
+  "tier": "A",
+  "name": "Band of Thieves II+",
+  "desc": "Gain ? Thief's Gloves. After ? player combats, gain another.",
+  "icon": "8d537070830ed049.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT11_Augment_Calltochaos",
+  "tier": "A",
+  "name": "Call to Chaos",
+  "desc": "Gain a powerful and random reward.\n\nReward: ?",
+  "icon": "41b69764c387de4c.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_Coronation",
+  "tier": "A",
+  "name": "Coronation",
+  "desc": "Gain a Tactician's Crown. Tactician's Crown, Shield, and Cape grant the holder an additional ?% Attack Speed, ?% Attack Damage, and ?% Ability Power.",
+  "icon": "a4fae4b257aa8cf8.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_TwinGuardians",
+  "tier": "A",
+  "name": "Twin Guardians",
+  "desc": "If you have exactly ? allies in your first row, grant them ? bonus Health, ? Armor, and ? Magic Resist.",
+  "icon": "f8e5f3328cc5a6c6.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT9_Augment_MissedConnections",
+  "tier": "A",
+  "name": "Missed Connections",
+  "desc": "Gain a copy of each 1-cost champion.",
+  "icon": "527e7baf9acfbdaa.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_ExclusiveCustomization",
+  "tier": "A",
+  "name": "Exclusive Customization",
+  "desc": "Gain a Lucky Item Chest, a Magnetic Remover, and ? gold.\n\nUse a Lucky Item Chest on a champion to choose from an armory of recommended items!",
+  "icon": "2ff51ca88b9f0922.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT17_Augment_AhriGodAugment",
+  "tier": "A",
+  "name": "Ahri's Boon",
+  "desc": "Your team gains ?% Attack Damage and Ability Power per level. Gain ? XP each round for the rest of the game.",
+  "icon": "5924ad2ef7e73b13.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_ForgeSword",
+  "tier": "A",
+  "name": "Swordsmith",
+  "desc": "Gain ? random completed items that build from B.F. Sword.",
+  "icon": "c0c98f065c554c9b.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT6_Augment_Distancing2",
+  "tier": "A",
+  "name": "Exiles II",
+  "desc": "Your champions that start combat with no adjacent champions gain a ?% max Health shield for ? seconds.",
+  "icon": "ac9adadcad5ee681.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_AdvancedLoan",
+  "tier": "A",
+  "name": "Advanced Loan",
+  "desc": "Gain ? Gold. Your next augment is one tier lower.",
+  "icon": "3613d529aec3474a.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_BoxingLessons",
+  "tier": "A",
+  "name": "Boxing Lessons",
+  "desc": "Your team gains ? Health for each ally that starts combat in the front row.",
+  "icon": "ef534aeb76b08db4.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_FoodfightTactics",
+  "tier": "A",
+  "name": "Mess Hall",
+  "desc": "After ? seconds of combat, your champions gain ?% Attack Speed and attacks also hurl ? delicious projectiles that deal ? (%i:scaleAD%%i:scaleAP%) magic damage.",
+  "icon": "8ee5ffeae70d9621.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_CrownguardSpirit",
+  "tier": "A",
+  "name": "Crown's Will",
+  "desc": "Gain a Needlessly Large Rod and a Chain Vest. Your team gains ? Ability Power and ? Armor.",
+  "icon": "3cc6abf5f6b35399.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_BirthdayReunion",
+  "tier": "A",
+  "name": "Birthday Reunion",
+  "desc": "Gain ? gold. At Level ?, gain a random 2-star 2-cost champion. At Level ?, gain a Thief's Gloves. At Level ?, gain a random 2-star 5-cost champion.\n\nInkborn Fables Tactician's Crown, 2024",
+  "icon": "217d7db0e1364958.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_LateGameScaling",
+  "tier": "A",
+  "name": "Late Game Scaling",
+  "desc": "Gain ? XP at the start of player combat rounds. Your 5-cost champions gain ?% Health and ?% Attack Speed.\n\nCyber City Tactician's Crown, 2025",
+  "icon": "d65c44e2a2714faf.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT7_Augment_ClutteredMind",
+  "tier": "A",
+  "name": "Cluttered Mind",
+  "desc": "Gain ? random 1-cost champions now. If your bench is full at the end of player combat, gain ? XP.",
+  "icon": "82e03b25a5252c71.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT9_Augment_TiniestTitanPlus",
+  "tier": "A",
+  "name": "Tiniest Titan",
+  "desc": "Gain ? player Health and ? gold after every player combat. Your Tactician also moves faster. Gain ? gold now.",
+  "icon": "bc36d32365845dd2.png",
+  "rarity": "unknown"
+ },
+ {
+  "id": "TFT16_Augment_TheDarkinForge",
+  "tier": "A",
+  "name": "Unsealed From Steel",
+  "desc": "Choose 1 of 4 Darkin Weapons. Darkin Weapons are Artifacts that grant the Darkin trait.",
+  "icon": "ac260e488a165735.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_HeroicGrabBagPlus",
+  "tier": "A",
+  "name": "Heroic Grab Bag+",
+  "desc": "Gain ? Lesser Champion Duplicators and ? gold.\n\nThis item allows you to copy a 3-cost or less champion.",
+  "icon": "b04e1a62a6bf927f.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_AdvancedLoanPlus",
+  "tier": "A",
+  "name": "Advanced Loan+",
+  "desc": "Gain ? Gold. Your next augment is one tier lower.",
+  "icon": "3613d529aec3474a.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT16_Augment_Void_EvolveAndOvercome",
+  "tier": "A",
+  "name": "Evolve and Overcome",
+  "desc": "For every ? champions that Mutated Void allies takedown, gain ? XP. Gain a Cho'Gath and a 2-star Kog'Maw. ?\n\nVoid provides unique Mutations.",
+  "icon": "5cf256086bcdf71f.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_InvestedPlusPlus",
+  "tier": "A",
+  "name": "Invested++",
+  "desc": "Gain ? gold. After every combat, gain 1 Shop reroll for every ? gold above ? (max ? gold).",
+  "icon": "90047c7c189add79.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT16_Augment_WaterAxiom",
+  "tier": "A",
+  "name": "Water Axiom",
+  "desc": "Gain a Water Hex. Champions within gain ? Mana Regen. Their damage ?% Shreds enemies for ? seconds.",
+  "icon": "334fcae8d3bd52d5.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT16_TeamupAugment_JarvanShyvana",
+  "tier": "A",
+  "name": "Dragonguards",
+  "desc": "Gain a Shyvana and a 2-star Jarvan IV. When Jarvan casts, Shyvana gains Shield. When Shyvana casts, Jarvan jumps in and deals damage based on his Armor and Magic Resist. After every player combat, gain a Jarvan IV.",
+  "icon": "dd0770c90e8e6da4.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_Golemify",
+  "tier": "A",
+  "name": "Golemify",
+  "desc": "Lose all champions on your board and bench. Gain a Golem with ?% of their combined Health and ?% of their combined Attack Damage. The Golem gains ? Health per stage. Gain a non-Tank 2-star ?-cost champion.",
+  "icon": "b51b50248c7bf41a.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT16_Augment_Noxus_BringerOfRuin",
+  "tier": "A",
+  "name": "Bringer of Ruin",
+  "desc": "Every takedown Atakhan scores permanently grants him ?% Ability Power and ? max Health. Gain a Briar and a Sion. \n(Current Takedowns: ?)",
+  "icon": "fd65fb754baf9c8a.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_Dummify",
+  "tier": "A",
+  "name": "Dummify",
+  "desc": "Lose all champions on your board and bench. Gain a Training Dummy with ?% of their combined Health. The Training Dummy gains ? Health per stage. Gain a non-Tank 2-star ?-cost champion.",
+  "icon": "bde4ae2db71acfd3.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT7_Augment_BigFriend",
+  "tier": "A",
+  "name": "Big Friend I",
+  "desc": "Allies that start combat next to an ally with over ? Health gain ?% Durability. Gain a Giant's Belt.",
+  "icon": "694659497e77dc6d.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT10_Augment_CrashTestDummies",
+  "tier": "A",
+  "name": "Crash Test Dummies",
+  "desc": "Gain ? Training Dummies. Combat start: Your Training Dummies launch themselves towards a group of enemies and Stun them for ? seconds.",
+  "icon": "12144ee15d16639d.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_LastSecondSave",
+  "tier": "A",
+  "name": "Last Second Save",
+  "desc": "The first time each ally falls below ?% Health, they restore ?% maximum Health.",
+  "icon": "ebb72a80dfbb6f0b.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_SavingsAccount",
+  "tier": "A",
+  "name": "Savings Account",
+  "desc": "After you earn ? gold in interest, gain ? gold. Your max interest is increased to ?. Gain ? gold now.\n\nGold earned: ?",
+  "icon": "45d4b040c09f35e7.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_GroupHug1",
+  "tier": "A",
+  "name": "Group Hug I",
+  "desc": "Combat start: Allies grant other adjacent allies ? Armor and Magic Resist. This effect stacks.",
+  "icon": "0491822f62d6c937.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT9_Augment_Commander_PartialAscension",
+  "tier": "A",
+  "name": "Partial Ascension",
+  "desc": "After ? seconds of combat, your team gains ?% Damage Amp.",
+  "icon": "2fcbfae133638c51.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT17_Augment_EkkoGodAugment",
+  "tier": "A",
+  "name": "Ekko's Boon",
+  "desc": "Gain the Anomaly, an item which grants units a powerful evolution depending on their role. Gain ? Magnetic Removers.",
+  "icon": "1a4fe6744cd88007.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_GroupHug2",
+  "tier": "A",
+  "name": "Group Hug II",
+  "desc": "Combat start: Allies grant other adjacent allies ? Armor and Magic Resist. This effect stacks.",
+  "icon": "7b5894b27188d2ff.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_WorthTheWaitGold",
+  "tier": "A",
+  "name": "Worth the Wait",
+  "desc": "Gain a random ?-cost champion. Gain another copy of them at the start of each round for the rest of the game.\n\nChampion: ?",
+  "icon": "280d59886dd777a2.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT17_Augment_YasuoGodAugment_PaintedPower",
+  "tier": "A",
+  "name": "Yasuo's Boon",
+  "desc": "Increase the power of Yasuo's hexes by ?%. If you only have 2 hexes, gain ? gold.",
+  "icon": "755ebc4cdf358fbb.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT17_Augment_KayleGodAugment",
+  "tier": "A",
+  "name": "Kayle's Boon",
+  "desc": "For each unique completed item on your team, your team gains ? Health, ?% Attack Damage, and ?% Ability Power.",
+  "icon": "23d4cafc11bd9c7a.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT6_Augment_SecondWind2",
+  "tier": "A",
+  "name": "Second Wind II",
+  "desc": "After ? seconds of combat, your team heals ?% of their missing Health.",
+  "icon": "0f576756289e0fec.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT17_Augment_YasuoGodAugment_MoreHexes",
+  "tier": "A",
+  "name": "Yasuo's Share The Spotlight",
+  "desc": "Yasuo's hexes also affect adjacent units at ?% effectiveness.",
+  "icon": "1de0c4cf619ad2dd.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_BacklineBlueprint",
+  "tier": "A",
+  "name": "Backline Blueprint",
+  "desc": "Gain a 3-cost non-Tank champion and an Emblem that matches their last-listed trait.",
+  "icon": "87dae36964c9e6a4.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_Misfits",
+  "tier": "A",
+  "name": "Misfits",
+  "desc": "Your team gains ? Health for each active Unique trait. Gain a Rhaast and a Miss Fortune.\n\n?\n\nUnique traits belong to 1 champion and are shown in orange.",
+  "icon": "509db212e95a74d3.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_ConstructACompanion",
+  "tier": "A",
+  "name": "Construct a Companion",
+  "desc": "The next 1-cost champion you buy is 3-star. Gain ? gold.",
+  "icon": "40bec91e80745017.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_BoosterPackPlusPlus",
+  "tier": "A",
+  "name": "Booster Pack++",
+  "desc": "Gain ? gold of random champions. (At least one ?-cost guaranteed!)\n\n(Each champion has a small chance of being holographic!)",
+  "icon": "d496656e84080692.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_TwoMuchValue",
+  "tier": "A",
+  "name": "Two Much Value",
+  "desc": "Gain ? reroll for every ? unique 2-cost champions fielded last player combat. Gain ? 2-cost champions.",
+  "icon": "dc0c85ec736e8276.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_AwakenedSoul",
+  "tier": "A",
+  "name": "Soul Awakening",
+  "desc": "Combat start: Your team gains ?% Attack Damage and Ability Power per second for ? seconds. At max stacks, deal ?% bonus true damage.",
+  "icon": "7eac11a62b888d7c.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT7_Augment_PandorasBench",
+  "tier": "A",
+  "name": "Pandora's Bench",
+  "desc": "At the start of every round, champions on the ? rightmost bench slots transform into random champions of the same cost. Gain ? gold.",
+  "icon": "f28bf31bf369913f.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_TheGoldenDragon",
+  "tier": "A",
+  "name": "The Golden Dragon",
+  "desc": "Gain a Mogul's Mail. Champions holding Mogul's Mail take up 2 team slots but gain ? Health and ?% Durability.\n\nMogul's Mail gives gold as well as combat power.\nDragonlands Championship, 2022",
+  "icon": "44b3f76cd3e634a0.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_UrfsGambit",
+  "tier": "A",
+  "name": "Urf's Gambit",
+  "desc": "If you win your next player combat, gain a Spatula. If you lose, gain a Frying Pan. Gain a component anvil and ? gold now.",
+  "icon": "fed312c3457d47d6.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_PatienceIsAVirtue",
+  "tier": "A",
+  "name": "Patience is a Virtue",
+  "desc": "Gain ? rerolls now. Each round, gain ? free rerolls if you did not buy a champion last round.",
+  "icon": "201a0af40a3ed082.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_HomeCooking",
+  "tier": "A",
+  "name": "Care Package",
+  "desc": "Now and at the start of the next ? Stages, receive a care package with loot and ? gold.",
+  "icon": "ac237b8dc2bbfa2f.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_GoldenGamblePlusPlus",
+  "tier": "A",
+  "name": "Golden Gamble++",
+  "desc": "Gain ? gold and flip a coin. If heads, gain a Radiant Lucky Item Chest. If tails, gain ? Completed item anvils.\n\n?",
+  "icon": "01c0e1dc8a2a6e37.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT7_Augment_LivingForge",
+  "tier": "A",
+  "name": "Living Forge",
+  "desc": "Gain an Artifact anvil now and after every ? player combats.\n\nArtifacts are more powerful items with a unique effect.",
+  "icon": "117d861afc307694.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_GoldenGamble",
+  "tier": "A",
+  "name": "Golden Gamble",
+  "desc": "Gain ? gold and flip a coin. If heads, gain a Radiant Lucky Item Chest. If tails, gain ? Completed item anvils.\n\n?",
+  "icon": "01c0e1dc8a2a6e37.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_GoldenGamblePlus",
+  "tier": "A",
+  "name": "Golden Gamble+",
+  "desc": "Gain ? gold and flip a coin. If heads, gain a Radiant Lucky Item Chest. If tails, gain ? Completed item anvils.\n\n?",
+  "icon": "01c0e1dc8a2a6e37.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_ThornPlatedArmor",
+  "tier": "A",
+  "name": "Thorn-Plated Armor",
+  "desc": "Gain a Bramble Vest. Your Bramble Vests deal ?-?% more damage (based on Stage).",
+  "icon": "2110caf9485efb0c.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT6_Augment_PortableForge",
+  "tier": "A",
+  "name": "Portable Forge",
+  "desc": "Choose 1 of ? Artifacts.\n\nArtifacts are more powerful items with a unique effect.",
+  "icon": "d7b4c08256461597.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_ForgeRod",
+  "tier": "A",
+  "name": "Staffsmith",
+  "desc": "Gain ? random completed items that build from Needlessly Large Rod.",
+  "icon": "e59b2e0573aa493a.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT6_Augment_GachaAddict",
+  "tier": "A",
+  "name": "Prismatic Ticket",
+  "desc": "Each time your Shop is rerolled, you have a ?% chance to gain a free reroll.",
+  "icon": "6dd15936191bde01.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_SwordOverflow",
+  "tier": "A",
+  "name": "Sword Overflow",
+  "desc": "Gain ? B.F. Swords. Your B.F. Swords grant +?% Attack Speed.",
+  "icon": "c05af85e9133849e.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT17_Augment_ThreshGodAugment",
+  "tier": "A",
+  "name": "Thresh's Boon",
+  "desc": "Each round, roll a die. Get a bonus based on that roll.\n\n\nHealth: ?\nAttack Speed: ?%",
+  "icon": "5bf560101ccdb82c.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_ShimmerscaleEssence",
+  "tier": "A",
+  "name": "Shimmerscale Essence",
+  "desc": "Gain a Mogul's Mail. In ? rounds, gain a Gamblers Blade.\n\nThese items give gold as well as combat power.",
+  "icon": "6034eee8dbcb1673.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_TragicalBlade",
+  "tier": "A",
+  "name": "Deadlier Blades",
+  "desc": "Gain a Deathblade. Deathblades permanently gain ?% Attack Damage whenever their holders score a takedown.",
+  "icon": "959ae67732e7338e.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_DeadlierCaps",
+  "tier": "A",
+  "name": "Deadlier Caps",
+  "desc": "Gain a Rabadon's Deathcap. Rabadon's Deathcaps grant ? Mana Regen and permanently gain ?% Ability Power whenever their holders score a takedown.",
+  "icon": "4f7586dced5cd14b.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_SweetTreats",
+  "tier": "A",
+  "name": "Sweet Treats",
+  "desc": "Gain an Artifact anvil. Your team gains ? Health for each item equipped on champions.\n\nHealth Gained: ?\n\nMagic N' Mayhem Tactician's Crown, 2024",
+  "icon": "37f760268628876b.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT6_Augment_Electrocharge2",
+  "tier": "A",
+  "name": "Electrocharge II",
+  "desc": "Every ? attacks an ally takes, they deal ?-? (based on current Stage) magic damage to nearby enemies (? second cooldown).",
+  "icon": "a0db0fc7edea9aa7.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT6_Augment_Electrocharge1",
+  "tier": "A",
+  "name": "Electrocharge I",
+  "desc": "Every ? attacks an ally takes, they deal ?-? (based on current Stage) magic damage to nearby enemies (? second cooldown).",
+  "icon": "b900011622e3790a.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_ComponentQuestRod",
+  "tier": "A",
+  "name": "Continuous Conjuration",
+  "desc": "Gain a Needlessly Large Rod. After your team deals ? magic damage, gain ? more.\n\nDamage dealt: ?",
+  "icon": "ddee90dec3c96570.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT7_Augment_LategameSpecialist",
+  "tier": "A",
+  "name": "Late Game Specialist",
+  "desc": "When you reach Level ?, gain ? gold.",
+  "icon": "986e554f6cae1064.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT6_Augment_ThriftShop",
+  "tier": "A",
+  "name": "Wise Spending",
+  "desc": "You can no longer buy XP. Every time you spend gold to reroll your Shop, gain ? XP. Gain ? gold now.",
+  "icon": "87d2bcf33f524eb8.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT17_Augment_AnimaSquad_Commander",
+  "tier": "A",
+  "name": "Anima Commander",
+  "desc": "Gain a Briar, a Jinx, and an Illaoi. Increase your current and max player Health by ?.",
+  "icon": "9263c73ac8c912cc.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_EarlyLearning",
+  "tier": "A",
+  "name": "Early Learnings",
+  "desc": "Your team gains ?% Attack Damage & Ability Power. This increases by ?% after each player combat. 1-cost champions gain double.\n?\nTFT Vegas Open, 2023",
+  "icon": "595dfb1335cc8222.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_BoosterPackPlus",
+  "tier": "A",
+  "name": "Booster Pack+",
+  "desc": "Gain ? gold of random champions. (At least one ?-cost guaranteed!)\n\n(Each champion has a small chance of being holographic!)",
+  "icon": "2433c6ce8f1cffbd.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_BoosterPack",
+  "tier": "A",
+  "name": "Booster Pack",
+  "desc": "Gain ? gold of random champions. (At least one ?-cost guaranteed!)\n\n(Each champion has a small chance of being holographic!)",
+  "icon": "2433c6ce8f1cffbd.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT17_Augment_DarkStar_WhiteHole",
+  "tier": "A",
+  "name": "Loot Singularity",
+  "desc": "When the Black Hole consumes enemies, it turns them into space matter. After acquiring enough, the Black Hole turns it into loot! Gain a Cho'gath and a Lissandra.\n\nSpace matter and loot quality increase each time. Gain ?/?/? space matter depending on Dark Star breakpoint.\n\nSpace Matter: ? / ?",
+  "icon": "74439b2fa6e3351b.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_HeroicGrabBagPlusPlus",
+  "tier": "A",
+  "name": "Heroic Grab Bag++",
+  "desc": "Gain ? Lesser Champion Duplicators and ? gold.\n\nThis item allows you to copy a 3-cost or less champion.",
+  "icon": "b04e1a62a6bf927f.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT16_Augment_UltraRapidFire",
+  "tier": "A",
+  "name": "U.R.F",
+  "desc": "Gain a Spatula. Champions holding Spatula or Frying Pan items gain ?% Attack Speed and ? Mana Regen.",
+  "icon": "4ec748706b438df4.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_FrontlineFoundation",
+  "tier": "A",
+  "name": "Frontline Foundation",
+  "desc": "Gain a 2-star 1-cost Tank champion and an Emblem that matches their last-listed trait.",
+  "icon": "3dd5dbe36eee655e.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_MayTheFoursBeWithYou",
+  "tier": "A",
+  "name": "May the Fours Be With You",
+  "desc": "Your 4-cost champions and Jhin gain ? Health and ?% Attack Speed. Gain a Jhin.",
+  "icon": "3768f6b45655651a.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_BodyguardTraining",
+  "tier": "A",
+  "name": "Bodyguard Training",
+  "desc": "Allies gain ? Armor and Magic Resist, increased by ? per player level.\n\nGizmos & Gadgets Championship, 2022",
+  "icon": "3ce44c393189c41b.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_WorthTheWaitPrismatic",
+  "tier": "A",
+  "name": "Worth the Wait II",
+  "desc": "Gain ? copies of a random ?-cost champion. Gain another copy of them at the start of each round for the rest of the game.\n\nChampion: ?",
+  "icon": "8761871f7dcb4259.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_ChargeTransfer2",
+  "tier": "A",
+  "name": "Charge Transfer II",
+  "desc": "Your team gains ?% Damage Amp. ?% of overkill damage is dealt to the nearest enemy as magic damage.",
+  "icon": "e0792e75f4a662d3.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_ChargeTransfer1",
+  "tier": "A",
+  "name": "Charge Transfer I",
+  "desc": "Your team gains ?% Damage Amp. ?% of overkill damage is dealt to the nearest enemy as magic damage.",
+  "icon": "5d4bb3823a8f9628.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT6_Augment_CelestialBlessing1",
+  "tier": "B",
+  "name": "Celestial Blessing I",
+  "desc": "Your team gains ?% Omnivamp. Excess healing is converted to a shield up to ? Health.",
+  "icon": "b821def593f869b0.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_Corrosion",
+  "tier": "B",
+  "name": "Corrosion",
+  "desc": "Enemies in the first two rows lose ? Armor and Magic Resist every ? seconds.",
+  "icon": "bbe99634a857bb48.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_SilverDestinyPlus",
+  "tier": "B",
+  "name": "Silver Destiny+",
+  "desc": "Gain a random Silver Augment and ? gold.",
+  "icon": "46860f5874e7e3ce.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_EyeForAnEye",
+  "tier": "B",
+  "name": "Eye For An Eye",
+  "desc": "For every ? ally champions that die, gain a random component (max ?).\n\nDeaths Remaining: ?",
+  "icon": "02cb6ff0e54a81a5.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_EyeForAnEyePlus",
+  "tier": "B",
+  "name": "Eye For An Eye+",
+  "desc": "Gain a random component. For every ? ally champions that die, gain another component (max ?).\n\nDeaths Remaining: ?",
+  "icon": "02cb6ff0e54a81a5.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_GlassCannonI",
+  "tier": "B",
+  "name": "Glass Cannon I",
+  "desc": "Allies that start combat in the back row begin combat at ?% Health but gain ?% Damage Amp.",
+  "icon": "1141b549addeb855.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_ComponentQuestBow",
+  "tier": "B",
+  "name": "Backup Bows",
+  "desc": "Gain a Recurve Bow. After your team attacks ? times, gain ? more.\n\nAttacks: ?",
+  "icon": "b7375bc3581bf3d2.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT9_Augment_HealingOrbsI",
+  "tier": "B",
+  "name": "Healing Orbs I",
+  "desc": "When an enemy dies, the nearest ally is healed for ?.",
+  "icon": "e1d34b0dc7bab5ad.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_AnExaltedAdventure",
+  "tier": "B",
+  "name": "An Exalted Adventure",
+  "desc": "Gain three 2-cost champions. If you 3-star two of them, gain an orb filled with loot. Gain a Lesser Champion Duplicator at the start of next ? stages.\n\nChampions: ?, ?, ?",
+  "icon": "894f499b529bd43c.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_Lineup",
+  "tier": "B",
+  "name": "Lineup",
+  "desc": "Your team gains ? Armor and Magic Resist for each ally that starts combat in the front two rows.",
+  "icon": "838d67891cd499ee.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT16_Augment_AirAxiom",
+  "tier": "B",
+  "name": "Air Axiom",
+  "desc": "Gain an Air Hex. Champions within gain ?% Attack Speed and their damage ?% Sunders enemies for ? seconds.",
+  "icon": "798deb815336f958.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_TitanicTitan",
+  "tier": "B",
+  "name": "Titanic Titan",
+  "desc": "Increase your current and max player Health by ?. On carousel rounds you are released earlier, but are much slower.",
+  "icon": "4342f4254355e545.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT9_Augment_IronAssets",
+  "tier": "B",
+  "name": "Iron Assets",
+  "desc": "Gain a component anvil and ? gold.",
+  "icon": "23ab63ffccb5aa47.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_BronzeForLifeI",
+  "tier": "B",
+  "name": "Bronze For Life I",
+  "desc": "Your team gains ?% Damage Amp for each Bronze-tier trait.\n\nDamage Amp Bonus: ?%",
+  "icon": "6fa0a87a1c18b3c2.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT6_Augment_MakeshiftArmor1",
+  "tier": "B",
+  "name": "Makeshift Armor I",
+  "desc": "Allies without items equipped gain ? Armor and Magic Resist.",
+  "icon": "0926e5dd3b6f052c.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT9_Augment_SilverSpoon",
+  "tier": "B",
+  "name": "Silver Spoon",
+  "desc": "Gain ? XP.",
+  "icon": "f335124ec85eb473.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT7_Augment_AFK",
+  "tier": "B",
+  "name": "AFK",
+  "desc": "You cannot perform actions for the next ? rounds. Afterwards, gain ? gold.",
+  "icon": "0d9ce89bfc544a6a.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_Waverider",
+  "tier": "B",
+  "name": "On a Roll",
+  "desc": "Whenever you star up a champion that you fielded last combat, gain ? free Shop rerolls. Gain ? gold.",
+  "icon": "e7d6641832187337.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT6_Augment_OneTwoFive",
+  "tier": "B",
+  "name": "One, Two, Five!",
+  "desc": "Gain ? random component, ? gold, and ? random 5-cost champion.",
+  "icon": "0ccda3d1c2e65e32.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT9_Augment_RiskyMoves",
+  "tier": "B",
+  "name": "Risky Moves",
+  "desc": "Your Tactician loses ? Health, but after ? player combats, gain ? gold.",
+  "icon": "40eaa8c60e5fec6b.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT11_Augment_OverEncumbered",
+  "tier": "B",
+  "name": "Over Encumbered",
+  "desc": "For the next stage, you only get ? bench slots. After, get ? item&nbsp;components.",
+  "icon": "5b615f19cd9d7ee6.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_Placebo",
+  "tier": "B",
+  "name": "Placebo",
+  "desc": "Your team gains ?% Attack Speed. Gain ? gold.",
+  "icon": "586bfe7ce94136b4.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_TableScraps",
+  "tier": "B",
+  "name": "Table Scraps",
+  "desc": "After the next ? carousels, gain one champion that was not taken and its item. Gain ? gold.",
+  "icon": "1b89d3771402832c.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_SilverDestiny",
+  "tier": "B",
+  "name": "Silver Destiny",
+  "desc": "Gain a random Silver Augment and ? gold.",
+  "icon": "46860f5874e7e3ce.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_KickStart",
+  "tier": "B",
+  "name": "Kick Start",
+  "desc": "Gain a random 2-star 2-cost champion and ? gold.",
+  "icon": "3b056ee519044aa5.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT6_Augment_TinyTitans",
+  "tier": "B",
+  "name": "Tiny Titans",
+  "desc": "Increase your current and max player health by ?.",
+  "icon": "3bb0e8c2b621abb4.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT9_Augment_ArmyBuilding",
+  "tier": "B",
+  "name": "Team Building",
+  "desc": "Gain a Lesser Champion Duplicator. Gain another after ? player combats.\n\nThis item allows you to copy a 3-cost or less champion.",
+  "icon": "52840d72fdc55e9c.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT9_Augment_Commander_TeamingUp1",
+  "tier": "B",
+  "name": "Teaming Up",
+  "desc": "Gain ? random component and ? random 3-cost champions.",
+  "icon": "f7ddeb177a114d47.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_HardBargain",
+  "tier": "B",
+  "name": "Hard Bargain",
+  "desc": "You cannot choose your Carousel rewards. Gain an additional ? player Health and ? Gold each carousel round.\nWhen you do not pick a Carousel Reward, you are given an unpicked champion and the item it carries",
+  "icon": "1af231de83ba2125.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_CookingPot",
+  "tier": "B",
+  "name": "Cooking Pot",
+  "desc": "At the start of each turn, all allies holding a Frying Pan or Spatula item grant the nearest champion ? permanent Health. Gain a Frying Pan.",
+  "icon": "adfc5250f5f1922a.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT9_Augment_BardPlaybook2",
+  "tier": "B",
+  "name": "Caretaker's Favor",
+  "desc": "Gain a component anvil when you reach level ?, ?, ?, and ?.\n\nThe anvil offers 4 choices.",
+  "icon": "3d5b06a3ccf2aab5.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT16_Augment_Zaun_SilcosRevenge",
+  "tier": "B",
+  "name": "Silco's Revenge",
+  "desc": "Zaunites explode into Shimmer on death, dealing ?% of their max Health to ? nearby enemies as magic damage. Gain a Blitzcrank, an Ekko, and a Vi.",
+  "icon": "853d40b624e8303c.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT6_Augment_CelestialBlessing2",
+  "tier": "B",
+  "name": "Celestial Blessing II",
+  "desc": "Your team gains ?% Omnivamp. Excess healing is converted to a shield up to ? Health.",
+  "icon": "95bea9b2922577c3.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_WarmogsBuckle",
+  "tier": "B",
+  "name": "Heart of Steel",
+  "desc": "Gain a Steadfast Heart. Every ? seconds of combat its holder survives, Steadfast Heart gains additional ? permanent max Health.",
+  "icon": "f13f2fa7f0f1026e.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_InfinityProtection",
+  "tier": "B",
+  "name": "Infinity Protection",
+  "desc": "Gain ? gold now. On Stage 3-7, gain an Infinity Force. Infinity Force gives allies in the same row a ?% Health shield.\n\nMonsters Attack Championship, 2023",
+  "icon": "335f3d6254ada45b.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT17_Augment_ApotheoticForge",
+  "tier": "B",
+  "name": "Apotheotic Forge",
+  "desc": "Choose 1 of 4 Divine Artifacts.\n\nArtifacts are more powerful items with a unique effect.",
+  "icon": "799b8884021f9e51.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT6_Augment_MakeshiftArmor2",
+  "tier": "B",
+  "name": "Makeshift Armor II",
+  "desc": "Allies without items equipped gain ? Armor and Magic Resist.",
+  "icon": "5b76ce0c5de6783d.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_ChallengerDash",
+  "tier": "B",
+  "name": "Precision and Grace",
+  "desc": "At the start of combat, allies gain ?% Attack Speed for ? seconds. On takedown, allies dash to their next target and gain this bonus again.",
+  "icon": "eea06c60c204386f.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT9_Augment_PandorasItems2",
+  "tier": "B",
+  "name": "Pandora's Items II",
+  "desc": "Round start: items on your bench are randomized.\n\nGain ? random components.",
+  "icon": "2070d0a78537ec82.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_Unforgotten",
+  "tier": "B",
+  "name": "Warlord's Honor",
+  "desc": "Every round, your team gain ?% Attack Damage and Ability Power. Champions start with ? stack of this effect, and can stack up to ? times.",
+  "icon": "c1a7d56644b90b9e.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT6_Augment_TradeSector",
+  "tier": "B",
+  "name": "Trade Sector",
+  "desc": "Gain a free Shop reroll every round. Gain ? gold.",
+  "icon": "eb866c2021986122.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_GildedSteel",
+  "tier": "B",
+  "name": "Gilded Steel",
+  "desc": "Gain ? non-Tank 5-cost champions. If you field at least one 5-cost champion, your 1 to 4-cost champions gain ?% Durability.\n\nK.O. Coliseum Tactician's Crown, 2025",
+  "icon": "c6524c51b50bc54c.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_SeraphimsStaff",
+  "tier": "B",
+  "name": "Seraphim's Staff",
+  "desc": "Gain an Archangel's Staff. Archangel's Staff grants ? additional Mana Regen if its holder has ?% or more Ability Power.",
+  "icon": "ccfdbbc48bee47a8.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT9_Augment_KnowYourEnemy",
+  "tier": "B",
+  "name": "Know Your Enemy",
+  "desc": "You can see who you will fight next. Your team gains ?% Damage Amp, increased to ?% if you and your opponent have any of the same traits active.",
+  "icon": "87f462f8b08b1c77.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT16_Augment_DemaciaForever",
+  "tier": "B",
+  "name": "Demacia Forever",
+  "desc": "Demacians gain ? permanent Health every time they rally. They also gain ?% permanent Attack Damage and Ability Power every ? rallies. Gain a Jarvan IV, a Sona, and a Xin Zhao.",
+  "icon": "3615bf1a2378f0a6.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT17_Augment_JaxCarry",
+  "tier": "B",
+  "name": "Reach for the Stars",
+  "desc": "Gain a Jax. Your strongest Jax becomes a Magic Fighter that deal bonus magic damage on attack and gains stacking Attack Speed on cast.",
+  "icon": "a3a2101a54d6d35a.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT11_Augment_Reinfourcement",
+  "tier": "B",
+  "name": "ReinFOURcement",
+  "desc": "The next 4-cost champion you buy with gold is instantly upgraded to 2-star. Gain ? gold.",
+  "icon": "0068cff2161c57b9.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT17_Augment_Concentration",
+  "tier": "B",
+  "name": "Concentration",
+  "desc": "Conduit Abilities last ?% to ?% longer, depending on the Ability. Gain a Zoe and a Mordekaiser.",
+  "icon": "8d40eaac0ea52a3b.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_ExplosiveGrowthPlus",
+  "tier": "B",
+  "name": "Explosive Growth+",
+  "desc": "Now and at the start of the next ? rounds, gain ? XP.",
+  "icon": "25b25dbbe761bc8a.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT16_Augment_ShadowIsles_RuinedKing",
+  "tier": "B",
+  "name": "The Ruined King",
+  "desc": "Gain a 2-star Viego. Your strongest Viego shares ?% of his Passive with other Shadow Isles allies. After collecting ? souls, his Ability upgrades.",
+  "icon": "a906638c9abaa157.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_SliceOfLife",
+  "tier": "B",
+  "name": "Slice of Life",
+  "desc": "Twice per stage, gain a random champion. Its cost increases by Stage. This effect ends after receiving ? 5-cost champion.",
+  "icon": "d9121e81759b284e.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_AuraFarming",
+  "tier": "B",
+  "name": "Aura Farming",
+  "desc": "Gain a ?-star 5-cost champion holding a recommended item. You cannot field it until Stage ?-?.",
+  "icon": "5466581f894abc74.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_DuoQueue",
+  "tier": "B",
+  "name": "Duo Queue",
+  "desc": "Gain ? random 5-cost champions and ? copies of a random component.",
+  "icon": "8e5a3abd9f5fa9f4.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_NoScoutNoPivot",
+  "tier": "B",
+  "name": "NO SCOUT NO PIVOT",
+  "desc": "Champions that fight in player combat cannot be benched or sold. Your team gains ?% Health, and ?% Attack Damage and Ability Power after player combat. \n\n?",
+  "icon": "fb3162350722935d.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_SoloLeveling",
+  "tier": "B",
+  "name": "Solo Leveling",
+  "desc": "For the next ? combats, your team size is 1 but the champion you field has massively increased stats. Gain ? XP for every kill they get. Afterwards, gain ? item components.",
+  "icon": "728d82ef6f984b81.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_GainGold",
+  "tier": "B",
+  "name": "Gain @Gold@ Gold",
+  "desc": "Gain ? gold.",
+  "icon": "7185974e6a0abebf.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_ItemGargoyleStoneplate",
+  "tier": "B",
+  "name": "Solo Plate",
+  "desc": "Gain a Gargoyle Stoneplate. Combat start: Allies holding Gargoyle Stoneplate gain ?% max Health if they're the only one in their row.",
+  "icon": "8d4dfd10afc61e14.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_GlassCannonII",
+  "tier": "B",
+  "name": "Glass Cannon II",
+  "desc": "Allies that start combat in the back row begin combat at ?% Health but gain ?% Damage Amp.",
+  "icon": "d6fd596fb7eedafc.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_GoldDestiny",
+  "tier": "B",
+  "name": "Gold Destiny",
+  "desc": "Gain a random Gold Augment and ? gold.",
+  "icon": "078041c669c1bc59.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_GoldDestinyPlus",
+  "tier": "B",
+  "name": "Gold Destiny+",
+  "desc": "Gain a random Gold Augment and ? gold.",
+  "icon": "078041c669c1bc59.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_FuriousBlows",
+  "tier": "B",
+  "name": "Kahunahuna",
+  "desc": "Every ?th attack deals bonus true damage equal to ?% Basic Attack Damage.",
+  "icon": "8feb1d06abc81c0d.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT10_Augment_LittleBuddies",
+  "tier": "B",
+  "name": "Little Buddies",
+  "desc": "Your 4-cost and 5-cost champions gain ? Health and ?% Attack Speed for every 1-cost and 2-cost champion on your board.\n\n?",
+  "icon": "fc97db3c8e4c0077.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT9_Augment_JeweledLotus",
+  "tier": "B",
+  "name": "Jeweled Lotus I",
+  "desc": "Your team gains ?% Critical Strike Chance and Precision.\n\n{{TFT_Keyword_Precision}}",
+  "icon": "d82de8969216afb3.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_GuardbreakerSpirit",
+  "tier": "B",
+  "name": "Mace's Will",
+  "desc": "Gain a Sparring Gloves. Your team gains ?% Critical Strike Chance.",
+  "icon": "ebb4978495cb7e3f.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_MirroredMonetization",
+  "tier": "B",
+  "name": "Malicious Monetization",
+  "desc": "Gain ? gold. For the next ? rounds, enemy champions drop ? gold when killed.\n\n?",
+  "icon": "5da6cc40f09a238d.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_PairOfFours",
+  "tier": "B",
+  "name": "Pair of Fours",
+  "desc": "If your team has exactly ? 4-cost champions, they each gain ? Health and ?% Attack Speed. Gain a random 4-cost.",
+  "icon": "0ef59141d744067a.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_PlotArmor",
+  "tier": "B",
+  "name": "Plot Armor",
+  "desc": "Your team gains ? Armor and Magic Resist. After falling below ?% Health, increase this to ? for the rest of combat.",
+  "icon": "c71515a6e70c67cc.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT11_Augment_Prizefighter",
+  "tier": "B",
+  "name": "Prizefighter",
+  "desc": "Gain ? item components. Every ? wins gives you an item&nbsp;component.",
+  "icon": "0b1a3cfd2c09c5e0.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_Pyromaniac",
+  "tier": "B",
+  "name": "Pyromaniac",
+  "desc": "Gain a Red Buff. Your Burns deal ?% increased damage.",
+  "icon": "e5297e86010b6e12.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_Replication",
+  "tier": "B",
+  "name": "Replication",
+  "desc": "Choose 1 of 3 components. For the next ? rounds, gain a copy of that component.",
+  "icon": "4daad8aa035cf0fd.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT17_Augment_InvaderZed",
+  "tier": "B",
+  "name": "Invader Zed",
+  "desc": "Gain a Spear of Shojin. On Stage ?-?, gain a Zed. After receiving Zed, he can then appear in your shops.\n\nZed is a 5-cost Attack Fighter that creates clones of himself.",
+  "icon": "ddc495e2f8ef9958.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT11_Augment_Slammin_Plus",
+  "tier": "B",
+  "name": "Slammin'+",
+  "desc": "Gain ? gold and ? XP now. After each player combat, if there are no items on your bench (other than consumables), gain ? XP.",
+  "icon": "5ce16a33ee6206eb.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT8_Augment_SalvageBinPlus",
+  "tier": "B",
+  "name": "Salvage Bin+",
+  "desc": "Gain 1 random completed item now, and 1 component after ? player combats. Selling champions breaks completed items into components (excluding Tactician's items and Emblems).",
+  "icon": "b9571c4c17412cdc.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_LegionOfThrees",
+  "tier": "B",
+  "name": "Legion of Threes",
+  "desc": "Gain a random Emblem. Your 3-cost champions and all allies equipped with an Emblem gain ? Health and ?% Attack Speed.\n\nReckoning Championship, 2021",
+  "icon": "a29385da67248abb.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT7_Augment_BestFriends2",
+  "tier": "B",
+  "name": "Best Friends II",
+  "desc": "Allies isolated in pairs gain ?% Attack Speed and ? Armor and Magic Resist at the start of combat.",
+  "icon": "e649655755e9f43c.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT9_Augment_TonsOfStats",
+  "tier": "B",
+  "name": "Tons of Stats!",
+  "desc": "Your team gains ? Health, ?% Attack Damage, ?% Ability Power, ? Armor, ? Magic Resist, ?% Attack Speed, and ? Mana.",
+  "icon": "9f1b099602a4faa2.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_TwoTrick",
+  "tier": "B",
+  "name": "Two Trick",
+  "desc": "Gain a random 2-star 2-cost and 2 random 2-star 1-cost champions.",
+  "icon": "d6e116622c437332.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT11_Augment_EpochPlus",
+  "tier": "B",
+  "name": "Epoch+",
+  "desc": "Now, and at the start of every stage, gain ? XP and ? free rerolls.",
+  "icon": "800c53b1576cd3a4.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT7_Augment_LuckyGlovesPlus",
+  "tier": "B",
+  "name": "Lucky Gloves+",
+  "desc": "Thief's Gloves will always give your champions recommended items. Gain ? Sparring Gloves now, then another after ? player combats.",
+  "icon": "f3c62b00ecf98c8d.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT7_Augment_LuckyGloves",
+  "tier": "B",
+  "name": "Lucky Gloves",
+  "desc": "Thief's Gloves will always give your champions ideal items. Gain ? Sparring Gloves and ? gold.",
+  "icon": "f3c62b00ecf98c8d.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT9_Augment_PandorasRadiantBox",
+  "tier": "B",
+  "name": "Pandora's Items III",
+  "desc": "Round start: items on your bench are randomized. \n\nGain 1 random Radiant item.",
+  "icon": "18f6b339e6ff12be.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_MinMaxer",
+  "tier": "B",
+  "name": "Min-Max",
+  "desc": "Gain a Golden Item Remover and ? random components.\n\nGolden Item Remover is a Magnetic Remover with infinite uses.",
+  "icon": "39e628f84940523c.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_PrismaticDestiny",
+  "tier": "B",
+  "name": "Prismatic Destiny",
+  "desc": "Gain a random Prismatic Augment and ? gold.",
+  "icon": "0d36ae4ce0d303ba.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_ExpectedUnexpectedness",
+  "tier": "B",
+  "name": "Expected Unexpectedness",
+  "desc": "Now and at the start of the next ? stages, roll 3 dice. Gain various rewards based on their total.",
+  "icon": "27aa931423c79ea2.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_Retribution",
+  "tier": "B",
+  "name": "Retribution",
+  "desc": "Gain ? Hands of Justice. Allies equipped with Hand of Justice gain Precision and ?% Critical Strike Chance.\n\n{{TFT_Keyword_Precision}}",
+  "icon": "164d33b72719272c.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT6_Augment_BandOfThieves2",
+  "tier": "B",
+  "name": "Band of Thieves II",
+  "desc": "Gain ? Thief's Gloves. After ? player combats, gain another.",
+  "icon": "8d537070830ed049.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_ComebackStory",
+  "tier": "B",
+  "name": "Comeback Story",
+  "desc": "Your team gains ? Health and ?% Attack Speed per missing player Health.\n\n?",
+  "icon": "92e05bd5c2276b9e.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_Flexible",
+  "tier": "B",
+  "name": "Flexible",
+  "desc": "Gain ? random Emblem. At the start of every Stage, gain a random Emblem. Your team gains ? Health for each Emblem they are holding.",
+  "icon": "6fdbb94a75209377.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT10_Augment_GoingLong",
+  "tier": "B",
+  "name": "Going Long",
+  "desc": "You no longer gain interest. Gain ? gold now. Round start: gain ? XP.\n\nInterest is extra gold you gain per 10g saved.",
+  "icon": "beb024107027d1b1.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_PrismaticDestinyPlus",
+  "tier": "B",
+  "name": "Prismatic Destiny+",
+  "desc": "Gain a random Prismatic Augment and ? gold.",
+  "icon": "0d36ae4ce0d303ba.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT9_Augment_HedgeFund",
+  "tier": "B",
+  "name": "Hedge Fund",
+  "desc": "Gain ? gold. Your max interest is increased to ?.\n\nInterest is extra gold you gain per 10g saved.",
+  "icon": "86a45dd864177237.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT9_Augment_GreaterJeweledLotus",
+  "tier": "B",
+  "name": "Jeweled Lotus II",
+  "desc": "Your team gains ?% Critical Strike Chance, ?% Critical Strike Damage, and Precision.\n\n{{TFT_Keyword_Precision}}",
+  "icon": "dcaa60f914b79af6.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT9_Augment_RollTheDice",
+  "tier": "B",
+  "name": "Radiant Rascal",
+  "desc": "Gain a Rascal's Gloves item. This equips 2 random Radiant items every round.\n\nRadiant items are very powerful versions of completed items.",
+  "icon": "39d8c0314e54f7dc.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_UpwardMobility",
+  "tier": "B",
+  "name": "Upward Mobility",
+  "desc": "Buying XP costs 1 less. Gain ? Health and ? free rerolls whenever you level up.",
+  "icon": "3b19db363cb273e5.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_MoneyMonsoon",
+  "tier": "B",
+  "name": "Money Monsoon",
+  "desc": "Gain ? gold now and every round for the rest of the game.",
+  "icon": "16983bcf6b408ec6.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT6_Augment_MaxLevel10",
+  "tier": "B",
+  "name": "Level Up!",
+  "desc": "When you buy XP, gain an additional ?. Gain ? immediately.",
+  "icon": "a2f5f3200d606936.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_BronzeForLife2",
+  "tier": "B",
+  "name": "Bronze For Life II",
+  "desc": "Your team gains ?% Damage Amp and ? Armor and Magic Resist for each Bronze-tier trait.\n\nDamage Amp: ?%\nArmor and Magic Resist: ?",
+  "icon": "548f13b4d2e6d679.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT11_Augment_TinyButDeadly",
+  "tier": "B",
+  "name": "Tiny, but Deadly",
+  "desc": "Your team becomes small, gaining ?% Attack Speed and Movement Speed.",
+  "icon": "745473bea33bb86a.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_TheVidalion",
+  "tier": "B",
+  "name": "Woven Magic",
+  "desc": "Gain a random item component. Every ? Mana your team spends grants an additional component (max ?/?).\n\nMana spent: ?/?",
+  "icon": "02aafb50c9faeb35.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT16_Augment_EarthAxiom",
+  "tier": "B",
+  "name": "Earth Axiom",
+  "desc": "Gain an Earth Hex. Champions within gain ? Armor and Magic Resist. At ?% Health, they Stun enemies within ? hexes for ? seconds.",
+  "icon": "03901e3add17c0dd.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT16_Augment_FireAxiom",
+  "tier": "B",
+  "name": "Fire Axiom",
+  "desc": "Gain a Fire Hex. Champions within gain ?% Attack Damage and Ability Power. Their damage ?% Burns and ?% Wounds for ? seconds.",
+  "icon": "89a6e0585685ced5.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT9_Augment_HedgeFundPlus",
+  "tier": "B",
+  "name": "Hedge Fund+",
+  "desc": "Gain ? gold. Your max interest is increased to ?.\n\nInterest is extra gold you gain per 10g saved.",
+  "icon": "86a45dd864177237.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT7_Augment_UrfsGrabBag2",
+  "tier": "B",
+  "name": "Urf's Grab Bag",
+  "desc": "Gain ? Spatula, ? random components, and ? gold.",
+  "icon": "e7aae13e684aee46.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT6_Augment_TradeSector2",
+  "tier": "B",
+  "name": "Commerce Core",
+  "desc": "Gain ? free Shop rerolls now and ? every round for the rest of the game.",
+  "icon": "ad13dad3a61b75f6.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT11_Augment_RainingGold",
+  "tier": "B",
+  "name": "Raining Gold",
+  "desc": "Gain ? gold now and ? gold every&nbsp;round.",
+  "icon": "784d475b1ff7fb83.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_ExplosiveGrowth",
+  "tier": "B",
+  "name": "Explosive Growth",
+  "desc": "Now and at the start of the next ? rounds, gain ? XP.",
+  "icon": "25b25dbbe761bc8a.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT7_Augment_BestFriends1",
+  "tier": "B",
+  "name": "Best Friends I",
+  "desc": "Allies isolated in pairs gain ?% Attack Speed and ? Armor and Magic Resist at the start of combat.",
+  "icon": "9de63b56c2534f5a.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT9_Augment_BardPlaybook1",
+  "tier": "B",
+  "name": "Caretaker's Ally",
+  "desc": "Gain a random ?-cost champion now. Gain the same one again every time you level up.\n\nChampion: ?",
+  "icon": "59b8b4d3d5b5ea30.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_WandOverflow",
+  "tier": "B",
+  "name": "Wand Overflow",
+  "desc": "Gain ? Needlessly Large Rods. Your Needlessly Large Rods grant +?% Attack Speed.",
+  "icon": "b1c9f724841d2a91.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_BeltOverflow",
+  "tier": "B",
+  "name": "Belt Overflow",
+  "desc": "Gain ? Giant's Belts. Your Giant's Belts grant +? bonus Health.",
+  "icon": "efea97a25848cb16.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT16_Augment_Targon_CosmicCalling",
+  "tier": "B",
+  "name": "Cosmic Calling",
+  "desc": "Gain a Spear of Shojin and a Leona. On Stage ?-?, gain a Taric.",
+  "icon": "84f8e51bf16fd1b5.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_ShojinSpirit",
+  "tier": "B",
+  "name": "Spear's Will",
+  "desc": "Your team gains ?% Attack Damage and ? Mana. Gain a B.F. Sword and a Tear of the Goddess.",
+  "icon": "490229ca25c2992c.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT6_Augment_HyperRoll",
+  "tier": "B",
+  "name": "Hustler",
+  "desc": "You no longer gain interest but gain ? gold at the start of every player combat round. Gain ? gold now.\n\nInterest is extra gold you gain per 10g saved.",
+  "icon": "d5fae60cebad2aa2.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_TheDarkinBlade",
+  "tier": "B",
+  "name": "Blood Offering",
+  "desc": "Gain a Bloodthirster. Combat start: Allies holding Bloodthirsters lose ?% Health but gain a ?% Health shield and ?% Attack Damage and Ability Power.",
+  "icon": "25014713c11be443.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT9_Augment_HealingOrbsII",
+  "tier": "B",
+  "name": "Healing Orbs II",
+  "desc": "When an enemy dies, the nearest ally is healed for ?.",
+  "icon": "9f63c5c8a41911b0.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_NineLives",
+  "tier": "B",
+  "name": "Nine Lives",
+  "desc": "Set your current and max player Health to ?. On combat loss, you only lose ? health and gain loot. You can't gain health.",
+  "icon": "5db5ee9124dd493a.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT16_Augment_WalkTheTruePathPlus",
+  "tier": "B",
+  "name": "Walk The True Path II",
+  "desc": "Gain ? Lesser Champion Duplicators, a Yasuo, and a B.F. Sword. Reach level 10 and field 10 unique Ionians to unlock a Prismatic Upgrade.",
+  "icon": "4744d67b2a028778.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_HardCommit",
+  "tier": "B",
+  "name": "Hard Commit",
+  "desc": "Gain a random Emblem. Now and at the start of each Stage, gain a 1-star champion of that trait with a cost equal to the Stage (max 5) and ? gold.",
+  "icon": "947f4b77f0f18f95.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT16_Augment_BandleBountyPlus",
+  "tier": "B",
+  "name": "Bandle Bounty II",
+  "desc": "For every Yordle you've unlocked or unlock, gain ? gold. Reach level 10 and field 10 unique Yordles to reveal the Bandle Path's secret. Gain a Tristana and Teemo.",
+  "icon": "b72b037c98cdb4a7.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT16_Augment_BandleBounty",
+  "tier": "B",
+  "name": "Bandle Bounty I",
+  "desc": "Reach level 10 and field 10 unique Yordles to reveal the Bandle Path's secret. Gain a Lulu and a Rumble.",
+  "icon": "1462f75967025d22.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_HeavyIsTheCrown",
+  "tier": "B",
+  "name": "Heavy Is the Crown",
+  "desc": "Gain a Crown of Demacia, which provides significant bonuses to the wearer. If the holder dies, lose the round.",
+  "icon": "d050c715d92bf2f8.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_MuseumHeist",
+  "tier": "B",
+  "name": "Component Heist",
+  "desc": "After ? player combats, gain 1 of every item component. Gain a random component now.\n\n? ?",
+  "icon": "d6095fe5a6db89e4.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT16_Augment_IllaoiCarry",
+  "tier": "B",
+  "name": "Leap of Faith",
+  "desc": "Gain an Illaoi. Your strongest Illaoi becomes a Fighter. Her Ability is replaced with an airborne slam that's recast when she kills her target.",
+  "icon": "0a6ef28aa2c54a97.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_GiantAndMighty",
+  "tier": "B",
+  "name": "Giant and Mighty",
+  "desc": "Your team becomes large, gaining ? Health and ?% max Health.",
+  "icon": "742fc8980f375df4.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_InvestedPlus",
+  "tier": "B",
+  "name": "Invested+",
+  "desc": "Gain ? gold. After every combat, gain 1 Shop reroll for every ? gold above ? (max ? gold).",
+  "icon": "90047c7c189add79.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_ArcaneViktory",
+  "tier": "B",
+  "name": "Arcane Viktor-y",
+  "desc": "After ? seconds of combat, stun the enemy team for ? seconds. Repeat this after ? seconds of combat.\n\nTFT Macao Open, 2024",
+  "icon": "52d3b13c753a2f37.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_GrowthMindset",
+  "tier": "B",
+  "name": "Growth Mindset",
+  "desc": "Gain ? XP.",
+  "icon": "1982288b99e47fc8.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT6_Augment_RadiantRelics",
+  "tier": "B",
+  "name": "Radiant Relics",
+  "desc": "Choose 1 of ? Radiant items. Gain a Magnetic Remover.\n\nRadiant items are very powerful versions of completed items.",
+  "icon": "d327058760d6ca32.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT16_TeamupAugment_AmbessaKindred",
+  "tier": "B",
+  "name": "Chosen Wolves",
+  "desc": "Gain an Ambessa and a Kindred. When Kindred casts, Ambessa always gains their protection against death and gains Attack Damage while protected. When Ambessa casts, Wolf strikes all enemies hit, dealing reduced damage.",
+  "icon": "81d526f3c491884f.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT17_Augment_TourOfTheGalaxy",
+  "tier": "B",
+  "name": "Tour of the Galaxy",
+  "desc": "Voyagers gain ? Health, ?% Attack Damage, and ?% Ability Power, increased by ?% each time you fight a new player. You prefer to fight players you haven't fought recently. Gain a Pyke and a Meepsie.",
+  "icon": "92aee17a8e8a2f50.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT6_Augment_ItemGrabBag1",
+  "tier": "B",
+  "name": "Item Grab Bag",
+  "desc": "Gain ? random completed item.",
+  "icon": "53db425686988e13.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT6_Augment_ForceOfNature",
+  "tier": "B",
+  "name": "New Recruit",
+  "desc": "Gain +? max team size and ? four-cost champion.",
+  "icon": "dce2f7efc888d861.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT16_Augment_DefenseOfIonia",
+  "tier": "B",
+  "name": "Defense of the Placidium",
+  "desc": "Your team gains ?% Durability, increased to ?% if the Ionia trait is active.",
+  "icon": "930bd0b7228e137e.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT9_Augment_DravenSpoilsOfWar",
+  "tier": "B",
+  "name": "Spoils of War I",
+  "desc": "Enemies have a ?% chance to drop loot when killed.",
+  "icon": "8204042cc7d3fb9d.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT16_Augment_NoxianInvasion",
+  "tier": "B",
+  "name": "Darkwill's Invasion",
+  "desc": "Your team gains ?% Damage Amp, increased to ?% if the Noxus trait is active.",
+  "icon": "e866414a4591e1de.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT16_Augment_WalkTheTruePath",
+  "tier": "B",
+  "name": "Walk The True Path I",
+  "desc": "Gain a Lesser Champion Duplicator and a Yasuo. Reach level 10 and field 10 unique Ionians to unlock a Prismatic Upgrade.",
+  "icon": "da6d4867f4a5502f.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_Trifecta2",
+  "tier": "B",
+  "name": "Trifecta II",
+  "desc": "Gain ? ?-cost champions. Allies gain ?% Attack Speed. \nCombat Start: ? random ?-cost champions gain ? Health and ?% Attack Speed.",
+  "icon": "6c1b82b34518a46f.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_OneBuffTwoBuff",
+  "tier": "B",
+  "name": "One Buff, Two Buff",
+  "desc": "Gain a Red Buff, a Blue Buff, and a Champion Duplicator.",
+  "icon": "454b14d325e78d0a.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_Trifecta1",
+  "tier": "B",
+  "name": "Trifecta I",
+  "desc": "Gain ? ?-cost champions.\nCombat Start: ? random ?-cost champions gain ? Health and ?% Attack Speed.",
+  "icon": "4c28f63fea090b7c.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_CraftedCrafting",
+  "tier": "B",
+  "name": "Crafted Crafting",
+  "desc": "Whenever you craft a completed item, gain ? rerolls.",
+  "icon": "835baad390822111.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_ClimbTheLadder1",
+  "tier": "B",
+  "name": "Climb The Ladder I",
+  "desc": "Each time an ally dies, allies that share at least one trait with them gain ?% Ability Power, ?% Attack Damage, ? Armor, and ? Magic Resist.",
+  "icon": "cd6eba5108cf7c1e.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_CognitiveTax",
+  "tier": "B",
+  "name": "Cognitive Tax",
+  "desc": "Gain ? gold and ? XP.",
+  "icon": "2051a33fba491ee6.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_CognitiveTaxPlus",
+  "tier": "B",
+  "name": "Cognitive Tax+",
+  "desc": "Gain ? gold and ? XP.",
+  "icon": "2051a33fba491ee6.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_FeelingLucky",
+  "tier": "B",
+  "name": "Feeling Lucky",
+  "desc": "Gain ? gold, then flip a coin. If heads, gain ? more gold.\n\n?",
+  "icon": "0bee0857b749722a.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_SizeMatters",
+  "tier": "B",
+  "name": "Size Matters",
+  "desc": "Gain a Giant's Belt. After a champion starts combat with more than ? max Health, gain a Warmog's Armor.",
+  "icon": "8f635197415154a6.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_TheTower",
+  "tier": "B",
+  "name": "The Tower",
+  "desc": "Gain a giant Training Dummy with increased Health (increases with Stage). Every ? seconds, it zaps the ? nearest enemies dealing ?% max Health true damage.",
+  "icon": "e06c6efac3db160d.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_MarksMan",
+  "tier": "B",
+  "name": "Focused Fire",
+  "desc": "Your team gains ?% Attack Damage. Every ? seconds, they gain ?% more.",
+  "icon": "f3e5c2af401647fa.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT11_Augment_Slammin",
+  "tier": "B",
+  "name": "Slammin'",
+  "desc": "Gain ? gold. After each player combat, if there are no items on your bench (other than consumables), gain ? XP.",
+  "icon": "5ce16a33ee6206eb.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_ItemSpiritVisage",
+  "tier": "B",
+  "name": "Spirit of Redemption",
+  "desc": "Gain a Spirit Visage. Every ? seconds, Spirit Visage heals allies within ? hex for ?% of their missing Health.",
+  "icon": "245591c77b604af2.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_ClimbTheLadder2",
+  "tier": "B",
+  "name": "Climb The Ladder II",
+  "desc": "Each time an ally dies, allies that share at least one trait with them gain ?% Ability Power, ?% Attack Damage, ? Armor, and ? Magic Resist.",
+  "icon": "1e88baaa7a1dfcb4.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_CognitiveOverload",
+  "tier": "B",
+  "name": "Cognitive Overload",
+  "desc": "Gain ? gold, ? 2-star 1-cost champion, ? 2-cost champion, ? 3-cost champions, ? XP, and ? Shop reroll.",
+  "icon": "67554c41f850ae9b.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT6_Augment_CyberneticImplants2",
+  "tier": "B",
+  "name": "Cybernetic Implants",
+  "desc": "Allies holding an item gain ? Health and ?% Attack Damage. Gain a B.F. Sword.",
+  "icon": "76152be9d5ebbc5e.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT6_Augment_CyberneticUplink2",
+  "tier": "B",
+  "name": "Cybernetic Uplink",
+  "desc": "Allies holding an item gain ? Health and ? Mana Regen. Gain a Tear of the Goddess.",
+  "icon": "72518f7baa9691d6.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_Warpath",
+  "tier": "B",
+  "name": "Warpath",
+  "desc": "Gain a 2-star 2-cost champion. After dealing ? player damage, gain a chest of high cost champions and items.\n(Current: ?)",
+  "icon": "540b34bada804798.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT17_Augment_EvelynnGodAugment",
+  "tier": "B",
+  "name": "Evelynn's Boon",
+  "desc": "Your team gains ?% Durability. Lose an additional ? Tactician Health when you lose combat.",
+  "icon": "b3b3c6d059c8cb42.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_MoneyHungry",
+  "tier": "B",
+  "name": "Money Hungry",
+  "desc": "Gain ? gold now, then ? gold at the start of every stage. Picking up gold makes your Tactician larger.",
+  "icon": "0c742f7d5ce1ba55.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT6_Augment_SunfireBoard",
+  "tier": "B",
+  "name": "Sunfire Board",
+  "desc": "Combat Start: Burn all enemies for ?% of their max Health over ? seconds and reduce healing received by ?%.",
+  "icon": "8b203b50e35c76c8.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT9_Augment_BuildingACollectionPlusPlus",
+  "tier": "B",
+  "name": "Buried Treasures",
+  "desc": "Gain a random item component now and at the start of the next ? rounds.",
+  "icon": "43553ed0468b5df2.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT7_Augment_CursedCrown",
+  "tier": "B",
+  "name": "Cursed Crown",
+  "desc": "Gain +? max team size and your team gains ?% Durability, but you take double player damage when you lose a player combat.",
+  "icon": "bd06fe5143b12f95.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_ExclusiveCustomization2",
+  "tier": "B",
+  "name": "Exclusive Customization II",
+  "desc": "Gain ? Lucky Item Chests, a Magnetic Remover, and ? gold.\n\nUse a Lucky Item Chest on a champion to choose from an armory of recommended items!",
+  "icon": "2ff51ca88b9f0922.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT17_Augment_Arbiter_DivineAmendment",
+  "tier": "B",
+  "name": "Divine Amendment",
+  "desc": "Arbiters add a second effect to their law.\nGain a Leona and a Zoe.",
+  "icon": "105cba40274d4d73.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_JustSlayer",
+  "tier": "B",
+  "name": "Indiscriminate Killer",
+  "desc": "Gain a Giant Slayer. Giant Slayers gain their Damage Amp against all enemies instead of just Tanks.",
+  "icon": "cbbebb63a1887e2b.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT11_Augment_Epoch",
+  "tier": "B",
+  "name": "Epoch",
+  "desc": "Now, and at the start of every stage, gain ? XP and ? free rerolls.",
+  "icon": "800c53b1576cd3a4.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT17_Augment_SorakaGodAugment",
+  "tier": "B",
+  "name": "Soraka's Boon",
+  "desc": "Your team gains ? Health for each missing player health. At the start of each player combat, gain an additional ? player health.",
+  "icon": "e32bcc886f7b1e4c.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT17_Augment_AurelionSolGodAugment",
+  "tier": "B",
+  "name": "Aurelion Sol's Boon",
+  "desc": "Choose 1 of ? quests to prove yourself to Aurelion Sol.\n\nChosen Quest: ?",
+  "icon": "1a01da6ed3f0e030.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_ForgeAFriend",
+  "tier": "B",
+  "name": "Forge a Friend",
+  "desc": "The next 1-cost champion you buy is 3-star. Gain ? gold.",
+  "icon": "40bec91e80745017.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT17_Augment_YasuoGodAugment_GoldenHex",
+  "tier": "B",
+  "name": "Yasuo's Golden Hex",
+  "desc": "Paint a Golden Hex. The unit in the hex gains ? health, ?% attack speed, and drops ? gold on kill.",
+  "icon": "35474a7303358f05.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT17_Augment_PoppyCarry",
+  "tier": "B",
+  "name": "Termeepnal Velocity",
+  "desc": "Gain a Poppy. Your strongest Poppy becomes a ranged Attack Caster that flings a high-velocity Meep at her target.",
+  "icon": "00ea091779ead539.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_FindYourCenter",
+  "tier": "B",
+  "name": "Find Your Center",
+  "desc": "Your champion that starts combat in the center of the front row gains ?% Damage Amp and ?% max Health.",
+  "icon": "35474a7303358f05.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_WeStickTogether",
+  "tier": "B",
+  "name": "We Stick Together",
+  "desc": "Gain a random Emblem and a completed item anvil. Allies that share a trait with that Emblem gain ?% Attack Speed. ?\n\nInto The Arcane Tactician's Crown, 2025",
+  "icon": "5635b68001bc9958.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT17_Augment_LeonaCarry",
+  "tier": "B",
+  "name": "Shieldmaiden",
+  "desc": "Gain a Leona. Your strongest Leona becomes an Attack Fighter that dashes through enemies to deal physical damage, stunning the first target hit.",
+  "icon": "267d9d3c6f159d0a.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_PowerUp",
+  "tier": "B",
+  "name": "Augmented Power",
+  "desc": "Your next augment is one tier higher.",
+  "icon": "339cabf4874f14e3.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT10_Augment_GoodForSomethingSilver",
+  "tier": "B",
+  "name": "Good For Something I",
+  "desc": "Champions that aren't holding items have a ?% chance to drop ? gold on death.",
+  "icon": "ae523343fc04cd5a.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_ComponentQuestBelt",
+  "tier": "B",
+  "name": "Extra Buckles",
+  "desc": "Gain a Giant's Belt. After your team takes ? damage, gain ? more.\n\nDamage taken: ?",
+  "icon": "a536ae176c5a4c2d.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT6_Augment_ForceOfNaturePlus",
+  "tier": "B",
+  "name": "New Recruit+",
+  "desc": "Gain +? max team size and ? four-cost champions.",
+  "icon": "dce2f7efc888d861.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT17_Augment_IvernMinionCarry",
+  "tier": "B",
+  "name": "The Big Bang",
+  "desc": "Gain a Meepsie. Your strongest Meepsie becomes a Magic Fighter that leaps to a nearby hex to deal damage in a large radius.",
+  "icon": "849b21bb1779ccd5.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT7_Augment_BirthdayPresents",
+  "tier": "B",
+  "name": "Birthday Present",
+  "desc": "Gain a 2-star champion and ? gold every time you level up. The champion's cost tier is your level minus 4 (max: 5-cost).",
+  "icon": "b6f1fd73b5747a01.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_FeedTheFlames",
+  "tier": "B",
+  "name": "Feed the Flames",
+  "desc": "Gain a Sunfire Cape. Your team gains ?% Omnivamp when attacking Burning enemies.",
+  "icon": "89846434baea25be.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT9_Augment_Commander_Ascension",
+  "tier": "B",
+  "name": "Ascension",
+  "desc": "After ? seconds of combat, your team gains ?% Damage Amp.",
+  "icon": "2f345f5b9766e951.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT17_Augment_GragasCarry",
+  "tier": "B",
+  "name": "Self Destruct",
+  "desc": "Gain a Gragas. Your strongest Gragas becomes a Magic Fighter with a massive explosion, but also damages himself.",
+  "icon": "e848e9098b899155.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_CalledShot",
+  "tier": "C",
+  "name": "Called Shot",
+  "desc": "Set your win streak to ?. Gain ? gold.",
+  "icon": "cd05a8910df0ef02.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_ChaosEvolution",
+  "tier": "C",
+  "name": "Chaotic Evolution",
+  "desc": "Starring up a champion grants them one of the following: ? Health, ?% Durability, ?% Ability Power, ?% Attack Damage, ?% Attack Speed. Bonuses stack.",
+  "icon": "eec901bec6cb0f11.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_EfficientShopper",
+  "tier": "C",
+  "name": "Efficient Shopper",
+  "desc": "For the next ? carousels, gain a second copy of the champion taken. Gain ? gold now.",
+  "icon": "df17d874e94179a4.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT6_Augment_Recombobulator",
+  "tier": "C",
+  "name": "Recombobulator",
+  "desc": "Champions on your board permanently transform into random champions 1 cost tier higher (max 5). Gain ? Magnetic Removers and ? rerolls.",
+  "icon": "40e0bf6027482977.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT6_Augment_ClearMind",
+  "tier": "C",
+  "name": "Clear Mind",
+  "desc": "If there are no champions on your bench at the end of player combat, gain ? XP.",
+  "icon": "937153bed361cf98.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT7_Augment_Preparation2",
+  "tier": "C",
+  "name": "Preparation II",
+  "desc": "Champions on your bench permanently gain ? Health, ?% Attack Damage, and ?% Ability Power every round. Champions start with ? stack of this effect, and can stack up to ? times.",
+  "icon": "b8c9f3af409ec2bc.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT16_TeamupAugment_SingedTeemo",
+  "tier": "C",
+  "name": "Poison Pals",
+  "desc": "Gain a 2-star Teemo. Singed's damage refreshes Teemo's poisons, and every ? magic damage Teemo deals grants your strongest Singed ?% Ability Power. Gain a Teemo after each player combat.",
+  "icon": "7429c3797d4b30df.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT9_Augment_DravenSpoilsOfWar2",
+  "tier": "C",
+  "name": "Spoils of War II",
+  "desc": "Enemies have a ?% chance to drop loot when killed.",
+  "icon": "3f390da23bff4831.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT6_Augment_CelestialBlessing3",
+  "tier": "C",
+  "name": "Celestial Blessing III",
+  "desc": "Your team gains ?% Omnivamp. Excess healing is converted to a shield up to ? Health.",
+  "icon": "b6c32b6a4cdd85d0.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT9_Augment_StarterKit",
+  "tier": "C",
+  "name": "Starter Kit",
+  "desc": "Gain a 4-cost champion, a 2-star 1-cost champion that shares a trait with them, and ? gold.\n\nAt the start of the next ? stages, gain that 4-cost champion again.",
+  "icon": "7f103a4e1740ba7b.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT6_Augment_TheGoldenEgg",
+  "tier": "C",
+  "name": "The Golden Egg",
+  "desc": "Gain a golden egg that hatches in ? turns for a huge amount of loot. Winning player combat speeds up the hatch timer by an extra turn.",
+  "icon": "066db621a2a5d424.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_WinOut",
+  "tier": "C",
+  "name": "Win Out",
+  "desc": "When you reach level 9, immediately level to 10 and gain ? free Shop rerolls. Gain ? XP now.",
+  "icon": "fdd7fc7d711575b6.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT16_Augment_TheAxiomata",
+  "tier": "C",
+  "name": "The Axiomata",
+  "desc": "Gain ? random elemental hex augments. Future augment rounds instead grant you items and gold based on the augment's tier.",
+  "icon": "3ee8b180d8223c02.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT16_Augment_WoodAxiom",
+  "tier": "C",
+  "name": "Wood Axiom",
+  "desc": "Gain a Wood Hex. Champions within gain ?% max Health. After combat, they permanently gain ? Health.",
+  "icon": "927419993f7d45a8.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_PromisedProtection",
+  "tier": "C",
+  "name": "Promised Protection",
+  "desc": "Gain a Protector's Vow. Protector's Vow grants its holder ?% additional Mana from all sources.",
+  "icon": "87c8fffb97f576de.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT16_Augment_Arcanist_ChaosMagic",
+  "tier": "C",
+  "name": "Chaos Magic",
+  "desc": "Arcanists gain ? Mana Regen. After every ? Mana they spend, a magical effect hits the board. Gain a Neeko and an Ahri.",
+  "icon": "187ed36af41cdb7c.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_ComponentQuestGlove",
+  "tier": "C",
+  "name": "Critical Success",
+  "desc": "Gain a Sparring Glove. After your team's attacks critically strike ? times, gain ? more.\n\nCritical strikes: ?",
+  "icon": "451281dad671fb38.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT16_Augment_Yordle_WildGrowth",
+  "tier": "C",
+  "name": "Wild Growth",
+  "desc": "3-star Yordles become massive, moving slower but gaining ?% Health and ?% Attack Damage and Ability Power. Gain a Rumble and Lulu.",
+  "icon": "548dd5097f01d902.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT6_Augment_BinaryAirdrop",
+  "tier": "C",
+  "name": "Binary Airdrop",
+  "desc": "Combat start: Champions holding 2 items gain a random 3rd completed item. Gain ? random component now.",
+  "icon": "628dbf446f4f370b.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_LuxurySubscription",
+  "tier": "C",
+  "name": "Luxury Subscription",
+  "desc": "Gain a package containing a 5-cost champion, a 2-star 1-cost champion, and ? gold.\n\nAt the start of the next ? stages, gain the package again.",
+  "icon": "f0b359bf544838e8.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT7_Augment_Preparation",
+  "tier": "C",
+  "name": "Preparation I",
+  "desc": "Champions on your bench permanently gain ? Health, ?% Attack Damage, and ?% Ability Power every round. Champions start with ? stack of this effect, and can stack up to ? times.",
+  "icon": "74a31ed275d64be1.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT16_Augment_Shurima_SecretsOfTheSands",
+  "tier": "C",
+  "name": "Secrets of the Sands",
+  "desc": "Gain ? gold. Gain an Azir on Stage ?-?. Each time you unlock a Shuriman, gain an ideal item for them.",
+  "icon": "b309e7f9d5a6cd2d.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_Dhampyr1",
+  "tier": "C",
+  "name": "Vampiric Vitality I",
+  "desc": "You heal for ?% of the damage you deal to enemy Tacticians. Your team gains ?% Omnivamp.",
+  "icon": "0e0fdebae4121080.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_Pilfer",
+  "tier": "C",
+  "name": "Pilfer",
+  "desc": "Each round, gain a 1-star copy of the first champion you killed last combat. The first time you gain ? gold worth of champions in this way, gain a Thief's Gloves. ?",
+  "icon": "7e36394d9c597a74.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT16_Augment_XinZhaoCarryII",
+  "tier": "C",
+  "name": "Trials of Twilight II",
+  "desc": "Gain ? Xin Zhao and a Bloodthirster. Xin Zhao becomes an Attack Fighter. After ? player combats as a 3-star, unlock Zaahen. \n\nAt the start of the next ? stages, gain a Lesser Champion Duplicator.",
+  "icon": "272fe2337ca63213.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT11_Augment_BloodBank",
+  "tier": "C",
+  "name": "Lunch Money",
+  "desc": "Every ? damage you deal to enemy tacticians gives you ? gold.\nTotal Payouts: ? Gold",
+  "icon": "21f8594dba7d288d.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT16_Augment_Piltover_HexgateTravel",
+  "tier": "C",
+  "name": "Hexgate Travel",
+  "desc": "When the Piltover invention triggers for the first time each combat, gain a random number of Piltover champions that cost between 1 and ? gold. Gain a Caitlyn and a Vi.",
+  "icon": "6552073676376f02.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT6_Augment_Twins2",
+  "tier": "C",
+  "name": "Double Trouble",
+  "desc": "When you field exactly 2 copies of a champion, they both gain ?% Attack Damage and ?% Ability Power, Armor, and Magic Resist. When you 3-star, gain a 2-star copy.",
+  "icon": "5969f61b2047d4ee.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT16_TeamupAugment_LucianVayne",
+  "tier": "C",
+  "name": "Sentinels of Light",
+  "desc": "Gain a Lucian & Senna and a 2-star Vayne. Vayne fires additional bolts at enemies afflicted with Black Mist and on takedown, grants Attack Speed to Lucian & Senna.",
+  "icon": "b721b351d371bb42.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT16_Augment_XinZhaoCarry",
+  "tier": "C",
+  "name": "Trials of Twilight",
+  "desc": "Gain ? Xin Zhao. Your strongest Xin Zhao constantly strikes nearby enemies and executes enemies. After ? player combats as a 3-star, unlock Zaahen. He replaces Xin Zhao and takes his items.",
+  "icon": "272fe2337ca63213.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT9_Augment_OneTwosThree",
+  "tier": "C",
+  "name": "One Two Three",
+  "desc": "Gain ? 1-cost champion, ? 2-cost champion, and 1 3-cost champion.",
+  "icon": "d00bdaefa1d796dd.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT_Augment_Dhampyr2",
+  "tier": "C",
+  "name": "Vampiric Vitality II",
+  "desc": "You heal for ?% of the damage you deal to enemy Tacticians. Your team gains ?% Omnivamp.",
+  "icon": "0e0fdebae4121080.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT11_Augment_AtWhatCost",
+  "tier": "C",
+  "name": "At What Cost",
+  "desc": "Immediately go to level ? and gain ? XP. You don't get to choose your future augments.",
+  "icon": "6dec6b028fcdcfe7.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_SubscriptionService",
+  "tier": "C",
+  "name": "Subscription Service",
+  "desc": "Now and at the start of each Stage, open a Shop of 4 unique 4-cost champions and gain ? gold.",
+  "icon": "7e965f41792232aa.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT11_Augment_Buildabud",
+  "tier": "C",
+  "name": "Build a Bud",
+  "desc": "Gain a random 3-star 1-cost champion. Gain ? gold.",
+  "icon": "40bec91e80745017.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_SideEffects",
+  "tier": "C",
+  "name": "Side Effects",
+  "desc": "When an ally is healed, they deal ?% of the healing to their target as magic damage. Every ? seconds, allies heal for ?% of their max Health.",
+  "icon": "ffb8cc0a77b0661f.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_HighVoltage",
+  "tier": "C",
+  "name": "High Voltage",
+  "desc": "Gain an Ionic Spark. Your Ionic Sparks have +? hex radius and do ?% more damage.",
+  "icon": "fef73e435f7c0659.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT17_Augment_MordekaiserCarry",
+  "tier": "C",
+  "name": "Heat Death",
+  "desc": "Gain a Mordekaiser. Your strongest Mordkaiser becomes a Magic Fighter with a slowly growing aura that deals damage over time.",
+  "icon": "000d0e53b4f2e6db.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_CryMeARiver",
+  "tier": "C",
+  "name": "Cry Me A River",
+  "desc": "Gain a Tear of the Goddess. Your team gains ? Mana Regen. After ? seconds in combat, increase this to ?.",
+  "icon": "636bee337c4527be.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT9_Augment_YouHaveMyBow",
+  "tier": "C",
+  "name": "You Have My Bow",
+  "desc": "Gain a Recurve Bow. Your team gains ?% Attack Speed.",
+  "icon": "be6375d3d503d76a.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_SpeedyDoubleKill",
+  "tier": "C",
+  "name": "Speedy Double Kill",
+  "desc": "Gain a Guinsoo's Rageblade. When 2 players are eliminated, gain ? gold.\n\nFates Championship, 2021",
+  "icon": "1640bf94eef0be9b.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT17_Augment_NasusCarry",
+  "tier": "C",
+  "name": "Bonk!",
+  "desc": "Gain a Nasus. Your strongest Nasus becomes an Attack Fighter with a single target Ability that gets stronger with each kill.",
+  "icon": "b4c2c395f7ebcc98.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT17_Augment_PykeCarry",
+  "tier": "C",
+  "name": "Contract Killer",
+  "desc": "Gain a Pyke. Your strongest Pyke becomes an Attack Fighter, generates gold on team takedown, and gains a reset on-kill Ability.",
+  "icon": "d8d8f85632094fcd.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT_Augment_ClockworkAccelerator",
+  "tier": "C",
+  "name": "Clockwork Accelerator",
+  "desc": "Your team gains ?% Attack Speed every ? seconds in combat.",
+  "icon": "cb482e2cd2169141.png",
+  "rarity": "gold"
+ },
+ {
+  "id": "TFT17_Augment_PrimordianPrismaticAugment",
+  "tier": "C",
+  "name": "Heart of the Swarm",
+  "desc": "All 3-star champions now count towards Swarmling power. At level ?, while fielding ? unique 3-star champions, Primordians summon the Apex Primordian. Gain 3 Primordian Champions and 2 Tiny Duplicators.\n\nUnique 3-Star Champions Fielded: ? / ?\n\nLevels: ? / ?",
+  "icon": "a02c130b5fde0517.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_ComponentQuestTear",
+  "tier": "C",
+  "name": "Flowing Tears",
+  "desc": "Gain a Tear of the Goddess. After your team spends ? Mana, gain ? more.\n\nMana spent: ?",
+  "icon": "16b6840210385018.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT17_Augment_AatroxCarry",
+  "tier": "C",
+  "name": "Stellar Combo",
+  "desc": "Gain an Aatrox. Your strongest Aatrox becomes an Attack Fighter with an ability that swaps between three different strikes.",
+  "icon": "384c34d557af1404.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT9_Augment_DravenSpoilsOfWar3",
+  "tier": "D",
+  "name": "Spoils of War III",
+  "desc": "Enemies have a ?% chance to drop loot when killed.",
+  "icon": "8ffaa99bdf9d3a0b.png",
+  "rarity": "prismatic"
+ },
+ {
+  "id": "TFT_Augment_Survivor",
+  "tier": "D",
+  "name": "Survivor",
+  "desc": "Gain ? gold. After ? players are eliminated, gain ? more gold.",
+  "icon": "13dac34306f63972.png",
+  "rarity": "silver"
+ },
+ {
+  "id": "TFT17_Augment_Timebreaker_Timestream",
+  "tier": "D",
+  "name": "Timestream",
+  "desc": "Your team gains ? Health. Timebreakers gain ? Health and ?% Attack Speed every time you reroll (including free rerolls). Gain an Ezreal and a Pantheon.\n\n(Health: ?, Attack Speed: ?%)",
+  "icon": "bb529cb5bb9854ad.png",
+  "rarity": "gold"
+ }
+]

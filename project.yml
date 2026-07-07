@@ -1,0 +1,36 @@
+name: TFTOverlay
+options:
+  bundleIdPrefix: com.diegomanzano
+  deploymentTarget:
+    macOS: "14.0"
+  createIntermediateGroups: true
+
+settings:
+  base:
+    SWIFT_VERSION: "5.10"
+    # Ad-hoc signing: runs locally, no provisioning needed
+    CODE_SIGN_STYLE: Manual
+    CODE_SIGN_IDENTITY: "-"
+    CURRENT_PROJECT_VERSION: 1
+    MARKETING_VERSION: "0.1"
+
+targets:
+  TFTOverlay:
+    type: application
+    platform: macOS
+    sources:
+      - path: TFTOverlay
+        excludes:
+          - "Resources/Icons"
+      - path: TFTOverlay/Resources/Icons
+        type: folder
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.diegomanzano.tftoverlay
+    info:
+      path: TFTOverlay/Info.plist
+      properties:
+        CFBundleDisplayName: TFT Overlay
+        CFBundleIconFile: AppIcon
+        LSUIElement: true # menu-bar app, no Dock icon
+        NSSupportsAutomaticTermination: false

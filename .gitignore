@@ -1,0 +1,5 @@
+build/
+scripts/raw/
+.DS_Store
+*.xcuserdata
+xcuserdata/

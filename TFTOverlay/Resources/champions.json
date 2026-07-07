@@ -1,0 +1,322 @@
+[
+ {
+  "name": "Aatrox",
+  "cost": 1,
+  "icon": "40d07f95918439d0.png"
+ },
+ {
+  "name": "Briar",
+  "cost": 1,
+  "icon": "749b80b1a6fbb34f.png"
+ },
+ {
+  "name": "Caitlyn",
+  "cost": 1,
+  "icon": "ab32860ecf751ff7.png"
+ },
+ {
+  "name": "Cho'Gath",
+  "cost": 1,
+  "icon": "414c42d611d29a42.png"
+ },
+ {
+  "name": "Ezreal",
+  "cost": 1,
+  "icon": "b57e9fff19cf4dae.png"
+ },
+ {
+  "name": "Leona",
+  "cost": 1,
+  "icon": "d164ec04180efe98.png"
+ },
+ {
+  "name": "Lissandra",
+  "cost": 1,
+  "icon": "7eaaf88dd16f634a.png"
+ },
+ {
+  "name": "Nasus",
+  "cost": 1,
+  "icon": "a59c758a391e4a54.png"
+ },
+ {
+  "name": "Poppy",
+  "cost": 1,
+  "icon": "4cc40ff276f69749.png"
+ },
+ {
+  "name": "Rek'Sai",
+  "cost": 1,
+  "icon": "ca434ab02afa2e31.png"
+ },
+ {
+  "name": "Talon",
+  "cost": 1,
+  "icon": "909153a8f061a4ee.png"
+ },
+ {
+  "name": "Teemo",
+  "cost": 1,
+  "icon": "2f76af333babec74.png"
+ },
+ {
+  "name": "Twisted Fate",
+  "cost": 1,
+  "icon": "a2dd3ad10043704c.png"
+ },
+ {
+  "name": "Veigar",
+  "cost": 1,
+  "icon": "7849e00fffcca4e8.png"
+ },
+ {
+  "name": "Akali",
+  "cost": 2,
+  "icon": "89aee7e6a05038f5.png"
+ },
+ {
+  "name": "Bel'Veth",
+  "cost": 2,
+  "icon": "fe35b1559bb672e9.png"
+ },
+ {
+  "name": "Gnar",
+  "cost": 2,
+  "icon": "1b2db4a2b2cb99c7.png"
+ },
+ {
+  "name": "Gragas",
+  "cost": 2,
+  "icon": "b5fef7f95ca45237.png"
+ },
+ {
+  "name": "Gwen",
+  "cost": 2,
+  "icon": "df43c1fce6fb8c4e.png"
+ },
+ {
+  "name": "Jax",
+  "cost": 2,
+  "icon": "c19fa2745cff53ca.png"
+ },
+ {
+  "name": "Jinx",
+  "cost": 2,
+  "icon": "29c0eb3f0041ab3c.png"
+ },
+ {
+  "name": "Meepsie",
+  "cost": 2,
+  "icon": "032f98373db49a13.png"
+ },
+ {
+  "name": "Milio",
+  "cost": 2,
+  "icon": "f4a78615b9f0d55d.png"
+ },
+ {
+  "name": "Mordekaiser",
+  "cost": 2,
+  "icon": "542c0e9838a507ec.png"
+ },
+ {
+  "name": "Pantheon",
+  "cost": 2,
+  "icon": "4ac007b484678b2b.png"
+ },
+ {
+  "name": "Pyke",
+  "cost": 2,
+  "icon": "e535b48e11f9d7de.png"
+ },
+ {
+  "name": "Zoe",
+  "cost": 2,
+  "icon": "96e4782903d226ce.png"
+ },
+ {
+  "name": "Aurora",
+  "cost": 3,
+  "icon": "14a63f881bae1b5c.png"
+ },
+ {
+  "name": "Diana",
+  "cost": 3,
+  "icon": "fe603118f10f8fd1.png"
+ },
+ {
+  "name": "Fizz",
+  "cost": 3,
+  "icon": "fe0b754b94d64807.png"
+ },
+ {
+  "name": "Illaoi",
+  "cost": 3,
+  "icon": "7077301beb5a4e7a.png"
+ },
+ {
+  "name": "Kai'Sa",
+  "cost": 3,
+  "icon": "576920015eb9c661.png"
+ },
+ {
+  "name": "Lulu",
+  "cost": 3,
+  "icon": "6204198317475435.png"
+ },
+ {
+  "name": "Maokai",
+  "cost": 3,
+  "icon": "2b4092a49e9cab12.png"
+ },
+ {
+  "name": "Miss Fortune",
+  "cost": 3,
+  "icon": "c486f498cd9ee7d6.png"
+ },
+ {
+  "name": "Ornn",
+  "cost": 3,
+  "icon": "2f2239a29562bbf3.png"
+ },
+ {
+  "name": "Rhaast",
+  "cost": 3,
+  "icon": "6642b4c8453fa74b.png"
+ },
+ {
+  "name": "Samira",
+  "cost": 3,
+  "icon": "55f971d4378406e5.png"
+ },
+ {
+  "name": "Urgot",
+  "cost": 3,
+  "icon": "19104738c6382f82.png"
+ },
+ {
+  "name": "Viktor",
+  "cost": 3,
+  "icon": "ab8031cbcc69c304.png"
+ },
+ {
+  "name": "Aurelion Sol",
+  "cost": 4,
+  "icon": "a93af0f5f6773a33.png"
+ },
+ {
+  "name": "Corki",
+  "cost": 4,
+  "icon": "f77bc00e672058dc.png"
+ },
+ {
+  "name": "Karma",
+  "cost": 4,
+  "icon": "1be9b903e2d38f13.png"
+ },
+ {
+  "name": "Kindred",
+  "cost": 4,
+  "icon": "c76b55300523212d.png"
+ },
+ {
+  "name": "LeBlanc",
+  "cost": 4,
+  "icon": "9153c0807ab5c7ea.png"
+ },
+ {
+  "name": "Master Yi",
+  "cost": 4,
+  "icon": "fc6bc5c04abc477e.png"
+ },
+ {
+  "name": "Morgana",
+  "cost": 4,
+  "icon": "fe400a2bb06fdcc4.png"
+ },
+ {
+  "name": "Nami",
+  "cost": 4,
+  "icon": "8b670f32cf866454.png"
+ },
+ {
+  "name": "Nunu & Willump",
+  "cost": 4,
+  "icon": "a17fca0f62da3830.png"
+ },
+ {
+  "name": "Rammus",
+  "cost": 4,
+  "icon": "f90cb6380e0f293d.png"
+ },
+ {
+  "name": "Riven",
+  "cost": 4,
+  "icon": "5a207e124dc36d66.png"
+ },
+ {
+  "name": "Tahm Kench",
+  "cost": 4,
+  "icon": "2d597e4bb4f136ed.png"
+ },
+ {
+  "name": "The Mighty Mech",
+  "cost": 4,
+  "icon": "bd5fed58061b7b8b.png"
+ },
+ {
+  "name": "Xayah",
+  "cost": 4,
+  "icon": "704e088b2998520c.png"
+ },
+ {
+  "name": "Bard",
+  "cost": 5,
+  "icon": "aac2357d6d68b0bc.png"
+ },
+ {
+  "name": "Blitzcrank",
+  "cost": 5,
+  "icon": "55fd66e9e799936e.png"
+ },
+ {
+  "name": "Fiora",
+  "cost": 5,
+  "icon": "9e3ae8bbc645ccfb.png"
+ },
+ {
+  "name": "Galio",
+  "cost": 5,
+  "icon": "b2308e9e678457fc.png"
+ },
+ {
+  "name": "Graves",
+  "cost": 5,
+  "icon": "170dc6903451540d.png"
+ },
+ {
+  "name": "Jhin",
+  "cost": 5,
+  "icon": "a565acc29322bdac.png"
+ },
+ {
+  "name": "Shen",
+  "cost": 5,
+  "icon": "4a6986ec1fae86a1.png"
+ },
+ {
+  "name": "Sona",
+  "cost": 5,
+  "icon": "90832d533b8cebce.png"
+ },
+ {
+  "name": "Vex",
+  "cost": 5,
+  "icon": "b86c8163e45661fc.png"
+ },
+ {
+  "name": "Zed",
+  "cost": 5,
+  "icon": "e6a0cfee6d012733.png"
+ }
+]
